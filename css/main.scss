@@ -4,18 +4,18 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Source Code Pro", "Monaco", "Inconsolata", "Consolas", monospace;
+$base-font-family: "PT Serif", "Georgia", sans-serif;
 $header-font-family: "Montserrat", "Helvetica Neue", "Proxima Nova", sans-serif;
-$base-font-size:   16px;
+$base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 2em;
 
 $spacing-unit:     30px;
 
-$text-color:       #000333;
+$text-color:       #333;
 $background-color: #fff;
-$brand-color:      #16ba12;
+$brand-color:      #903;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
