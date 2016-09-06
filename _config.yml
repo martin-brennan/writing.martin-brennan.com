@@ -1,0 +1,34 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Martin Brennan
+email: mjrbrennan@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I’m Martin Brennan, and I’m a full stack software engineer based in Brisbane, Australia.
+  I primarily enjoy working with C# and JavaScript but I’m always seeking ways to expand my
+  knowledge and learn about new tools, languages and frameworks. In addition to software development,
+  my other loves include reading, writing, music, cycling, hiking, my lovely fiancé and our two sons!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.martin-brennan.com" # the base hostname & protocol for your site
+twitter_username: mjrbrennan
+github_username:  martin-brennan
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-paginate
+twitter:
+  username: mjrbrennan
+author: mjrbrennan
+comments: true
+excerpt_separator: <!--more-->
+paginate: 10
+future: true

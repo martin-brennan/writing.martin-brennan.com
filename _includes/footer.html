@@ -1,0 +1,40 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>Contact</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-4">
+        <p>I’m Martin Brennan, and I’m a full stack software engineer based in Brisbane, Australia.
+        I primarily enjoy working with C# and JavaScript but I’m always seeking ways to expand my
+        knowledge and learn about new tools, languages and frameworks.</p>
+
+        <p>In addition to software development,
+        my other loves include reading, writing, music, cycling, hiking, my lovely fiancé and our two sons!</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

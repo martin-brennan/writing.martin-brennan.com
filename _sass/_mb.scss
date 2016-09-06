@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('/fonts/icomoon.eot?14jmb3');
+    src:    url('/fonts/icomoon.eot?14jmb3#iefix') format('embedded-opentype'),
+        url('/fonts/icomoon.ttf?14jmb3') format('truetype'),
+        url('/fonts/icomoon.woff?14jmb3') format('woff'),
+        url('/fonts/icomoon.svg?14jmb3#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-email:before {
+    content: "\e945";
+}
+.icon-facebook:before {
+    content: "\ea90";
+}
+.icon-twitter:before {
+    content: "\ea96";
+}
+.icon-comment:before {
+    content: "\e96b";
+}
+.icon-info:before {
+    content: "\ea0c";
+}
+
+.share, .share:visited {
+  border-bottom: 0px !important;
+  color: $text-color;
+
+  &.fb {
+    color: #3b5998;
+  }
+  &.tw {
+    color: #00aced;
+  }
+  &.cm {
+    color: #ef71dd;
+  }
+}
+
+.navigation {
+  width: 100%;
+}
+
+.inline-image-wrap {
+  text-align: center;
+  img {
+    display: inline-block;
+  }
+}

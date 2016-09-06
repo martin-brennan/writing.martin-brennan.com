@@ -1,0 +1,7 @@
+<p class="post-meta">
+  <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y @ %l:%M%p" }}</time> |
+  <a class="share tw" href="https://twitter.com/intent/tweet?text=Check%20out%20{{ page.title }}%20at%20{{ site.url }}{{ page.permalink }}"><span class="icon-twitter"></span></a>
+  <a class="share fb" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.permalink }}&p[title]={{ page.title }}"><span class="icon-facebook"></span></a>
+  <a class="share cm" href="#disqus_thread"><span class="icon-comment"></span></a>
+  <a class="share" href="mailto:?subject={{ page.title }} at martin-brennan.com"><span class="icon-email"></span></a>
+</p>
