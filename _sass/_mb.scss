@@ -29,6 +29,39 @@ a {
 
 .post-content {
   p:first-child:first-letter { float: left; color: $brand-color; font-size: 66px; line-height: 68px; padding-top: 4px; padding-right: 8px; padding-left: 3px; }
+  max-width: calc(1000px - (30px * 2));
+}
+
+.post-nav {
+  display: flex;
+  padding: 20px;
+
+  .next, .prev {
+    flex: 1;
+  }
+
+  .next {
+    text-align: right;
+  }
+}
+
+.home-link {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  color: white;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+  font-size: 140%;
+
+  &:hover {
+    text-decoration: none;
+    color: $brand-color;
+  }
+}
+
+.wrapper {
+  max-width: calc(900px - (30px * 2));
 }
 
 .first-letter { float: left; color: $brand-color; font-size: 66px; line-height: 68px; padding-top: 4px; padding-right: 8px; padding-left: 3px; }
@@ -93,19 +126,22 @@ blockquote {
 }
 
 .icon-email:before {
-    content: "\e945";
+  content: "\e900";
+}
+.icon-home:before {
+  content: "\e902";
+}
+.icon-arrow-right:before {
+  content: "\ea42";
+}
+.icon-arrow-left:before {
+  content: "\ea44";
 }
 .icon-facebook:before {
-    content: "\ea90";
+  content: "\ea90";
 }
 .icon-twitter:before {
-    content: "\ea96";
-}
-.icon-comment:before {
-    content: "\e96b";
-}
-.icon-info:before {
-    content: "\ea0c";
+  content: "\ea96";
 }
 
 .share, .share:visited {

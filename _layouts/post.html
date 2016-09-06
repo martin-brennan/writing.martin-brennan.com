@@ -12,6 +12,18 @@ layout: default
     <div class="post-content" itemprop="articleBody">
       {{ content }}
     </div>
+    <div class="post-nav">
+      <div class="prev">
+        {% if page.previous.url %}
+          &laquo; <a class="prev" href="{{page.previous.url}}">{{page.previous.title}}</a>
+        {% endif %}
+      </div>
+      <div class="next">
+        {% if page.next.url %}
+          <a class="next" href="{{page.next.url}}">{{page.next.title}}</a> &raquo;
+        {% endif %}
+      </div>
+    </div>
   </div>
 
   <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
