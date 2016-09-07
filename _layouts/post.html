@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<a class="home-link" href="/"><span class="icon-home"></span></a>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header header-image" style="background-image: url('{{ page.headerimg }}')">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
@@ -24,6 +25,9 @@ layout: default
         {% endif %}
       </div>
     </div>
+
+    {% include subscribe.html %}
+    <br/>
   </div>
 
   <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->

@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   knowledge and learn about new tools, languages and frameworks. In addition to software development,
   my other loves include reading, writing, music, cycling, hiking, my lovely fiancé and our two sons!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.martin-brennan.com" # the base hostname & protocol for your site
+url: "http://writing.martin-brennan.com" # the base hostname & protocol for your site
 twitter_username: mjrbrennan
 github_username:  martin-brennan
 

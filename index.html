@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="home">
@@ -10,11 +10,11 @@ layout: default
         <h1 class="post-list-heading">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
-        <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y @ %l:%M%p" }}</time> |
+        <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y at %l:%M%p" }}</time> |
           <a class="share tw" href="https://twitter.com/intent/tweet?text=Check%20out%20{{ post.title }}%20at%20{{ site.url }}{{ post.permalink }}"><span class="icon-twitter"></span></a>
           <a class="share fb" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ post.permalink }}&p[title]={{ post.title }}"><span class="icon-facebook"></span></a>
           <a class="share cm" href="{{ post.permalink }}#disqus_thread"><span class="icon-comment"></span></a>
-          <a class="share" href="mailto:?subject={{ post.title }} at martin-brennan.com"><span class="icon-email"></span></a>
+          <a class="share" href="mailto:?subject={{ post.title }} at writing.martin-brennan.com"><span class="icon-email"></span></a>
         </span>
         <p>
           {{ post.excerpt }} {% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">read more...</a>{% endif %}
@@ -41,21 +41,14 @@ layout: default
       </td>
     </tr>
   </table>
-
-  <p>&nbsp;</p>
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
   <!-- Footer 2 -->
-  <ins class="adsbygoogle"
+  <!-- <ins class="adsbygoogle"
        style="display:inline-block;width:100%;height:90px"
        data-ad-client="ca-pub-2399752909796795"
-       data-ad-slot="1978471069"></ins>
-  <script>
+       data-ad-slot="1978471069"></ins> -->
+  <!-- <script>
   (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
-
-  <p>
-    &nbsp;
-  </p>
-  <p class="alert info"><span class="icon-info"></span> Want to read regular updates? Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS!</a></p>
-
+  </script> -->
+  {% include subscribe.html %}
 </div>

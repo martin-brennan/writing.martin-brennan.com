@@ -99,6 +99,29 @@ blockquote {
     background-size: cover;
 }
 
+.post-list-heading {
+  font-family: $header-font-family;
+  margin-bottom: 0;
+  a {
+    text-decoration: none;
+    font-size: 150%;
+  }
+}
+
+.home {
+  margin-top: 200px;
+}
+
+a.share {
+  text-decoration: none;
+}
+
+.contact-list {
+  li {
+    line-height: 2em;
+  }
+}
+
 @font-face {
     font-family: 'icomoon';
     src:    url('/fonts/icomoon.eot?14jmb3');
@@ -168,4 +191,33 @@ blockquote {
   img {
     display: inline-block;
   }
+}
+
+.tinyletter-form {
+  p:first-child:first-letter { float: initial !important; color: $grey-color !important; font-size: $base-font-size !important; line-height: initial !important; padding-top: initial !important; padding-right: initial !important; padding-left: initial !important; }
+}
+
+.subscribe {
+  p {
+    margin: 5px 0;
+  }
+
+  input[type=text] {
+    width: 300px;
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 5px;
+  }
+
+  .subscribe-button {
+    background-color: #903;
+    color: white;
+    border: 0;
+    width: 150px;
+    height: 33px;
+  }
+}
+
+img.avatar {
+  border-radius: 100px;
 }
