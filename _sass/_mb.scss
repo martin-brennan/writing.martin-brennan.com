@@ -8,6 +8,8 @@ h1.post-title, h1.main-site-title {
 
 h2.post-subtitle {
   text-align: center;
+  width: 900px;
+  margin: 0 auto;
 }
 
 h1.post-title, h2.post-subtitle {
@@ -58,6 +60,11 @@ a {
     text-decoration: none;
     color: $brand-color;
   }
+}
+
+hr {
+  margin: 30px 80px;
+  border: 1px solid $grey-color-light;
 }
 
 .wrapper {
@@ -207,6 +214,7 @@ a.share {
     margin-right: 10px;
     font-size: 16px;
     padding: 5px;
+    border: 1px solid $grey-color-light;
   }
 
   .subscribe-button {
