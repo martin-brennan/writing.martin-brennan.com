@@ -2,13 +2,13 @@
 title: Goodfellas
 subtitle: The first in a series of essays about classics of American mafia films and one television program (The Sopranos)
 headerimg: /images/goodfellas.jpg
-date: 2016-09-06T08:15:00+00:00
+date: 2014-11-27T08:15:00+00:00
 author: Martin Brennan
 layout: post
 permalink: /goodfellas/
 ---
 
-<blockquote class="hero"><p>As far back as I can remember, I always wanted to be a gangster</p></blockquote>
+<blockquote class="hero"><p>As far back as I can remember, I always wanted to be a gangster.</p></blockquote>
 
 <span class="first-letter">T</span>his line is the start of the dream, the turbulent life story of the Irish-Italian-American mobster Henry Hill, before the heavy *whomp-whomp-whomp* of Tony Bennet's *Rags to Riches* blasts from the screen. Henry the kid, from Brownsville, Brooklyn was obsessed with the idea of the mob life from an early age, when he watched the Luchesse crime family associates at the cabstand across the street from his parents house and longed to be a part of something.<!--more-->
 

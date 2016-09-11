@@ -2,13 +2,20 @@
 title: General Douglas MacArthur Sylvanus Thayer Award Acceptance Address
 subtitle: The Corps, The Corps, The Corps
 headerimg: /images/macarthur.jpg
-date: 2013-12-15T08:15:00+00:00
+date: 2016-08-24T08:15:00+00:00
 author: Martin Brennan
 layout: post
 permalink: /general-douglas-mac-arthur-sylvanus-thayer-award-acceptance-address/
 ---
 
-In 1962 General Douglas MacArthur, one of nine men in history to be a five-star general in the United States Army, and the Commander of US Army Forces in the Far East in World War II, was awarded the [Sylvanus Thayer Award](http://www.westpointaog.org/thayerward). MacArthur was eighty-two years old at the time and delivered a stirring and memorable speech that leaves a mark on all those who read or hear it. MacArthur died two years after it was given, ending a rich life of military service that cannot possibly be covered in one article, so instead I leave the transcript of his speech at West Point that day in 1962.<!--more-->
+<blockquote class="hero">
+<p>
+Only the dead have seen the end of war.
+</p>
+<cite>— Plato</cite>
+</blockquote>
+
+In 1962 [General Douglas MacArthur](https://en.wikipedia.org/wiki/Douglas_MacArthur), one of nine men in history to be a five-star general in the United States Army, and the Commander of US Army Forces in the Far East in World War II, was awarded the [Sylvanus Thayer Award](http://www.westpointaog.org/thayerward). MacArthur was eighty-two years old at the time and delivered a stirring and memorable speech that leaves a mark on all those who read or hear it. MacArthur died two years after it was given, ending a rich life of military service that cannot possibly be covered in one article, so instead I leave the transcript of his speech at West Point that day in 1962.<!--more-->
 
 ---------------
 

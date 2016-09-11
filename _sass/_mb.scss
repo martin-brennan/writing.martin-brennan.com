@@ -83,8 +83,11 @@ blockquote {
   font-weight: 400;
 
   cite {
+    display: block;
+    text-align: right;
     font-style: normal;
     font-weight: 700;
+    margin-right: 20%;
   }
 
   &.hero {
@@ -109,6 +112,7 @@ blockquote {
 .post-list-heading {
   font-family: $header-font-family;
   margin-bottom: 0;
+  line-height: 1.5em;
   a {
     text-decoration: none;
     font-size: 150%;

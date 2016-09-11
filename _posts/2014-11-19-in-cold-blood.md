@@ -2,7 +2,7 @@
 title: In Cold Blood
 subtitle: A review of the Truman Capote true crime novel
 headerimg: /images/clutter.jpg
-date: 2016-09-06T08:15:00+00:00
+date: 2014-11-19T08:15:00+00:00
 author: Martin Brennan
 layout: post
 permalink: /in-cold-blood/
