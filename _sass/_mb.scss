@@ -8,7 +8,8 @@ h1.post-title, h1.main-site-title {
 
 h2.post-subtitle {
   text-align: center;
-  width: 900px;
+  max-width: 900px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -17,9 +18,11 @@ h1.post-title, h2.post-subtitle {
 }
 
 h1.post-title {
-  width: 900px;
+  max-width: 900px;
+  width: 100%;
   margin: 0 auto 15px;
   color: $brand-color;
+  line-height: 1.4em;
 }
 
 h2.post-subtitle {
