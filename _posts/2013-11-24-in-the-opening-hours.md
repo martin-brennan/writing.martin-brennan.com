@@ -6,6 +6,7 @@ date: 2013-12-15T08:15:00+00:00
 author: Martin Brennan
 layout: post
 permalink: /in-the-opening-hours/
+oc: true
 ---
 In the early evening, and in the opening hours of morning, is when a city comes to life. The morning brings promise and a low buzz that fills the entire day, as the city slowly awakens like some vast organic thing. Ashen faced night workers, eyes blue with tiredness make their way out of the cracks of alleys and back entrances to kitchens and bars, passing on their weary journey to the first buses of the day arriving packed with office workers looking much the same.<!--more-->
 

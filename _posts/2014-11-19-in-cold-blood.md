@@ -6,9 +6,13 @@ date: 2014-11-19T08:15:00+00:00
 author: Martin Brennan
 layout: post
 permalink: /in-cold-blood/
+oc: true
 ---
 
-<blockquote class="hero"><p>The village of Holcomb stands on the high wheat plains of western Kansas, a lonesome area that other Kansans call "out there."</p></blockquote>
+<blockquote class="hero">
+<p>The village of Holcomb stands on the high wheat plains of western Kansas, a lonesome area that other Kansans call "out there."</p>
+<cite>— Truman Capote, In Cold Blood</cite>
+</blockquote>
 
 <span class="first-letter">T</span>hese are the faces of the two men who destroyed a family, Richard Hickock and Perry Smith, in Truman Capote’s cold and heartbreaking true crime novel *In Cold Blood*. The novel, first published in 1966, meticulously details the lead up to and the aftermath of the slaying of the Clutter family in the small town of Holcomb, Kansas, a crime that rocked the foundations of the community and sparked a nationwide manhunt for the two killers.<!--more-->
 

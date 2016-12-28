@@ -2,6 +2,15 @@
 layout: home
 ---
 
+<div class="home-header">
+  <img class="quill" src="/images/quill.svg" alt="martin brennan" />
+  <p>The Writing of Martin Brennan</p>
+  <div class="home-header-nav">
+    <a href="/">Home</a> ~
+    <a href="/archive">Archive</a> ~
+    <a href="https://martin-brennan.com">Software</a>
+  </div>
+</div>
 <div class="home">
 
   <ul class="post-list">
@@ -15,6 +24,7 @@ layout: home
           <a class="share fb" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ post.permalink }}&p[title]={{ post.title }}"><span class="icon-facebook"></span></a>
           <a class="share cm" href="{{ post.permalink }}#disqus_thread"><span class="icon-comment"></span></a>
           <a class="share" href="mailto:?subject={{ post.title }} at writing.martin-brennan.com"><span class="icon-email"></span></a>
+          {% include original-content.html %}
         </span>
         <p>
           {{ post.excerpt }} {% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">read more...</a>{% endif %}
