@@ -191,6 +191,13 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+
+    &.single-post {
+        text-align: center;
+        display: block;
+        font-size: 80%;
+        line-height: 1em;
+    }
 }
 
 .post-link {
@@ -204,14 +211,18 @@
  * Posts
  */
 .post-header {
-  margin-bottom: 40px;
+  margin-bottom: 60px;
+
+  @include media-query($on-palm) {
+      margin-bottom: 40px;
+  }
 }
 
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-    padding-top: 50px;
+    padding-top: 20px;
 
     @include media-query($on-laptop) {
         font-size: 36px;

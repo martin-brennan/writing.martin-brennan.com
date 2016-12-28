@@ -165,6 +165,10 @@ blockquote {
     margin-left: 5px;
     font-size: 85%;
     font-family: "Montserrat", "Helvetica Neue", "Proxima Nova", sans-serif;
+
+    @include media-query($on-palm) {
+      font-size: 70%;
+    }
 }
 
 a.share {

@@ -37,15 +37,16 @@ $on-laptop:        800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
+    @media screen and (max-width: $device) and (max-device-width: $device) {
         @content;
     }
 }
 
 @include media-query($on-palm) {
   h1.post-title {
-    font-size: 120% !important;
-    padding-top: 40px !important;
+    font-size: 160% !important;
+    margin-bottom: 10px !important;
+    padding-top: 10px !important;
   }
 
   h2.post-subtitle {
@@ -54,7 +55,6 @@ $on-laptop:        800px;
   }
 
   .post-header {
-    margin-bottom: 5px !important;
     padding: 5px 10px;
   }
 }
