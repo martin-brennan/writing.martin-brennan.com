@@ -40,7 +40,7 @@ With my next novel I aim to write the whole first draft a lot quicker, within a 
 
 **Goal 5 - Spend more quality time with my sons.**
 
-This is going great as well. I get to spend quite a lot of time with my boys, and it is wonderful to see them grow and change. As any parent knows there are rocky patches and ups and downs, but despite those I love the boys more than anything. We will all be going to Japan next May as one big family, visiting Osaka, Nara, and Kyoto, which will be ana amazing experience. I've also started working one day a week on Wednesday, so I get to drop them off and pick them up from daycare on that day.
+This is going great as well. I get to spend quite a lot of time with my boys, and it is wonderful to see them grow and change. As any parent knows there are rocky patches and ups and downs, but despite those I love the boys more than anything. We will all be going to Japan next May as one big family, visiting Osaka, Nara, and Kyoto, which will be an amazing experience. I've also started working from home one day a week on Wednesday, so I get to drop them off and pick them up from daycare on that day.
 
 ### 2017 Goals
 
@@ -63,7 +63,7 @@ Okay with the retrospective out of the way, here are my 2017 goals.
 
 - There is a trend here, I want to write a lot this year. I've spent entirely too much time on Reddit and other time wasting websites, so I want to do more CREATING instead of CONSUMING this year, because it's very mindless and instantly gratifying to consume but not at all fulfilling.
 - I want to complete one short story I'm already writing, and complete two others. Each short story should be ten to fifteen thousand words.
-- I also want to go through rounds of drafts and editing for Crabs MC until I am happy with it. I am new to this process, but I already have ideas in mind on what needs to change, and I plan to print out the whole manuscript and hand edit it by hand as well. I know there will be a lot of work involved because I focused on getting the words down rather than writing the best prose.
+- I also want to go through rounds of drafts and editing for Crabs MC until I am happy with it. I am new to this process, but I already have ideas in mind on what needs to change, and I plan to print out the whole manuscript and edit it by hand as well. I know there will be a lot of work involved because I focused on getting the words down rather than writing the best prose.
 - It would be wonderful if I could start writing query letters to publishers in early 2018.
 
 **Goal 4 - Go on at least one camping trip with friends and one solo camping trip**
