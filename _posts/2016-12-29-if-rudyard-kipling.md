@@ -1,6 +1,6 @@
 ---
 title: If by Rudyard Kipling
-date: 2016-12-29T08:15:00+00:00
+date: 2016-12-29T08:15:00+10:00
 author: Martin Brennan
 layout: post
 permalink: /if-rudyard-kipling/
