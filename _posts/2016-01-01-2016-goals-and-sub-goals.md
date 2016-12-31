@@ -29,7 +29,7 @@ Sort of. We are moving into a 3 bedroom, 2 bathroom townhouse which is still a m
 
 **Goal 4 - Work on my quickness to annoyance, work on not reacting without thinking, and think about the impact this behaviour has on my family.**
 
-This one was about not getting annoyed about or overreacting over trivial things, and spending more time with my family and developing a better relationship with all of them. This is still ongoing. My fiance and I have decided to try new things and spend more quality time together this year. She will be getting a bike soon as well so that will be another thing we can do together. We’ve added another son to the mix, Thomas, so I’ve been spending time with him as well as Patrick. I love my family more than anything else, so this one is important to me. Being mindful of your own emotions and thoughts and actions is essential.
+This one was about not getting annoyed about or overreacting over trivial things, and spending more time with my family and developing a better relationship with all of them. This is still ongoing. My fiance and I have decided to try new things and spend more quality time together this year. She will be getting a bike soon as well so that will be another thing we can do together. We’ve added another son to the mix, so I’ve been spending time with him as well as our firstborn. I love my family more than anything else, so this one is important to me. Being mindful of your own emotions and thoughts and actions is essential.
 
 **Goal 5 - Continue to develop my craft.**
 
@@ -42,8 +42,8 @@ Here we go, my goals for this year in their entirety.
 
 **Goal 1 - Get married.**
 
-- The love of my life and I have been engaged for almost a year and a half now, and we have two wonderful boys (Patrick and Thomas). It’s time to make it official!
-- We are aiming for a wedding in September. That way, Thomas will be 1 and Patrick will be 2 and a half. It won’t be anything extravagant, we don’t have thousands of dollars to spend on a fancy wedding. We just want to become man and wife as we’ve wanted to for so long.
+- The love of my life and I have been engaged for almost a year and a half now, and we have two wonderful boys. It’s time to make it official!
+- We are aiming for a wedding in September. That way, our second born will be 1 and our first born will be 2 and a half. It won’t be anything extravagant, we don’t have thousands of dollars to spend on a fancy wedding. We just want to become man and wife as we’ve wanted to for so long.
 - It will likely just be a small civil ceremony, and we will have to register our intent to marry by August.
 
 **Goal 2 - Pay off credit card debt.**
@@ -68,9 +68,9 @@ Here we go, my goals for this year in their entirety.
 
 **Goal 5 - Spend more quality time with my sons.**
 
-- Quality time is time I’m playing with them or helping them learn. This is especially important with my older son, Patrick, who will be two in March.
+- Quality time is time I’m playing with them or helping them learn. This is especially important with my older son, who will be two in March.
 - This may involve signing them up for activities like swimming or a toddler sport activity.
-- Helping Patrick learn will involve reading with him, painting and drawing, and doing other learning activities to do with expanding his vocabulary.
+- Helping my son learn will involve reading with him, painting and drawing, and doing other learning activities to do with expanding his vocabulary.
 - I’ll be able to do this a lot more this year because I’ve changed my work hours so I’m home earlier at night. I love my boys and I want to have more fun with them, because I won’t get this time back!
 
 There it is, my list of goals for the coming year. I hope that this year is fruitful for myself, my family, and everyone else!
