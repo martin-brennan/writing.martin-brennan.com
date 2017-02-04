@@ -40,33 +40,27 @@ Writing is a different story. This year, I’ve written 20,000 words of a novel,
 ### 2016 Goals
 Here we go, my goals for this year in their entirety.
 
-**Goal 1 - Get married.**
-
-- The love of my life and I have been engaged for almost a year and a half now, and we have two wonderful boys. It’s time to make it official!
-- We are aiming for a wedding in September. That way, our second born will be 1 and our first born will be 2 and a half. It won’t be anything extravagant, we don’t have thousands of dollars to spend on a fancy wedding. We just want to become man and wife as we’ve wanted to for so long.
-- It will likely just be a small civil ceremony, and we will have to register our intent to marry by August.
-
-**Goal 2 - Pay off credit card debt.**
+**Goal 1 - Pay off credit card debt.**
 
 - Part of the reason we can’t have a more extravagant wedding and lifestyle is because we have both personal loan and credit card debt.
 - The credit card has come the closest it ever has to being paid off, and I’m aiming to pay the several thousand dollar balance of this year, along with avoiding using it at all.
 - This will free up a chunk of extra money every fortnight for savings, living expenses and activities for the boys. And yes, maybe even a night out with my partner every once and a while!
 
-**Goal 3 - Complete a 50km bike ride.**
+**Goal 2 - Complete a 50km bike ride.**
 
 - Since getting into riding I’ve fallen in love with it. It’s great fun just to hop on your bike and go wherever you want, purely by your own power and ability.
 - I recently did a 16km ride, the longest one I’ve done so far, and it was much easier than I thought it would be. Moving closer to the bayside this year, I have a lot more interesting places to ride to.
 - To achieve this, I will go on progressively longer rides, aiming for a 25km at first and working up. I’m going to upgrade my gear as well by getting gloves, jersey and bike shorts as well as upgrading to clipless pedals and bike shoes for more power.
 - Stretch goal is a 100km ride! All will be recorded on Strava.
 
-**Goal 4 - Complete a first draft of the novel I’m writing.**
+**Goal 3 - Complete a first draft of the novel I’m writing.**
 
 - This means cranking out at least something like 45,000 words between now and December, I’ve already written 20,000 and I have a good idea of where I want to story to go and an outline.
 - It doesn’t matter if it’s pure, unfiltered shit, as long as I’ve got the first draft done and words on the page.
 - In addition to this goal, I want to write at least two short stories, between 5 to 10 thousand words. This is all going toward a goal of improving my writing.
 - If I’m feeling suicidal, and if I have a good idea, I’ll even attempt NaNoWriMo.
 
-**Goal 5 - Spend more quality time with my sons.**
+**Goal 4 - Spend more quality time with my sons.**
 
 - Quality time is time I’m playing with them or helping them learn. This is especially important with my older son, who will be two in March.
 - This may involve signing them up for activities like swimming or a toddler sport activity.

@@ -14,21 +14,17 @@ It's that time of year again. For the past two years, I've written up a list of 
 
 ### 2016 Review
 
-**Goal 1 - Get married.**
-
-Didn't do this one...yet! Time just got away with us, and we ended up spending our money on other things (a new PC and a trip to Japan!). We will get there one day but we are in no big rush, our little family is chugging along just fine! If we do get married in the next year, it will be a little civil ceremony with a celebration with family afterwards, nothing too crazy.
-
-**Goal 2 - Pay off credit card debt.**
+**Goal 1 - Pay off credit card debt.**
 
 This was done....kinda! We consolidated it with my personal loan into one personal loan, which is so much better. If anyone is worried about their credit card debt, I recommend doing something similar. The main benefit is that you have one payment to make, and you cannot get further in debt. Ideally, you wouldn't go into debt in the first place, but that is sometimes hard to avoid. Many people have to learn this lesson the hard way.
 
 If the temptation to use "free money" is there, then you sure as hell are going to use it. If we ever get a credit card again, it will be the lowest limit possible, and used in very specific or emergency situations. A tip I've heard of is to freeze your credit card in ice so you can't just use it whenever you want. You are forced to consider your decisions.
 
-**Goal 3 - Complete a 50km bike ride.**
+**Goal 2 - Complete a 50km bike ride.**
 
 Didn't quite get here. To be honest I have been slack with my long distance rides. The furthest I got was 20km. I still ride everyday from home to the train station, but I need to get on top of the rides again this year. This is more to do with lack of commitment than anything, so it's my bad!
 
-**Goal 4 - Complete a first draft of the novel I’m writing.**
+**Goal 3 - Complete a first draft of the novel I’m writing.**
 
 Ding ding ding! We have a winner here. I completed the first draft of my novel with a week to spare, on the **23rd of December 2016**. The draft is approximately 85,000 words, and the story is about the fall of a once-great motorcycle club, the Crabs MC, which is a rabble of losers and misfits that can't even intimidate the residents of the peaceful town they live in. They are bossed around by the Devil's Faithful MC, and one last heist will make or break their club. The Rider, a loyal member, rides a bicycle with a two-stroke engine, ever since his own bike was stolen, and he and the gang will need a hell of a lot of help to pull the job off.
 
@@ -38,7 +34,7 @@ I wrote about five thousand words in the last months of 2013, then pretty much f
 
 With my next novel I aim to write the whole first draft a lot quicker, within a year ideally. I've got a couple of ideas rattling around in my head, one a fantasy novel about a tale of two kingdoms, one undead and one human. The other idea is a post-zombie apocalypse story, a few years after where everyone is trying to get society back together and deal with the remaining zombies. I'm excited to dive into this next project, but the year ahead will involve a lot of meticulous editing for my novel, and I plan on writing 2-3 short stories instead of a new novel this year, and hopefully knock one over in 2018 after writing a chunky outline.
 
-**Goal 5 - Spend more quality time with my sons.**
+**Goal 4 - Spend more quality time with my sons.**
 
 This is going great as well. I get to spend quite a lot of time with my boys, and it is wonderful to see them grow and change. As any parent knows there are rocky patches and ups and downs, but despite those I love the boys more than anything. We will all be going to Japan next May as one big family, visiting Osaka, Nara, and Kyoto, which will be an amazing experience. I've also started working from home one day a week on Wednesday, so I get to drop them off and pick them up from daycare on that day.
 
