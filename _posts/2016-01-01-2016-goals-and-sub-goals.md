@@ -9,7 +9,7 @@ layout: post
 oc: true
 ---
 
-Last year, I wrote a post called 2015 Goals and Sub-Goals, in which I outlined five goals I had for the year and ways in which I could achieve them. Happily, I did achieve most of them, and I’ve got another set for 2016 as well. First I’ll go over the ones from last year.
+<span class="first-letter">L</span>ast year, I wrote a post called 2015 Goals and Sub-Goals, in which I outlined five goals I had for the year and ways in which I could achieve them. Happily, I did achieve most of them, and I’ve got another set for 2016 as well. First I’ll go over the ones from last year.
 
 <!--more-->
 

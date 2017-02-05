@@ -15,7 +15,7 @@ Only the dead have seen the end of war.
 <cite>— Plato</cite>
 </blockquote>
 
-In 1962 [General Douglas MacArthur](https://en.wikipedia.org/wiki/Douglas_MacArthur), one of nine men in history to be a five-star general in the United States Army, and the Commander of US Army Forces in the Far East in World War II, was awarded the [Sylvanus Thayer Award](http://www.westpointaog.org/thayerward). MacArthur was eighty-two years old at the time and delivered a stirring and memorable speech that leaves a mark on all those who read or hear it. MacArthur died two years after it was given, ending a rich life of military service that cannot possibly be covered in one article, so instead I leave the transcript of his speech at West Point that day in 1962.<!--more-->
+<span class="first-letter">I</span>n 1962 [General Douglas MacArthur](https://en.wikipedia.org/wiki/Douglas_MacArthur), one of nine men in history to be a five-star general in the United States Army, and the Commander of US Army Forces in the Far East in World War II, was awarded the [Sylvanus Thayer Award](http://www.westpointaog.org/thayerward). MacArthur was eighty-two years old at the time and delivered a stirring and memorable speech that leaves a mark on all those who read or hear it. MacArthur died two years after it was given, ending a rich life of military service that cannot possibly be covered in one article, so instead I leave the transcript of his speech at West Point that day in 1962.<!--more-->
 
 ---------------
 

@@ -8,7 +8,8 @@ layout: post
 permalink: /in-the-opening-hours/
 oc: true
 ---
-In the early evening, and in the opening hours of morning, is when a city comes to life. The morning brings promise and a low buzz that fills the entire day, as the city slowly awakens like some vast organic thing. Ashen faced night workers, eyes blue with tiredness make their way out of the cracks of alleys and back entrances to kitchens and bars, passing on their weary journey to the first buses of the day arriving packed with office workers looking much the same.<!--more-->
+
+<span class="first-letter">I</span>n the early evening, and in the opening hours of morning, is when a city comes to life. The morning brings promise and a low buzz that fills the entire day, as the city slowly awakens like some vast organic thing. Ashen faced night workers, eyes blue with tiredness make their way out of the cracks of alleys and back entrances to kitchens and bars, passing on their weary journey to the first buses of the day arriving packed with office workers looking much the same.<!--more-->
 
 Trash trucks lumber down the streets to pick up the detritus of the night before, little men scurrying in and out of them to pick up the cans and dump their contents into the back of the truck. Cafes and bakeries start to open, wafting their intoxicating aromas into the crowds of businesspeople, drawing some of the dazed into their warm bellies. Newspaper men open their stands up, jaunty flat-caps pulled over their bushy brows, cigar stubs dangling dry out of the corner of their mouths. Newspapers stacked high like towers surround the stands, neatly tied with lengths of coarse twine.
 

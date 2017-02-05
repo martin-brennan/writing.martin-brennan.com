@@ -9,7 +9,7 @@ layout: post
 oc: true
 ---
 
-The new year has come again, and this year for the first time I’ve written a definitive list of five goals that I will aim to complete or improve upon in the next year.
+<span class="first-letter">T</span>he new year has come again, and this year for the first time I’ve written a definitive list of five goals that I will aim to complete or improve upon in the next year.
 
 I’ve tried to make sure that each goal is achievable and well defined, and each one starts with smaller steps that will evolve to larger steps later.
 

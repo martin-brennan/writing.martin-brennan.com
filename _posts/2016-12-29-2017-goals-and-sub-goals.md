@@ -8,7 +8,7 @@ layout: post
 oc: true
 ---
 
-It's that time of year again. For the past two years, I've written up a list of goals and sub-goals that I want to achieve for the year. The first thing I usually do is recap what goals I made in the previous year, and go over what I achieved, before outlining the next year's goals! So without further ado, here is the review.
+<span class="first-letter">I</span>t's that time of year again. For the past two years, I've written up a list of goals and sub-goals that I want to achieve for the year. The first thing I usually do is recap what goals I made in the previous year, and go over what I achieved, before outlining the next year's goals! So without further ado, here is the review.
 
 <!--more-->
 
