@@ -6,11 +6,13 @@ function calculateReadTime() {
   var readTimeMins = approxWordCount / 250; // standard wpm
 
   var readTime = Math.floor(readTimeMins);
+  var el       = document.querySelector('.readtime');
   if (readTime === 0) {
-    document.querySelector('.readtime').innerHTML = 'less than ' + 1 + ' min read';
+    el.innerHTML = 'less than ' + 1 + ' min read';
   } else {
-    document.querySelector('.readtime').innerHTML = 'approx ' + readTime + ' min read';
+    el.innerHTML = 'approx ' + readTime + ' min read';
   }
+  el.title = approxWordCount + ' words';
 }
 
 document.addEventListener('DOMContentLoaded', calculateReadTime);
