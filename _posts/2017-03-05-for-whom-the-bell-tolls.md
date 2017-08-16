@@ -9,7 +9,7 @@ oc: false
 
 <blockquote class="hero"><p>It tolls for thee</p><cite>— John Donne</cite></blockquote>
 
-<span class="first-letter">N</span>o man is an island,<br />
+<span class="first-letter">N</span>O MAN is an island,<br />
 Entire of itself.<br />
 Each is a piece of the continent,<br />
 A part of the main.<br />

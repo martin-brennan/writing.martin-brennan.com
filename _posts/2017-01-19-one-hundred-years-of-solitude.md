@@ -12,7 +12,7 @@ oc: true
     <cite>— Gabriel García Márquez, One Hundred Years of Solitude</cite>
 </blockquote>
 
-<span class="first-letter">I</span> picked this novel up at the same time as I picked up _Breakfast of Champions_, on a whim because it was sitting on the same library cart. The story follows six generations of the Buendía family in Columbia, whose patriarch, José Arcadio Buendía, founds the town of Macondo with his wife Úrsula on the banks of a river. The book is written in a style of magical realism, and is considered an exemplary novel of the genre.
+<span class="first-letter">I</span> PICKED this novel up at the same time as I picked up _Breakfast of Champions_, on a whim because it was sitting on the same library cart. The story follows six generations of the Buendía family in Columbia, whose patriarch, José Arcadio Buendía, founds the town of Macondo with his wife Úrsula on the banks of a river. The book is written in a style of magical realism, and is considered an exemplary novel of the genre.
 
 <!--more-->
 

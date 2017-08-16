@@ -9,7 +9,7 @@ oc: true
 
 <blockquote class="hero"><p>Death is a mystery, and burial is secret</p><cite>— Stephen King</cite></blockquote>
 
-King utilises all of the instruments in his depraved toolshed in this horrific novel about the secret practice of burial, and the great taboo of death. Like so many King novels, it begins with a regular, All-American family who move to a small town, in this case Ludlow, Maine, to begin life anew. Dr. Louis Creed takes a job with the local university, while his wife Rachel and his young children Ellie and Gage, along with their  pet cat Winston Churchill, settle into their new life far from the hustle and bustle of Chicago.
+<span class="first-letter">K</span>ING utilises all of the instruments in his depraved toolshed in this horrific novel about the secret practice of burial, and the great taboo of death. Like so many King novels, it begins with a regular, All-American family who move to a small town, in this case Ludlow, Maine, to begin life anew. Dr. Louis Creed takes a job with the local university, while his wife Rachel and his young children Ellie and Gage, along with their  pet cat Winston Churchill, settle into their new life far from the hustle and bustle of Chicago.
 
 <!--more-->
 

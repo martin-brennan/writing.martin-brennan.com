@@ -14,6 +14,8 @@ oc: true
 <cite>— Truman Capote, In Cold Blood</cite>
 </blockquote>
 
+![in cold blood](/images/coldblood1.jpg)
+
 <span class="first-letter">T</span>hese are the faces of the two men who destroyed a family, Richard Hickock and Perry Smith, in Truman Capote’s cold and heartbreaking true crime novel *In Cold Blood*. The novel, first published in 1966, meticulously details the lead up to and the aftermath of the slaying of the Clutter family in the small town of Holcomb, Kansas, a crime that rocked the foundations of the community and sparked a nationwide manhunt for the two killers.<!--more-->
 
 Using his extensive notes collected from interviews with the killers, the agents pursuing them, the residents of Holcomb and those close to the Clutter family, Capote paints a grim picture of a robbery turned to grisly murder. The interviews, conducted over seven years between the murders in 1959 and the novel’s completion in 1966, provided Capote and his cousin Harper Lee with over ten thousand pages of notes to draw from when reconstructing the events. This level of detail and dedication of Capote is instrumental in painting a picture of the people involved, and creating a rawness and empathy for both the victims and even the killers.
@@ -30,6 +32,8 @@ Perry Smith life was a tale of failure, abuse and woe. He was born on October 27
 After a stint in the Merchant Marine and later the Army during the Korean War, Smith spent time in Washington state, where after a purchasing a motorcycle he was involved in a terrible accident which left his legs permanently disabled. He was also left with a drug abuse problem as he consumed huge amounts of aspirin to control the pain. Two of Smith’s three siblings committed suicide early in their life, and his sister refused to talk to him after learning of his criminal activities, fearing for her own safety.
 
 Smith’s story enraptured Capote so much more so than that of Hickcock, and this is quite evident throughout the novel. Smith is often shown to be a victim of the circumstances of his life, and as a thoughtful but emotionally stunted individual whose destiny was shaped by the abuse he suffered through. Hickcock on the other hand was largely glossed over by the author, seemingly dismissed as a petty thug who got in too much over his head. Throughout the years there has been intense speculation whether Capote, as a homosexual, had developed feelings for Smith that went further than their friendship. Such speculation can neither be proved or disproved though, and no one will ever get any answers from either men.
+
+![in cold blood](/images/coldblood2.jpg)
 
 The power of this novel is in the way that it transports you back into the hearts and minds of the people of Holcomb in 1959. Capote goes into obsessive detail over extremely minor characters and their daily lives, publishes letters sent to the killers, and uses creative fictional devices to describe environments and scenes in vivid detail. You end up occupying the lives of the characters, just as Capote did for six years while he waited for the lives of the murderers to end in Lansing state prison in 1966. For end they must, and end they do. You know throughout the whole novel that this is the inevitable conclusion to the entire saga. The killers at the end of a rope.
 

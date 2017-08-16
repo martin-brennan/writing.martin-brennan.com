@@ -8,7 +8,7 @@ permalink: /if-rudyard-kipling/
 
 <blockquote class="hero"><p>You’ll be a Man, my son!</p><cite>— Rudyard Kipling</cite></blockquote>
 
-<span class="first-letter">I</span>f you can keep your head when all about you<br />
+<span class="first-letter">I</span>F YOU can keep your head when all about you<br />
 Are losing theirs and blaming it on you;<br />
 If you can trust yourself when all men doubt you,<br />
 But make allowance for their doubting too:<br />

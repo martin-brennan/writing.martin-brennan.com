@@ -20,7 +20,7 @@ h1.post-title, h2.post-subtitle {
 h1.post-title {
   max-width: 900px;
   width: 100%;
-  margin: 0 auto 15px;
+  margin: 0 auto;
   color: $brand-color;
   line-height: 1.4em;
 }
@@ -37,7 +37,7 @@ a {
 }
 
 .post-content {
-  p:first-child:first-letter { float: left; color: $brand-color; font-size: 66px; line-height: 68px; padding-top: 4px; padding-right: 8px; padding-left: 3px; }
+  /* p:first-child:first-letter { float: left; font-size: 90px; line-height: 40px; padding-left: 0; padding-right: 8px; padding-top: 20px; padding-bottom: 5px; margin-top: 8px; } */
   max-width: calc(1000px - (30px * 2));
 }
 
@@ -75,15 +75,35 @@ hr {
 }
 
 .wrapper {
-  max-width: calc(800px - (30px * 2));
+  max-width: calc(900px - (30px * 2));
+
+  img {
+    margin: 0 auto;
+    display: block;
+    max-width:775px;
+    max-height:100%;
+    border: 5px double #000;
+  }
 }
 
-.first-letter { float: left; color: $brand-color; font-size: 56px; line-height: 58px; padding-top: 4px; padding-right: 8px; padding-left: 3px; }
+.first-letter { float: left; font-size: 90px; line-height: 40px; padding-left: 0; padding-right: 8px; padding-top: 20px; padding-bottom: 5px; margin-top: 8px; }
+
+$blockquote-font-size: 100%;
+
+@mixin reset-first-letter {
+  p:first-child:first-letter { float: initial !important; line-height: initial !important; padding: initial !important; margin: initial !important; border: initial !important; }
+}
+
+div.smallpost {
+  @include reset-first-letter;
+}
 
 blockquote {
-  $blockquote-font-size: 100%;
+  @include reset-first-letter;
 
-  p:first-child:first-letter { float: initial !important; color: $grey-color !important; font-size: $blockquote-font-size !important; line-height: initial !important; padding-top: initial !important; padding-right: initial !important; padding-left: initial !important; }
+  p:first-child:first-letter {
+    color: $grey-color !important; font-size: $blockquote-font-size !important;
+  }
 
   font-size: $blockquote-font-size;
   letter-spacing: normal;
@@ -130,6 +150,7 @@ blockquote {
     width: 50px;
     margin: 0 auto;
     display: block;
+    border: 0 !important;
   }
 
   p {

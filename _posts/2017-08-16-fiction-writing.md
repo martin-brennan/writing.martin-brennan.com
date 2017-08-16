@@ -4,10 +4,15 @@ date: 2017-08-16T20:24:00+10:00
 author: Martin Brennan
 layout: post
 permalink: /fiction-writing/
+oc: true
 ---
 
-I wanted to take this opportunity to explain what I like to read and write about, so you may be able to understand my frame of mind when you read my fiction.
+<span class="first-letter">I</span> WANTED to take this opportunity to explain what I like to read and write about, so you may be able to understand my frame of mind when you read my fiction.
 I guess I have kind of a predictable taste in writing for a late-twenties white dude. My favourite authors are Cormac McCarthy, Stephen King, JRR Tolkien, George RR Martin, Hunter S Thompson, George Orwell, and Bret Easton Ellis, and I'm starting to get into Papa Hemingway. If I had to pick any of these authors as my biggest influence I would say King for his fairly simple writing style but engaging character building, and for whom I aspire to be like it would be Cormac McCarthy who writes words so bleak and so beautiful I suspect he's some sort of southwestern vampire who's been alive to see the world from its primeval beginnings.
+
+<!--more-->
+
+![cormac mccarthy](/images/mccarthy.jpg)
  
 Anyway, those are the kind of influences I aspire to emulate, and hopefully through emulation and painful missteps I will develop my own style and ways to paint a picture for you dear readers. I also find that other great influences for me come from film and television. Quentin Tarantino is one of the greatest film writers, and the script for Pulp Fiction is perfect in my mind. Joel and Ethan Coen write things that can be comedic and tragic at the same time, and the way they brought No Country for Old Men to life was breathtaking. If I ever write something as funny and real as Seinfeld or a masterpiece like The Sopranos (my favourite show of all time) I will die a happy man. Scorsese is a massive influence on me too, his work with De Niro and Di Caprio are legendary and speak for themselves, but Goodfellas will always be close to my heart. There is too much to talk about when I get excited about the art that I love, I hope I've created a good mental image of the style I like, one that hopefully does not deter.
 
