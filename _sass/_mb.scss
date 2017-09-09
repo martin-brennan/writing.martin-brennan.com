@@ -39,6 +39,12 @@ a {
 .post-content {
   /* p:first-child:first-letter { float: left; font-size: 90px; line-height: 40px; padding-left: 0; padding-right: 8px; padding-top: 20px; padding-bottom: 5px; margin-top: 8px; } */
   max-width: calc(1000px - (30px * 2));
+
+  @include media-query($on-palm) {
+    p > img {
+      width: 98%; 
+    }
+  }
 }
 
 .post-nav {
@@ -111,6 +117,10 @@ blockquote {
 
   p {
     margin-bottom: 5px;
+
+    @include media-query($on-palm) {
+      font-size: $blockquote-font-size - 20%;
+    }
   }
 
   cite {
@@ -133,6 +143,10 @@ blockquote {
       padding-left: 10px;
       padding-right: 60px;
       line-height: 1.5em;
+
+      @include media-query($on-palm) {
+        font-size: 160%;
+      }
     }
   }
 }
@@ -165,6 +179,10 @@ blockquote {
     font-size: 16px;
     line-height: 1em;
   }
+
+  @include media-query($on-palm) {
+    margin-bottom: 20px;
+  }
 }
 
 .post-list-heading {
@@ -192,8 +210,14 @@ blockquote {
     font-family: "Montserrat", "Helvetica Neue", "Proxima Nova", sans-serif;
 
     @include media-query($on-palm) {
-      font-size: 70%;
+      margin-top: 10px;
     }
+}
+
+.block-phone {
+  @include media-query($on-palm) {
+    display: block;
+  }
 }
 
 a.share {
