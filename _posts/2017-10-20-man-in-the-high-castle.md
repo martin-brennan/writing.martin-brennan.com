@@ -7,7 +7,7 @@ permalink: /man-in-the-high-castle/
 oc: true
 ---
 
-<blockquote class="hero"><p>What profit it a man if he gain the whole world but in this enterprise lose his soul?.</p><cite>— Philip K. Dick, Man in the High Castle</cite></blockquote>
+<blockquote class="hero"><p>What profit it a man if he gain the whole world but in this enterprise lose his soul?</p><cite>— Philip K. Dick, Man in the High Castle</cite></blockquote>
 
 <span class="first-letter">R</span>EADING about World War II is always fascinating. Tragedy and human suffering was perpetuated on an enormous scale by some of the most despicable men in history. In _Man in the High Castle_ Philip K. Dick imagines an alternate timeline of human history where the Axis powers are the victors of World War II. A history where the world is divided up between Germany, Italy, and Japan. The novel is set in a conquered United States of America, in which the west coast is owned by Japan and renamed the Pacific States of America (or PSA) and the east coast is ruled by the Third Reich, with a buffer zone along the continental divide. The central conflict of this novel is the machinations the great powers have between each other and within themselves, as well as the reemergence of American culture, and the idea that the whole world may not be real at all.
 
