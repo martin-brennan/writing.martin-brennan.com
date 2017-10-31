@@ -1,9 +1,9 @@
 ---
-title: Man in the High Castle by Philip K. Dick
-date: 2017-10-20T21:10:00+10:00
+title: Lessons from Tom Waits
+date: 2017-10-31T22:10:00+10:00
 author: Martin Brennan
 layout: post
-permalink: /man-in-the-high-castle/
+permalink: /lessons-from-tom-waits/
 oc: true
 ---
 
