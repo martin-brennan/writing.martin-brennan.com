@@ -19,7 +19,7 @@ layout: home
         <h1 class="post-list-heading">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
-        <span class="post-meta single-post" style="text-align: left; margin-top: 10px; margin-bottom: 15px;"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y at %l:%M%p" }}</time> |
+        <span class="post-meta single-post" style="text-align: left; margin-top: 10px; margin-bottom: 15px;"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time> |
           <a class="share tw" href="https://twitter.com/intent/tweet?text=Check%20out%20{{ post.title }}%20at%20{{ site.url }}{{ post.permalink }}"><span class="icon-twitter"></span></a>
           <a class="share fb" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ post.permalink }}&p[title]={{ post.title }}"><span class="icon-facebook"></span></a>
           <a class="share cm" href="{{ post.permalink }}#disqus_thread"><span class="icon-comment"></span></a>

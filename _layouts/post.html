@@ -14,13 +14,13 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
-    <span class="post-meta single-post"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y at %l:%M%p" }}</time> | <span class="readtime"></span> |
+    <span class="post-meta single-post"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time> | <span class="readtime"></span> |
       <a class="share tw" href="https://twitter.com/intent/tweet?text=Check%20out%20{{ page.title }}%20at%20{{ site.url }}{{ page.permalink }}"><span class="icon-twitter"></span></a>
       <a class="share fb" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.permalink }}&p[title]={{ page.title }}"><span class="icon-facebook"></span></a>
       <a class="share cm" href="{{ page.permalink }}#disqus_thread"><span class="icon-comment"></span></a>
       <a class="share" href="mailto:?subject={{ page.title }} at writing.martin-brennan.com"><span class="icon-email"></span></a>
       {% if page.oc == true %}
-      <span class="oc block-phone">★ Original Content</span>
+      <span class="oc block-phone" style="width: 200px; margin: 10px auto">★ Original Content</span>
       {% endif %}
     </span>
   </header>

@@ -165,6 +165,14 @@
     }
 }
 
+@media screen and (max-width: 700px) {
+    .footer-col {
+        float: none;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
 
 
 /**

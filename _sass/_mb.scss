@@ -90,6 +90,12 @@ hr {
     max-height:100%;
     border: 5px double #000;
   }
+
+  @media screen and (max-width: 700px) {
+    img {
+      width: 100%;
+    }
+  }
 }
 
 .first-letter { float: left; font-size: 90px; line-height: 40px; padding-left: 0; padding-right: 8px; padding-top: 20px; padding-bottom: 5px; margin-top: 8px; }
@@ -207,6 +213,7 @@ blockquote {
     color: black;
     margin-left: 5px;
     font-size: 85%;
+    text-align: center;
     font-family: "Montserrat", "Helvetica Neue", "Proxima Nova", sans-serif;
 
     @include media-query($on-palm) {
@@ -215,8 +222,9 @@ blockquote {
 }
 
 .block-phone {
-  @include media-query($on-palm) {
+  @media screen and (max-width: 700px) {
     display: block;
+    margin-top: 10px;
   }
 }
 
@@ -342,4 +350,5 @@ a.share {
 
 img.avatar {
   border-radius: 100px;
+  width: auto;
 }
