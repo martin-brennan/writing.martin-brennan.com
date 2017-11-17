@@ -1,3 +1,12 @@
+html, body {
+  background-color: #f9f9f9;
+
+  @media screen and (max-width: 700px) {
+    padding: 0;
+    background-color: #fff;
+  }
+}
+
 h1.post-title, h1.main-site-title {
   font-family: $header-font-family;
   font-weight: 700;
@@ -160,6 +169,42 @@ blockquote {
 .header-image {
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.home, .wrapper {
+  padding: 40px 60px;
+  background-color: white;
+  border: 1px solid #e8e8e8;
+
+  @media screen and (max-width: 700px) {
+    padding: 0;
+    border: 0;
+  }
+}
+
+.wrapper {
+  border-top: 0;
+}
+
+.home-posts .wrapper {
+  border: 0;
+  background-color: transparent;
+}
+
+.site-footer {
+  .wrapper {
+    border: 0;
+  }
+}
+
+.post-header {
+  background-color: white;
+  margin-bottom: 0;
+  max-width: calc(900px - (30px * 2));
+  margin: 0 auto;
+  padding: 0 60px;
+  border: 1px solid #e8e8e8;
+  border-bottom: 0px;
 }
 
 .home-header {
