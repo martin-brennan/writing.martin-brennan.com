@@ -106,4 +106,36 @@ In my own life, I write down yearly goals at the start of each year ([2015](/201
 3. Hone my skills and develop professionally in my career as a software engineer
 4. Write prolifically and honestly, improving as much as I can, so that I can be read, and people can feel something from what I have written
 
+When your goals are based on fleeting material success, or easily attained and forgotten things just to say "I am meeting my goals!" they are ultimately meaningless. As soon as you meet them, you will be looking for more. And idle hands are the devil's playthings.
 
+I often find myself losing motivation with some of my longer term goals if I do not have short term goals along the way. For example, with writing I was writing 500 words every other day when the Digital Writer's Festival Microfiction Challenge was on, because I had metrics that I had to meet to further my overarching goal. But with that over I have to revert to larger short term goals, like finish this blog post, or finish my current short story (I will get to it I swear!).
+
+> Picasso remained prolific his entire life. He lived into his nineties and continued to produce art up until his final years. Had his metric been "Become famous" or "Make a buttload of money in the art world" or "Paint one thousand pictures," he would have stagnated at some point along the way.[...]
+>
+> His underlying value was simple and humble. And it was endless. It was the value "honest expression."
+
+### Relationships
+
+> People can't solve your problems for you. And they shouldn't try, because that won't make you happy. You can't solve other people's problems for them either, because that likewise won't make them happy.[...] a healthy relationship is when two people solve their own problems in order to feel good about each other.
+
+If you are living an unhealthy lifestyle, your partner cannot solve that problem for you. They can live as an example, and eventually you might come around and solve your own problem, and stop smoking/drinking/eating KFC and live a healthy life too. If you are stressed at work, your partner cannot solve that problem for you. They can be there for you after work, and provide a loving home environment, but maybe it's time to move on to a different workplace.
+
+If you are trying to solve your partner's problems and make them happy all the time, Manson says, then your only value _becomes_ making your partner happy. Likewise if you expect your partner to save you all the time, your only value _becomes_ your partner making you happy. This is not healthy. You are two separate and distinct individuals still, and you must solve your own problems in the end. Otherwise, if the relationship ends, where will you end up then?
+
+> People with strong boundaries:
+> - Are not afraid of a temper tantrum, an argument, or getting hurt.
+> - Understand that it's unreasonable to expect two people to accommodate each other 100 percent and fulfil every need the other has.
+> - Understand that they may hurt people's feelings sometimes, but ultimately can't determine how other people feel.
+> - Understand that a health relationship is not about controlling one another's emotions, but rather about each partner supporting the other in their individual growth and in solving problems.
+
+It's so important to have strong boundaries in a relationship, that's how you build mutual trust and respect. The major thing here though is the support in individual growth and in solving problems. My partner supports me all the time to grow, and I her. It is invaluable to have someone cheering you along as you move toward your overarching life goals. My partner supports me in my writing, career, and inspires me to live healthily through exercise and our vegan lifestyle. Likewise I support her with her goals, and we both understand that while we cannot fulfil goals for each other, we can help each other along the way.
+
+And sometimes you have a shitty day, or something terrible happens, and in those times your partner's support is what matters most. Sometimes you disagree with each other, but you will get over those disagreements if you have strong boundaries and mutual trust and respect. Two people cannot agree all the time on everything, but there will be a core of values that you both hold dear. After all, that's what brought you together in the beginning!
+
+> It's not about giving a fuck about everything your partner gives a fuck about; it's about giving a fuck about your partner regardless of the fucks he or she gives. That's unconditional love, baby.
+
+I'll wrap this extremely long post up with the last quote that resonated with me from Manson, also about relationships. He talks about being honest with his wife as a basis of building trust, and that goes both ways. Your partner can be honest with you too. After all if you can't be honest with each other and have to censor yourself around your partner, why even bother being in a relationship? Manson says this about his wife:
+
+> She calls me out on my bullshit too, of course, which is one of the most important traits she offers me as a partner. Sure, my ego gets bruised sometimes, and I bitch and complain and try to argue, but a few hours later I come sulking back and admit she was right. And holy crap she makes me a better person, even though I hate hearing it at the time.
+
+We don't like hearing about our flaws or our bad habits, especially ones that are self inflicted. Our first reaction is to get defensive and fight back on it. But at the end of the day, our partners are only trying to help us. Because they love us and want us to be the best people we can be. And that is what this book is about, being the best person you can be. Even if you don't usually read self-help like me, please check this book out, it will give you some things to think about, and might change your life for the better!
