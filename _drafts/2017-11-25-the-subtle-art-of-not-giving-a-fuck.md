@@ -25,7 +25,7 @@ Now, this book covers a lot of ground, so I am going to break this up into secti
 
 > The more interesting question is the pain. What is the pain that you want to sustain? That is the hard question that matters, the question that will actually get you somewhere. It's the question that can change a perspective, a life. It's what makes me, me, and you, you. It's what defines us and separates us and ultimately brings us together.
 
-Everyone likes pleasurable things, but often to get better at something, be it writing, playing an instrument, your career, or your relationship, there is going to be a fair amount of pain involved. We choose what we suffer for. No one picks up a guitar and becomes Jimi Hendrix. There are a lot of false starts, and hundreds of hours of practice, and plenty of self-doubt and procrastination. And sometimes all that suffering can be for naught. But the important thing is that we _can choose_. Manson gives the same example, of having a dream of someday being a rockstar. But he wasn't willing to _suffer_ for it.
+Everyone likes pleasurable things, but often to get better at something, be it writing, playing an instrument, your career, or your relationship, there is going to be a fair amount of pain involved. We choose what we suffer for. No one picks up a guitar one day and becomes Jimi Hendrix the next. There are a lot of false starts, and hundreds of hours of practice, and plenty of self-doubt and procrastination. And sometimes all that suffering can be for naught. But the important thing is that we _can choose_. Manson gives the same example, of having a dream of someday being a rockstar. But he wasn't willing to _suffer_ for it.
 
 > I was in love with the result—the image of me on stage, people cheering, me rocking out, pouring my heart into what I was playing—but I wasn't in love with the process. And because of that, I failed. And because of that, I failed at it. Repeatedly. Hell, I didn't even try hard enough to fail at it. I hardly tried at all. The daily drudgery of practicing, the logistics of finding a group and rehearsing, the pain of finding gigs and actually getting people to show up and give a shit, the broken strings, the blown tube amp, hauling forty pounds of gear to and from rehearsals with no car. It's a mountain of a dream and a mile-high climb to the top. And what it took me a long time to discover is that I didn't like to climb much. I just liked to imagine the summit.
 
@@ -35,7 +35,7 @@ I've felt this before with my writing. Everyone likes to imagine themselves like
 
 ### Measuring Self-Worth
 
-Manson relates a story about Dave Mustaine, the lead guitarist and founder of heavy metal band _Megadeth_, and how he was kicked out of his first band. Megadeth has been extremely successful, selling over 25 million records. Unfortunately the band Mustaine was kicked out of is _Metallica_ who have sold over 100 million albums. For many years, Mustaine said in an interview, he felt inadequate because of Metallica's success even though he was successful in his own right.
+Manson relates a story about Dave Mustaine, the lead guitarist and founder of heavy metal band _Megadeth_, and how he was kicked out of his first band. Megadeth has been extremely successful, selling over 25 million albums. Unfortunately the band Mustaine was kicked out of is _Metallica_ who have sold over 100 million albums. In the early 2000's Mustaine said in an interview that he felt inadequate because of Metallica's success even though he was successful in his own right.
 
 > We intrinsically measure ourselves against others and vie for status. The question is not _weather_ we evaluate ourselves against others; rather the question is _by what standard_ do we measure ourselves?
 
@@ -69,7 +69,7 @@ If you feel that you can only feel good about yourself by staying positive all t
 
 Manson is 100% correct here. This is incredibly easy to observe. The media is rife with emotionally manipulative stories and manufactured outrage. This is especially prevalent online, where the drive for clicks and advertising dollars is so high. The news outlets don't need to necessarily agree with or believe in the trash that is written in their opinion pieces. Outrage one side of society and you'll get the other to agree with you, that ends up with social media sharing, more outrage, and more clicks, which ultimately means more money.
 
-I'll never forget the lessons learned from one of my high school English teachers, Mr. Reeves. He was a no-bullshit kinda guy, and our term on media studies was spent ripping apart bias in media and tabloid news programs like _A Current Affair_. We learned that whoever controls the news is a very powerful person, as they control public opinion. people like Rupert Murdoch, or more recently Jeff Bezos with the _Washington Post_ or Laurene Powell with _The Atlantic_. Rich and powerful people like these use the media to drive adoption of their own agendas and in many cases cause division among the population. See the most recent U.S. election for a great example.
+I'll never forget the lessons learned from one of my high school English teachers, Mr. Reeves. He was a no-bullshit kinda guy, and our term on media studies was spent ripping apart bias in media and tabloid news programs like _A Current Affair_. We learned that whoever controls the news is a very powerful person, as they control public opinion. People like Rupert Murdoch, or more recently Jeff Bezos with the _Washington Post_ or Laurene Powell with _The Atlantic_. Rich and powerful people like these use the media to drive adoption of their own agendas and in many cases cause division among the population. See the most recent U.S. election for a great example.
 
 Long story short, be mindful of this the next time you start feeling outraged by some news story or Facebook post. That's the point of its posting, the outrage is by design. Save your fucks for something more important.
 
@@ -110,6 +110,8 @@ When your goals are based on fleeting material success, or easily attained and f
 
 I often find myself losing motivation with some of my longer term goals if I do not have short term goals along the way. For example, with writing I was writing 500 words every other day when the Digital Writer's Festival Microfiction Challenge was on, because I had metrics that I had to meet to further my overarching goal. But with that over I have to revert to larger short term goals, like finish this blog post, or finish my current short story (I will get to it I swear!).
 
+The point is those major goals _are there_, so when I set a goal like "get my first book published" it's just a piece of the puzzle, not the whole thing at once.
+
 > Picasso remained prolific his entire life. He lived into his nineties and continued to produce art up until his final years. Had his metric been "Become famous" or "Make a buttload of money in the art world" or "Paint one thousand pictures," he would have stagnated at some point along the way.[...]
 >
 > His underlying value was simple and humble. And it was endless. It was the value "honest expression."
@@ -124,11 +126,11 @@ If you are trying to solve your partner's problems and make them happy all the t
 
 > People with strong boundaries:
 > - Are not afraid of a temper tantrum, an argument, or getting hurt.
-> - Understand that it's unreasonable to expect two people to accommodate each other 100 percent and fulfil every need the other has.
+> - Understand that it's unreasonable to expect two people to accommodate each other 100 percent and fulfill every need the other has.
 > - Understand that they may hurt people's feelings sometimes, but ultimately can't determine how other people feel.
 > - Understand that a health relationship is not about controlling one another's emotions, but rather about each partner supporting the other in their individual growth and in solving problems.
 
-It's so important to have strong boundaries in a relationship, that's how you build mutual trust and respect. The major thing here though is the support in individual growth and in solving problems. My partner supports me all the time to grow, and I her. It is invaluable to have someone cheering you along as you move toward your overarching life goals. My partner supports me in my writing, career, and inspires me to live healthily through exercise and our vegan lifestyle. Likewise I support her with her goals, and we both understand that while we cannot fulfil goals for each other, we can help each other along the way.
+It's so important to have strong boundaries in a relationship, that's how you build mutual trust and respect. The major thing here though is the support in individual growth and in solving problems. My partner supports me all the time to grow, and I her. It is invaluable to have someone cheering you along as you move toward your overarching life goals. My partner supports me in my writing, career, and inspires me to live healthily through exercise and our vegan lifestyle. Likewise I support her with her goals, and we both understand that while we cannot fulfill goals for each other, we can help each other along the way.
 
 And sometimes you have a shitty day, or something terrible happens, and in those times your partner's support is what matters most. Sometimes you disagree with each other, but you will get over those disagreements if you have strong boundaries and mutual trust and respect. Two people cannot agree all the time on everything, but there will be a core of values that you both hold dear. After all, that's what brought you together in the beginning!
 
