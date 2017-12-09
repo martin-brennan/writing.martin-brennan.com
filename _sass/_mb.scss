@@ -54,6 +54,12 @@ a {
       width: 98%; 
     }
   }
+
+  @media screen and (max-width: 700px) {
+    .home {
+      padding: 15px;
+    }
+  }
 }
 
 .post-nav {
@@ -195,6 +201,17 @@ blockquote {
   .wrapper {
     border: 0;
   }
+
+  @media screen and (max-width: 700px) {
+    border: 0;
+    padding-top: 0;
+  }
+}
+
+.footer-content {
+  @media screen and (max-width: 700px) {
+    padding: 15px;
+  }
 }
 
 .post-header {
@@ -205,10 +222,15 @@ blockquote {
   padding: 0 60px;
   border: 1px solid #e8e8e8;
   border-bottom: 0px;
+
+  @media screen and (max-width: 700px) {
+    padding: 0 40px;
+    border: 0;
+  }
 }
 
 .home-header {
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 40px;
 
   .quill {
@@ -264,6 +286,25 @@ blockquote {
     @include media-query($on-palm) {
       margin-top: 10px;
     }
+}
+
+.single-post {
+  .oc {
+    width: 200px;
+    margin: 10px auto
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .single-post {
+    &.wrapper {
+     padding: 0 15px;
+    }
+    .oc {
+      margin: 10px auto 25px;
+      display: block;
+    }
+  }
 }
 
 .block-phone {
