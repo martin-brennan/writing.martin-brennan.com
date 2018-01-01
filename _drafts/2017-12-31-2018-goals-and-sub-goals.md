@@ -42,3 +42,33 @@ I still somewhat struggled with this. I've installed site blocker extensions on 
 
 ### 2018 Goals
 
+I feel like I don't have as tangible goals for this year, nevertheless I believe that there needs to be some core goals around my year so I can see progress and growth as a person.
+
+**Goal 1 - Get my novel to a queryable state**
+
+I've let this novel linger for too long. Finishing the actual first draft year was great, and I should've finished the second this year. When I say queryable state, I want to:
+
+* Finish the second draft
+* Have it read by beta readers
+* Finish a third draft
+* Start sending query letters to publishers
+
+That last point will be difficult, and a hell of a learning curve, as I've never attempted to get something like a novel published before. Sure I've sent off short stories / microfiction to be considered for publishing, but that isn't quite the same (in my mind). Even if I get a 100% rejection/ignore rate, I will be happy as long as I've gotten my book out there.
+
+**Goal 2 - Start writing my second book**
+
+Last year I focused more on longer short stories / novelettes. This year, I think it's time to continue writing and get the ball rolling on another book. I've had this idea in my head for a while, as well as another that I wouldn't feel comfortable tackling until I've written more and developed my craft a little better.
+
+For my first idea, I wrote about the downfall of a once great motorcycle club in California, full of losers and outcasts at the bottom of the totem pole. For my second novel I am going to write in the horror genre for the first time. The general outline is that it has been several years since the start of a zombie apocalypse. A colony of survivors lives on an island in the middle of a great river in the United States. To rebuild society in earnest, they need to start up large scale agriculture again. With most of the previous crops long dead, their only hope is to travel to Colorado's Fort Collins Seed Vault to get the resources they need to start anew. This trip must be conducted toward the end of winter, when the dead are still frozen but whether conditions are more favourable. Whether humanity can survive _The Thaw_ and thrive once again relies on the efforts of the band of hardened survivalists from the old world in the face of the endless dead and human foes. I see the book as a cross between _The Stand_ and _The Walking Dead_, a cross country trip full of peril and sacrifice.
+
+Anyway, that's the major project I will be working on this year!
+
+**Goal 3 - Finish my novelettes from 2017 and get my name out there more**
+
+First of all, I need to finish the third story I was writing, which I had outlined until the end. Then, all three stories need an editing pass or two. I know some story and character improvements that I'd like to work into the first two (though the first one I will not likely send out to try and get published). I would then like to send out two of these stories to various magazines and journals to see if I can get them published, though with the caveat that their length makes it difficult to find a home for them (10-15k words).
+
+This, along with the submission of my first book to publishers, will be parts of getting my name out there. I want to submit to more journals and magazines, I had so much fun writing microfiction and submitting it. I want to just keep building my back catalogue, getting feedback (extremely important to me though I haven't gotten much of it yet), and submitting to as many places as I can. I'm following writers I admire on twitter (at least ones who don't tweet about Trump 24/7) and I'm trying to get a feel for the writing landscape in Australia. One thing I'm a little concerned about is the strong focus on literary fiction, where I'd say the things I like to write are genre fiction most of the time. I need to figure out the places where such pieces can be published and focus on submitting there. I'll get there eventually!
+
+**Goal 4 - Stop biting my nails**
+
+I've struggled with this for many years, it's a bad habit, and I'd really like to stop doing it. I've picked up some gross and bitter nail stuff, I just need to keep remembering to apply it and just NOT BITE. I've had some success in the past with this and a rubber band around my wrist, but I always seem to fall off the wagon at some point. I just want to stop!
