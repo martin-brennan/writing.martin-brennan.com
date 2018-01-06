@@ -8,7 +8,13 @@ layout: post
 oc: true
 ---
 
-<span class="first-letter">A</span>NOTHER year gone, this is the third year that I'll be writing up a list of goals and sub-goals that I want to achieve for the year. It's been a massive year, and there is a lot to review. As I get older my years seem to get fuller, and I can't see that slowing down any time soon, especially with the boys getting older. There is already so much happening in 2018, so I'll go over my 2017 first to get the new year underway.
+<span class="first-letter">A</span>NOTHER year gone, this is the third year that I'll be writing up a list of goals and sub-goals that I want to achieve for the year. It's been a massive year, and there is a lot to review. As I get older my years seem to get fuller, and I can't see that slowing down any time soon, especially with the boys getting older.
+
+2017 was massive because there were a lot of major life events. As a family, we flew together in May to Osaka, Japan for a ten day trip. First thing I'll tell you is that seven hour flights with a three year old and a just over one and a half year old is no picnic, even with many distractions and lots of food. However, we got to Osaka in one piece exhausted and had the time of our lives. I journaled each day on the trip and I plan to turn that into a post here at some point. It was my partner's first international flight and to a place she's dreamed of going to since she was in school, and the boys' first trip overseas as well. We plan to take more trips like this as a family as often as we can, so the boys can experience many different cultures and places.
+
+I also switched jobs this year, from my [previous job as a UI developer](https://martin-brennan.com/back-to-ruby/) to a software consultancy run by an old friend and previous colleague. This necessitated moving together to Melbourne. So before we left for Japan, we broke lease and packed away all of our belongings into two [Taxiboxes](https://www.taxibox.com.au) and on our return began planning the move down. I drove down solo with Kojack on a long cross-country trip over three days (an experience itself) and lived with my friend and his wife for five weeks until I could find a place for our family to live. By early July we were all moved down and we started our life in Emerald, Victoria. It's been an interesting change, living in another state for the first time. Both my partner and I have lived in QLD all of our life. But it's been a fun experience, and we would do it again if we had the chance.
+
+There is already so much happening in 2018, so I'll go over my 2017 first to get the new year underway.
 
 <!--more-->
 
@@ -59,7 +65,9 @@ That last point will be difficult, and a hell of a learning curve, as I've never
 
 Last year I focused more on longer short stories / novelettes. This year, I think it's time to continue writing and get the ball rolling on another book. I've had this idea in my head for a while, as well as another that I wouldn't feel comfortable tackling until I've written more and developed my craft a little better.
 
-For my first idea, I wrote about the downfall of a once great motorcycle club in California, full of losers and outcasts at the bottom of the totem pole. For my second novel I am going to write in the horror genre for the first time. The general outline is that it has been several years since the start of a zombie apocalypse. A colony of survivors lives on an island in the middle of a great river in the United States. To rebuild society in earnest, they need to start up large scale agriculture again. With most of the previous crops long dead, their only hope is to travel to Colorado's Fort Collins Seed Vault to get the resources they need to start anew. This trip must be conducted toward the end of winter, when the dead are still frozen but whether conditions are more favourable. Whether humanity can survive _The Thaw_ and thrive once again relies on the efforts of the band of hardened survivalists from the old world in the face of the endless dead and human foes. I see the book as a cross between _The Stand_ and _The Walking Dead_, a cross country trip full of peril and sacrifice.
+For my first idea, I wrote about the downfall of a once great motorcycle club in California, full of losers and outcasts at the bottom of the totem pole. For my second novel I am going to write in the horror genre for the first time. The general outline is that it has been several years since the start of a zombie apocalypse. A colony of survivors lives on an island in the middle of a great river in the United States. To rebuild society in earnest, they need to start up large scale agriculture again. With most of the previous crops long dead, their only hope is to travel to Colorado's Fort Collins Seed Vault to get the resources they need to start anew.
+
+This trip must be conducted toward the end of winter, when the dead are still frozen but whether conditions are more favorable. Whether humanity can survive _The Thaw_ and thrive once again relies on the efforts of the band of hardened survivalists from the old world in the face of the endless dead and human foes. I see the book as a cross between _The Stand_ and _The Walking Dead_, a cross country trip full of peril and sacrifice.
 
 Anyway, that's the major project I will be working on this year!
 
@@ -69,6 +77,22 @@ First of all, I need to finish the third story I was writing, which I had outlin
 
 This, along with the submission of my first book to publishers, will be parts of getting my name out there. I want to submit to more journals and magazines, I had so much fun writing microfiction and submitting it. I want to just keep building my back catalogue, getting feedback (extremely important to me though I haven't gotten much of it yet), and submitting to as many places as I can. I'm following writers I admire on twitter (at least ones who don't tweet about Trump 24/7) and I'm trying to get a feel for the writing landscape in Australia. One thing I'm a little concerned about is the strong focus on literary fiction, where I'd say the things I like to write are genre fiction most of the time. I need to figure out the places where such pieces can be published and focus on submitting there. I'll get there eventually!
 
+I would also like to spread my writing work around to a wider group of friends and family, so I plan to post about this blog on my Instagram. Growing my audience in general would be nice too; this blog has nowhere near the traffic of my tech blog (I expect this is because I have no SEO-orientation here).
+
 **Goal 4 - Stop biting my nails**
 
 I've struggled with this for many years, it's a bad habit, and I'd really like to stop doing it. I've picked up some gross and bitter nail stuff, I just need to keep remembering to apply it and just NOT BITE. I've had some success in the past with this and a rubber band around my wrist, but I always seem to fall off the wagon at some point. I just want to stop!
+
+**Goal 5 - Move back to QLD**
+
+While it's been wonderful living down in Victoria, I can and do now work 100% remote, so we can live anywhere we like. So we are planning to move back up to QLD to live in the Noosa area. We can have a beach lifestyle, and be situated in an area that is very vegan friendly, and has a few different schools that we are considering sending our sons to. We will be back closer to our family again so the boys can see their grandparents more regularly, as well as the rest of their extended family, and we can visit our friends regularly again too.
+
+It sounds a little crazy to move back up again after only one year, but we plan to do the things we wanted to do down in Melbourne before we leave. Perhaps one day we'll come back and live here when the boys are older, closer to the city. But for now QLD is the goal once more. We will likely follow a similar plan to what we did this year. I will drive up, perhaps this time with another person with a moving truck, and the boys and my partner will fly up (cross country trips with kids still young is probably not a good idea!). Then we will likely stay with family for a couple of weeks while we find a place in Noosa, though ideally we would find one before we left Victoria.
+
+**Goal 6 - Get back on the bike**
+
+We got the boys bikes for Christmas, and living in the Dandenong Ranges I haven't had much of a chance to ride my bike. I'm not game or fit enough to ride up and down steep, narrow hills, even though there are plenty of people who do so up here. Moving to Noosa there will be a lot more flatland to ride around on, and beachfront areas. It will be nice to go for family rides with the boys on our bikes and us on ours. And once I get back into it, I plan on upgrading my bike at some point, as the one I have now is getting a little old (it will need a good service before riding).
+
+**Goal 7 - Spend more time with the dog**
+
+Our dog, Kojack, is a good boy but sometimes doesn't get as much attention with a crazy house with two little boys. Once back in QLD he will be able to have visits with our friends' dogs, and run around on the beach which he loves. Driving down to Victoria with just me and him was a fun experience too, and it will be on the way back as well. It would be good to get him back into some sort of obedience training. He did some earlier this year and is a better dog for it, but still needs a little more work. We all love him, and the boys have shown interest in walking him this year, so getting out on more family walks and playtime with the dog will be great in 2018.
