@@ -67,7 +67,7 @@ Last year I focused more on longer short stories / novelettes. This year, I thin
 
 For my first idea, I wrote about the downfall of a once great motorcycle club in California, full of losers and outcasts at the bottom of the totem pole. For my second novel I am going to write in the horror genre for the first time. The general outline is that it has been several years since the start of a zombie apocalypse. A colony of survivors lives on an island in the middle of a great river in the United States. To rebuild society in earnest, they need to start up large scale agriculture again. With most of the previous crops long dead, their only hope is to travel to Colorado's Fort Collins Seed Vault to get the resources they need to start anew.
 
-This trip must be conducted toward the end of winter, when the dead are still frozen but whether conditions are more favorable. Whether humanity can survive _The Thaw_ and thrive once again relies on the efforts of the band of hardened survivalists from the old world in the face of the endless dead and human foes. I see the book as a cross between _The Stand_ and _The Walking Dead_, a cross country trip full of peril and sacrifice.
+This trip must be conducted toward the end of winter, when the dead are lessened because they are frozen in place but weather conditions are more favourable. Whether humanity can survive _The Thaw_ and thrive once again relies on the efforts of the band of hardened survivalists from the old world in the face of the endless dead and human foes. I see the book as a cross between _The Stand_ and _The Walking Dead_, a cross country trip full of peril and sacrifice.
 
 Anyway, that's the major project I will be working on this year!
 
@@ -79,22 +79,12 @@ This, along with the submission of my first book to publishers, will be parts of
 
 I would also like to spread my writing work around to a wider group of friends and family, so I plan to post about this blog on my Instagram. Growing my audience in general would be nice too; this blog has nowhere near the traffic of my tech blog (I expect this is because I have no SEO-orientation here).
 
-**Goal 4 - Stop biting my nails**
+**Goal 4 - Get back on the bike**
 
-I've struggled with this for many years, it's a bad habit, and I'd really like to stop doing it. I've picked up some gross and bitter nail stuff, I just need to keep remembering to apply it and just NOT BITE. I've had some success in the past with this and a rubber band around my wrist, but I always seem to fall off the wagon at some point. I just want to stop!
+We got the boys bikes for Christmas, and living in the Dandenong Ranges I haven't had much of a chance to ride my bike. I'm not game or fit enough to ride up and down steep, narrow hills, even though there are plenty of people who do so up here. We are likely going to move somewhere else at the end of our lease, so wherever we go needs flatland to ride around on, and it would be great to have some beachfront areas. It will be nice to go for family rides with the boys on our bikes and us on ours. And once I get back into it, I plan on upgrading my bike at some point, as the one I have now is getting a little old (it will need a good service before riding).
 
-**Goal 5 - Move...somewhere**
+**Goal 5 - Spend more time with the dog**
 
-While it's been wonderful living down in Victoria, I can and do now work 100% remote, so we can live anywhere we like. So amongst other ideas, we are planning to move back up to QLD to live in the Noosa area. We can have a beach lifestyle, and be situated in an area that is very vegan friendly, and has a few different schools that we are considering sending our sons to. We will be back closer to our family again so the boys can see their grandparents more regularly, as well as the rest of their extended family, and we can visit our friends regularly again too.
-
-It sounds a little crazy to move back up again after only one year, but we plan to do the things we wanted to do down in Melbourne before we leave. Perhaps one day we'll come back and live here when the boys are older, closer to the city. But for now QLD is the goal once more. We will likely follow a similar plan to what we did this year. I will drive up, perhaps this time with another person with a moving truck, and the boys and my partner will fly up (cross country trips with kids still young is probably not a good idea!). Then we will likely stay with family for a couple of weeks while we find a place in Noosa. We will see where we end up!
-
-**Goal 6 - Get back on the bike**
-
-We got the boys bikes for Christmas, and living in the Dandenong Ranges I haven't had much of a chance to ride my bike. I'm not game or fit enough to ride up and down steep, narrow hills, even though there are plenty of people who do so up here. Wherever we move needs to have a lot more flatland to ride around on, and beachfront areas. It will be nice to go for family rides with the boys on our bikes and us on ours. And once I get back into it, I plan on upgrading my bike at some point, as the one I have now is getting a little old (it will need a good service before riding).
-
-**Goal 7 - Spend more time with the dog**
-
-Our dog, Kojack, is a good boy but sometimes doesn't get as much attention with a crazy house with two little boys. Wherever we end up he will be able to have visits with our friends' dogs, and run around on the beach which he loves. Driving down to Victoria with just me and him was a fun experience too, and it will be on the way back as well. It would be good to get him back into some sort of obedience training. He did some earlier this year and is a better dog for it, but still needs a little more work. We all love him, and the boys have shown interest in walking him this year, so getting out on more family walks and playtime with the dog will be great in 2018.
+Our dog, Kojack, is a good boy but sometimes doesn't get as much attention with a crazy house with two little boys. Driving down to Victoria with just me and him was a fun experience, and we'd like to take him out more places like the beach. It would be good to get him back into some sort of obedience training. He did some earlier this year and is a better dog for it, but still needs a little more work. We all love him, and the boys have shown interest in walking him this year, so getting out on more family walks and playtime with the dog will be great in 2018.
 
 That's it for this year, I hope anyone reading this has a great 2018!
