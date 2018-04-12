@@ -33,6 +33,4 @@ Lee finds that "thou shalt" is an incorrect translation from the word _timshel_,
 
 > The American Standard translation [of the Bible] orders men to triumph over sin (and you can call sin ignorance). The King James translation makes a promise in 'Thou shalt,' meaning that men will surely triumph over sin. But the Hebrew word timshel—'Thou mayest'—that gives a choice. For if 'Thou mayest'—it is also true that 'Thou mayest not.' That makes a man great and that gives him stature with the gods, for in his weakness and his filth and his murder of his brother he has still the great choice. He can choose his course and fight it through and win.
 
-Everyone has a choice in their life on what they do. Whether they are good or evil, or whether they follow the course of their ancestors. It is up to the individual, and that is what makes mankind unique.
-
-There is so much about this novel that I have not covered with this essay, so much to discover and enjoy, I implore you to go out and read it. _Timshel_!
+Everyone has a choice in their life on what they do. Whether they are good or evil, or whether they follow the course of their ancestors. It is up to the individual, and that is what makes mankind unique. Although I found that the first half of the novel had a lot more steam than the second half, the thing as a whole had so much to say and so much impact that it left a lasting impression on me. There is so much about this novel that I have not covered with this essay, so much to discover and enjoy, I implore you to go out and read it. _Timshel_!
