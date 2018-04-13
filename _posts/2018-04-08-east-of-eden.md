@@ -13,7 +13,7 @@ category: essay
     <cite>— Lee, East of Eden</cite>
 </blockquote>
 
-<span class="first-letter">T</span>HERE are a few books you may read in your life that change you in some profound way, or stuns you with its beauty in a way that makes the book stick in your mind for a long time after you finish reading it. East of Eden was such a book for me. From the first few pages of reading Steinbeck's introduction where he paints a portrait of the Salinas Valley I was hooked. Steinbeck is an author that held me in awe of the mastery of his craft, much in the same way that Cormac McCarthy did when I read _Blood Meridian_. It made me hope that if I could write something even a tenth as beautiful in my life, I would die happy.
+<span class="first-letter">T</span>HERE are a few books you may read in your life that change you in some profound way, or stun you with their beauty in a way that makes the book stick in your mind for a long time after you finish reading it. East of Eden was such a book for me. From the first few pages of reading Steinbeck's introduction where he paints a portrait of the Salinas Valley I was hooked. Steinbeck is an author that held me in awe of the mastery of his craft, much in the same way that Cormac McCarthy did when I read _Blood Meridian_. It made me hope that if I could write something even a tenth as beautiful in my life, I would die happy.
 
 <!--more-->
 
