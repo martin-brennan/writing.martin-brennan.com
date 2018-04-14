@@ -1,6 +1,6 @@
 ---
 title: Ozymandias
-date: 2018-04-16T08:15:00+10:00
+date: 2018-04-02T08:15:00+10:00
 author: Martin Brennan
 layout: post
 permalink: /ozymandias-percy-bysshe-shelley/
