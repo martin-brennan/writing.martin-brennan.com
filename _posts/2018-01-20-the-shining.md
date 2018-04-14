@@ -6,6 +6,7 @@ layout: post
 permalink: /the-shining/
 oc: true
 category: essay
+byline: by Stephen King
 ---
 
 <blockquote class="hero">

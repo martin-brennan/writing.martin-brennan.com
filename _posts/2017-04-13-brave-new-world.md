@@ -1,10 +1,11 @@
 ---
-title: Brave New World by Aldous Huxley
+title: Brave New World
 permalink: /brave-new-world/
 date: 2017-04-13T21:00:00+10:00
 author: Martin Brennan
 layout: post
 oc: true
+byline: by Aldous Huxley
 ---
 
 <blockquote class="hero"><p>O, wonder!<br/>How many goodly creatures are there here<br/>How beauteous mankind is!<br/>O brave new world, that has such people in't!</p><cite>— William Shakespeare, The Tempest</cite></blockquote>

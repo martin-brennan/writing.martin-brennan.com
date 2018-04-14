@@ -5,6 +5,7 @@ author: Martin Brennan
 layout: post
 permalink: /canto-del-jilguero/
 oc: true
+byline: by Martin Brennan
 ---
 
 <span class="first-letter">A</span>S A little introduction, recently the [Digital Writers’ Festival](http://2017.digitalwritersfestival.com/) with a few different events, projects, and livestreams that emerging writers could participate in. One such event was the Swinburne Microfiction Challenge, where for ten days a single word theme was released, and you could submit a five hundred word piece on that theme. I managed to submit for five of those days. This is the first, where the theme was HOME.

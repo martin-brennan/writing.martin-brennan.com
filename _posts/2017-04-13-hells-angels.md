@@ -1,10 +1,11 @@
 ---
-title: Hell's Angels by Hunter S. Thompson
+title: Hell's Angels
 permalink: /hells-angels/
 date: 2017-04-13T09:00:00+10:00
 author: Martin Brennan
 layout: post
 oc: true
+byline: by Hunter S. Thompson
 ---
 
 <blockquote class="hero"><p>He died in the best outlaw tradition; homeless, stone broke, and owning nothing but his clothes and his Harley</p><cite>— Hunter S. Thompson</cite></blockquote>

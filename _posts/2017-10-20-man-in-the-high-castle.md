@@ -1,9 +1,10 @@
 ---
-title: Man in the High Castle by Philip K. Dick
+title: Man in the High Castle
 date: 2017-10-20T21:10:00+10:00
 author: Martin Brennan
 layout: post
 permalink: /man-in-the-high-castle/
+byline: by Philip K. Dick
 oc: true
 ---
 

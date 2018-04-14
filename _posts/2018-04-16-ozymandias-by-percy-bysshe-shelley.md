@@ -1,9 +1,11 @@
 ---
-title: Ozymandias by Percy Bysshe Shelley
+title: Ozymandias
 date: 2018-04-16T08:15:00+10:00
 author: Martin Brennan
 layout: post
 permalink: /ozymandias-percy-bysshe-shelley/
+byline: by Percy Bysshe Shelley
+category: poem
 ---
 
 <span class="first-letter">I</span> MET a traveller from an antique land,<br>

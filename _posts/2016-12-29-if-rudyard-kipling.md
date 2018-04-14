@@ -1,9 +1,11 @@
 ---
-title: If by Rudyard Kipling
+title: If
 date: 2016-12-29T08:15:00+10:00
 author: Martin Brennan
 layout: post
 permalink: /if-rudyard-kipling/
+byline: by Rudyard Kipling
+category: powm
 ---
 
 <blockquote class="hero"><p>You’ll be a Man, my son!</p><cite>— Rudyard Kipling</cite></blockquote>

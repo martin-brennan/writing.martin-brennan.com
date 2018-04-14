@@ -1,10 +1,11 @@
 ---
-title: South of the Border, West of the Sun by Haruki Murakami
+title: South of the Border, West of the Sun
 date: 2017-09-14T11:02:00+10:00
 author: Martin Brennan
 layout: post
 permalink: /south-of-the-border-west-of-the-sun/
 oc: true
+byline: by Haruki Murakami
 ---
 
 <blockquote class="hero"><p>'For a while' is a phrase whose length can't be measured. At least by the person who's waiting.</p><cite>— Haruki Murakami, South of the Border, West of the Sun</cite></blockquote>

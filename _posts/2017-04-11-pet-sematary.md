@@ -1,10 +1,11 @@
 ---
-title: Pet Sematary by Stephen King
+title: Pet Sematary
 permalink: /pet-sematary/
 date: 2017-04-11T09:00:00+10:00
 author: Martin Brennan
 layout: post
 oc: true
+byline: by Stephen King
 ---
 
 <blockquote class="hero"><p>Death is a mystery, and burial is secret</p><cite>— Stephen King</cite></blockquote>

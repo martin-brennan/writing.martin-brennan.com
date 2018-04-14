@@ -1,10 +1,11 @@
 ---
-title: For Whom The Bell Tolls by John Donne
+title: For Whom The Bell Tolls
 permalink: /for-whom-the-bell-tolls/
 date: 2017-02-04T21:00:00+10:00
 author: Martin Brennan
 layout: post
 oc: false
+byline: by John Donne
 ---
 
 <blockquote class="hero"><p>It tolls for thee</p><cite>— John Donne</cite></blockquote>

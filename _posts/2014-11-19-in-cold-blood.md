@@ -7,6 +7,7 @@ author: Martin Brennan
 layout: post
 permalink: /in-cold-blood/
 oc: true
+byline: by Truman Capote
 ---
 
 <blockquote class="hero">

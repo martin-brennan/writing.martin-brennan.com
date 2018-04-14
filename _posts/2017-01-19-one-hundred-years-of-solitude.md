@@ -1,10 +1,11 @@
 ---
-title: One Hundred Years of Solitude by Gabriel García Márquez
+title: One Hundred Years of Solitude
 permalink: /one-hundred-years-of-solitude/
 date: 2017-01-19T20:00:00+10:00
 author: Martin Brennan
 layout: post
 oc: true
+byline: by Gabriel García Márquez
 ---
 
 <blockquote class="hero">

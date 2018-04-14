@@ -6,6 +6,7 @@ layout: post
 permalink: /slouching-towards-bethlehem/
 oc: true
 category: essay
+byline: by Joan Didion
 ---
 
 <blockquote class="hero">

@@ -1,10 +1,11 @@
 ---
-title: The Subtle Art of Not Giving A Fuck by Mark Manson
+title: The Subtle Art of Not Giving A Fuck
 date: 2017-11-25T13:26:00+10:00
 author: Martin Brennan
 layout: post
 permalink: /the-subtle-art-of-not-giving-a-fuck/
 oc: true
+byline: by Mark Manson
 ---
 
 <blockquote class="hero"><p>Self-improvement can be achieved, but not with a quick fix. It's a long, arduous journey of personal and spiritual discovery.</p><cite>— Lisa Simpson</cite></blockquote>

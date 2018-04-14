@@ -1,30 +1,26 @@
 ---
-layout: home
+layout: newdefault
 ---
 
-<div class="home-header">
-  <img class="quill" src="/images/quill.svg" alt="martin brennan" />
-  <p>The Writing of Martin Brennan</p>
-  <div class="home-header-nav">
-    <a href="/">Home</a> ~
-    <a href="/archive">Archive</a> ~
-    <a href="https://martin-brennan.com">Software</a>
-  </div>
-</div>
-<div class="home">
+{% include top_header.html %}
+<div class="home wrapper single-post">
 
-  <ul class="post-list">
+  <ul class="post post-list">
     {% for post in paginator.posts %}
-      <li>
-        <h1 class="post-list-heading">
+      <li class="post-header-new">
+        <h1 class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
-        <span class="post-meta single-post" style="text-align: left; margin-top: 10px; margin-bottom: 15px;"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time> |
+        <h2>{{ post.byline }}</h2>
+
+        <span class="post-meta single-post"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time> | 
           <a class="share tw" href="https://twitter.com/intent/tweet?text=Check%20out%20{{ post.title }}%20at%20{{ site.url }}{{ post.permalink }}"><span class="icon-twitter"></span></a>
           <a class="share fb" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ post.permalink }}&p[title]={{ post.title }}"><span class="icon-facebook"></span></a>
           <a class="share cm" href="{{ post.permalink }}#disqus_thread"><span class="icon-comment"></span></a>
           <a class="share" href="mailto:?subject={{ post.title }} at writing.martin-brennan.com"><span class="icon-email"></span></a>
-          {% include original-content.html %}
+          {% if post.oc == true %}
+          <span class="oc">★ Original Content</span>
+          {% endif %}
         </span>
         <p>
           {{ post.excerpt }} {% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">read more...</a>{% endif %}
@@ -61,4 +57,5 @@ layout: home
   (adsbygoogle = window.adsbygoogle || []).push({});
   </script> -->
   {% include subscribe.html %}
+  {% include footer.html %}
 </div>
