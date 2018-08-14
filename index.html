@@ -2,7 +2,62 @@
 layout: newdefault
 ---
 
-{% include top_header.html %}
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,900" rel="stylesheet">
+<style>
+  body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto';
+    color: #141414;
+  }
+
+  .post-header-new > h1.post-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: black;
+    font-size: 100px;
+    max-width: 1200px;
+    padding-top: 40px;
+    line-height: .9em;
+    margin-left: -4px;
+    text-align: left;
+  }
+
+  .post-header-new > h2 {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 30px;
+  }
+
+  .wrapper {
+    border: 0;
+    max-width: none;
+    width: 1000px;
+    margin: 0 0;
+  }
+
+  .first-letter {
+    float: left;
+    font-size: 72px;
+    line-height: 40px;
+    padding-left: 0;
+    padding-right: 4px;
+    padding-top: 18px;
+    padding-bottom: 5px;
+    margin-top: -4px;
+  }
+
+  a {
+    color: blue;
+  }
+</style>
+
+
 <div class="home wrapper single-post">
 
   <ul class="post post-list">
@@ -13,17 +68,8 @@ layout: newdefault
         </h1>
         <h2>{{ post.byline }}</h2>
 
-        <span class="post-meta single-post"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time> | 
-          <a class="share tw" href="https://twitter.com/intent/tweet?text=Check%20out%20{{ post.title }}%20at%20{{ site.url }}{{ post.permalink }}"><span class="icon-twitter"></span></a>
-          <a class="share fb" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ post.permalink }}&p[title]={{ post.title }}"><span class="icon-facebook"></span></a>
-          <a class="share cm" href="{{ post.permalink }}#disqus_thread"><span class="icon-comment"></span></a>
-          <a class="share" href="mailto:?subject={{ post.title }} at writing.martin-brennan.com"><span class="icon-email"></span></a>
-          {% if post.oc == true %}
-          <span class="oc">★ Original Content</span>
-          {% endif %}
-        </span>
         <p>
-          {{ post.excerpt }} {% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">read more...</a>{% endif %}
+          {{ post.excerpt }} {% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">Read more...</a>{% endif %}
         </p>
       </li>
     {% endfor %}
@@ -56,6 +102,5 @@ layout: newdefault
   <!-- <script>
   (adsbygoogle = window.adsbygoogle || []).push({});
   </script> -->
-  {% include subscribe.html %}
-  {% include footer.html %}
+  
 </div>
