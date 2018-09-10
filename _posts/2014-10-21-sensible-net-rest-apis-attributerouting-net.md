@@ -1,0 +1,113 @@
+---
+id: 451
+title: Sensible .NET REST APIs with AttributeRouting.NET
+date: 2014-10-21T21:01:26+10:00
+author: Martin Brennan
+layout: post
+guid: http://www.martin-brennan.com/?p=451
+permalink: /sensible-net-rest-apis-attributerouting-net/
+wp88_mc_campaign:
+  - 1
+dsq_thread_id:
+  - 3139919063
+mashsb_shares:
+  - 0
+mashsb_timestamp:
+  - 1465012156
+mashsb_jsonshares:
+  - '{"total":0}'
+outofdate:
+  - 'true'
+outofdatenote:
+  - AttributeRouting.net is no longer actively maintained and is no longer required. The Web API now has attribute routing by default, and Microsoft have made it fantastic and insanely flexible.
+categories:
+  - Development
+tags:
+  - .net
+  - api
+  - AttributeRouting
+  - 'C#'
+  - REST
+---
+
+{% include deprecated.html message="AttributeRouting.net no longer exists, and it is thankfully no longer needed because the .NET Web API is now 1000x better." cssclass="danger" %}
+
+I have a lot of problems with the default .NET Web API that Microsoft pushes for people to use. You can only easily have two GETs, and one PUT, POST and DELETE route per controller. There is no easy way to create more complicated nested routes, i.e. `GET /v1/person/:id/contact/:id`, or routes that deviate from the norm. The routing syntax (not just specific for the Web API but other .NET services too) is horrible and unwieldy, and all routes must be defined in a separate file. Route constraints, precedence and validation are also tricky.
+
+All of this may turn you off of writing an API in .NET, but there is an easy solution to all of these problems in the form of [AttributeRouting.NET](http://attributerouting.net/). This NuGet package allows you to define routes **directly on controller methods**, with out of the box support for route constraints, prefixes, precedence etc. It is compatible with the Web API and also .NET MVC.<!--more-->
+
+To get started, just run the following NuGet install command:
+
+`Install-Package AttributeRouting`
+
+AttributeRouting will set some stuff up in your project for you as well, and will detect whether your project is written in C# or VB.NET.
+
+## Defining Routes
+
+Route definition is easy, because all routes are defined on controller methods. For example, here is a Person controller with a route prefix of v1/ and multiple routes defined.
+
+```csharp
+using AttributeRouting.Web.Mvc;
+using Newtonsoft.Json;
+
+[RoutePrefix("v1")]
+public class PersonController
+{
+  [GET("person")]
+  public ActionResult GetAll() {
+    var people = db.person.All(); // These orm queries are pseudocode, your own implementation will dictate.
+    return Content(JsonConvert.SerializeObject(people), "application/json");
+  }
+
+  [GET("person/{id:int}")]
+  public ActionResult Get(int id) {
+    var person = db.person.Find(id);
+    return Content(JsonConvert.SerializeObject(person), "application/json");
+  }
+
+  [GET("person/{id:int}/contact")]
+  public ActionResult Get(int id) {
+    var contact = db.person.Find(id).contact;
+    return Content(JsonConvert.SerializeObject(contact), "application/json");
+  }
+
+  [PUT("person/{id:int}")]
+  public void Update(int id, Person p) {
+    var person = db.person.Update(p);
+    Response.StatusCode = 204;
+  }
+
+  [POST("person")]
+  public int Add(Person p) {
+    var person = db.person.Add(p);
+    Response.StatusCode = 201;
+    return person.id;
+  }
+
+  [DELETE("person/{id:int}")]
+  public void Delete(int id) {
+    db.person.Destroy(id);
+    Response.StatusCode = 204;
+  }
+}
+```
+
+As you can see, these routes define the usual CRUD actions that you would have on a REST API resource along with another GET route that gets a contact record for the person. There are several handy route declaration Attributes that AttributeRouting makes use of.
+
+1. **RoutePrefix** &#8211; A route prefix is appended to all routes in the controller. In this case, I&#8217;ve just used the API version in the route but you could use them for whatever you want really.
+
+2. **Route Constraints** &#8211; For each route that involves an ID, I&#8217;ve appended `:int` to the parameter in the route definition. There are heaps of default built in constraints.
+
+3. **Route Definitions** &#8211; The best part of AttributeRouting, routes are defined **on the method**. So any GET, PUT, POST or DELETE routes are declared as an attribute with that keyword, with the parameters required.
+
+There are a couple of things to note when defining routes and combining with the default .NET model binding. First of all, querystring parameters do not need to be defined in the route. So for the route `/person?search={name}`, the route definition would just be `[GET("person")]` with the method `public ActionResult GetPerson(string search = "") { }`.
+
+The second thing to keep in mind is to be careful with [the default .NET model binder sometimes being NULL on POST](http://www.martin-brennan.com/net-mvc-4-model-binding-null-on-post/).
+
+## Routes.axd
+
+Finally, if weird stuff is happening or if you are just curious which routes are being generated by AttributeRouting, then you can visit `routes.axd` in your application, and a list of all routes will be shown.
+
+![attributerouting](/images/attributerouting.jpg)
+
+Hopefully, AttributeRouting helps you out a lot on your next project. I&#8217;ve been using to for both the MVC APIs I&#8217;ve been working on AND the client-side MVC applications just for defining normal controller routes. It&#8217;s an incredibly useful and robust extension, and it feels like what Web API should be on its own.

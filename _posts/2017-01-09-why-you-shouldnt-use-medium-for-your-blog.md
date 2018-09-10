@@ -1,0 +1,25 @@
+---
+title: Why You Should Not Use Medium for Your Personal Blog
+date: 2017-01-09T20:00:00+10:00
+author: Martin Brennan
+layout: post
+permalink: /why-you-should-not-use-medium-for-your-personal-blog/
+---
+
+Clickbait articles, hyperbolic statements, fresh graduates from 4 month code camps that declare that all current programming languages are dead, painfully un-subtle product plugs. [Medium](https://medium.com) articles are everywhere now, and not a day goes by where at least two or three of the damned things show up on the front page of Hacker News or any other site with collections of programming articles. They have become formulaic to the point of parody, and I think you are doing yourself a disservice as a tech/programming blogger by hitching your wagon to the sleek green and white machine. They are often a platform for people who have a lot to say on twitter, but very little substance to write actually useful articles.
+
+I know, it is hypocritical to slam content-less clickbait articles with a clickbait-y article of my own, but there is a point. I'll try to stop here with the actual bashing of Medium and go into some real pros and cons of running your own blog vs. hosting on Medium.
+
+<!--more-->
+
+I understand the appeal of Medium, and before it came around, there was a lot fewer centralized blogging platforms that were so well *executed*. I've considered switching to it in the past, as I have considered switching to [ghost](https://ghost.org/) for much the same reasons, and that main reason is laziness. You have to admit the articles look sleek, and the markdown editor built in is very easy to use and produces great results. It is also easy to recommended articles, and in theory connect with other authors and readers.
+
+However these pros also work as cons in a way. Though the design is clean and sleek, it is not individual in any way. There are some outstanding examples of personal software development blogs out there (see [PonyFoo](https://ponyfoo.com/) for a great example) that simply would not be possible on a platform like Medium. When I try and find an article, tutorial, or technical essay that I've read in the first, one of the first key things that jogs my memory that I'm on the right track is the design of the website. With the infinite possibilities that HTML and CSS bring for creating unique reading experiences, why stick to the same thing as everyone else?
+
+The other problem that I have with Medium is that the author is often invisible, a sideshow to the minimal design, the huge title image, and the often hyperbolic title. He or she is insignificant compared to the PLATFORM of Medium. I struggle to think of one Medium article I have read where I remembered the name of the author, that did _not_ already have a huge following before they started posting on Medium. With your own blog, it's you front and centre, master of your own content, not constantly jostling for attention with a million other writers in the same pen.
+
+Along with this, you are locked into Medium and not in control of the direction of the site. If the designers over there decide that maybe their design ain't so great, and they remove all styles, reverting to plain Times New Roman left-aligned on a white page in the search for purity, you can't do shit about it. Same thing goes if they decide to put ads after every sentence, or filter all the articles in your links through a redirection service that puts a user through an outgoing ad. Don't like it? Too bad, either suck it up or get out of the queue and let the next guy in line move up. Better to be in control of your own destiny and publishing story, and if you _do_ decide to place ads you can decide their size, location, frequency, and tastefulness. Depending on your readership numbers these ads could earn you a nice side income. Personally I make a few cents a day from this blog, which just about covers the cost of running it when the yearly Adsense payout is doled out.
+
+Hosting your own blog and styling it with custom HTML and CSS is easier than it's ever been, and a great learning experience to boot. I personally use [DigitalOcean](https://www.digitalocean.com/pricing/)'s fantastic and cheap hosting, that is basically set and forget. I use [Jekyll](https://jekyllrb.com/) to generate my posts, which lets you write in Markdown and style the HTML layouts and pages for your site in any way you like. It is also blazing fast because it does not rely on a database or server side code, but generates static HTML pages. If that's too complicated you can always use [Wordpress](https://wordpress.org/), or some other self-hosted solution that you can change yourself. Domains also come cheap, and are easy to find with services like [domainr](https://domainr.com/).
+
+There's no time like the present to make the switch. With the recent news that Medium has [burned through 123 million dollars and fired fifty employees](https://blog.medium.com/renewing-mediums-focus-98f374a960be#.hxoarm5bj), the future of the publishing platform startup is more shaky than ever. Do yourself a favour, and take control or your own content today.

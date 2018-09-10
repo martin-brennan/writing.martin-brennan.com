@@ -1,0 +1,17 @@
+---
+title: Google Chrome to Start Marking HTTP Connections Insecure
+date: 2016-09-09T21:15:00+10:00
+author: Martin Brennan
+layout: post
+permalink: /google-chrome-start-marking-http-connections-insecure/
+---
+
+Google Chrome has been steadily marching toward this end for some time now. [From January 2017, Google will start flagging pages served over HTTP](http://www.totalitech.com/2016/09/08/google-chrome-start-marking-http-connections-insecure/) as Not Secure. The way that this will work in Chrome is that an indicator will be displayed in front of the address bar like they currently do with websites served over HTTPS with an invalid certificate. This will only be done on pages with credit card or password fields, which should have been served over HTTPS in the first place anyway. [Firefox has already adopted this behaviour](https://blog.mozilla.org/tanvi/2016/01/28/no-more-passwords-over-http-please/), and their main reasons for doing this, along with the Chrome team, is that it prevents MITM (Man in the Middle) attacks.
+
+Though this approach is sound, today I was thinking about the impact this may have on regular users who may or may not be aware of the different indicators in the address bar, or be aware of the concept of HTTP/HTTPS or secure/insecure sites. Will they be alarmed that more sites suddenly have red "error" messages in the top bar? Will this behaviour, important though it may be, detract from even more pressing security issues, such as expired or invalid certificates, creating a "boy who cried wolf" situation? It would be really interesting to observe a regular user of Google Chrome and see what they do in these situations. Nevertheless I'm sure the Chrome team has thought of this, and will hopefully have helpful documentation for the lay-user.
+
+I'm still not entirely sure that serving static sites, such as this blog, over HTTPS is worth it. I do not have any pages that accept credit card or password details. Though many would probably argue this point, and scold me for not realizing the importance of it, that my reliance on third party services like Disqus for comments and Google Adsense for ads would open up attack vectors if I serve my main blog as regular HTTP. I understand what proponents of making the web HTTPS are trying to achieve, to make passive eavesdropping by government agencies and malicious hackers much more difficult, and I do believe that at some point all pages will be HTTPS. As I saw it described today, if one person wears a mask they are still suspicious, if everyone wears a mask it becomes the norm. I just struggle to find time to set up an SSL certificate, though services like [Let's Encrypt](https://letsencrypt.org/) may ease the pain of doing this, it's just very low on my list of things to do. Though that platform is not without criticism, i.e. they do not offer free wildcard SSL certificates, I believe it is still a step in the right direction to get more people and websites onto HTTPS.
+
+Google is also said to be pushing encryption as a factor in their PageRank algorithm, so it soon may become much more important to have a site served over HTTPS to stay relevant in search results. If anyone has any advice or thoughts on the matter, or whether it is important for me to do it on this blog, please let me know in the comments below!
+
+If you want to read further on the subject, Jeff Atwood wrote a great article on the topic called [Let's Encrypt Everything](https://blog.codinghorror.com/lets-encrypt-everything/).
