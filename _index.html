@@ -1,0 +1,61 @@
+---
+layout: newdefault
+---
+
+{% include top_header.html %}
+<div class="home wrapper single-post">
+
+  <ul class="post post-list">
+    {% for post in paginator.posts %}
+      <li class="post-header-new">
+        <h1 class="post-title">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h1>
+        <h2>{{ post.byline }}</h2>
+
+        <span class="post-meta single-post"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time> | 
+          <a class="share tw" href="https://twitter.com/intent/tweet?text=Check%20out%20{{ post.title }}%20at%20{{ site.url }}{{ post.permalink }}"><span class="icon-twitter"></span></a>
+          <a class="share fb" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ post.permalink }}&p[title]={{ post.title }}"><span class="icon-facebook"></span></a>
+          <a class="share cm" href="{{ post.permalink }}#disqus_thread"><span class="icon-comment"></span></a>
+          <a class="share" href="mailto:?subject={{ post.title }} at writing.martin-brennan.com"><span class="icon-email"></span></a>
+          {% if post.oc == true %}
+          <span class="oc">★ Original Content</span>
+          {% endif %}
+        </span>
+        <p>
+          {{ post.excerpt }} {% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">read more...</a>{% endif %}
+        </p>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  <table style="width: 100%;">
+    <tr>
+      <td style="width: 15%;">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous"><< Previous</a>
+        {% endif %}
+      </td>
+      <td style="text-align: center;">
+        <span class="page_number ">{{ paginator.page }} // {{ paginator.total_pages }}</span>
+      </td>
+      <td style="text-align: right; width: 15%;">
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">Next >></a>
+        {% endif %}
+      </td>
+    </tr>
+  </table>
+  <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+  <!-- Footer 2 -->
+  <!-- <ins class="adsbygoogle"
+       style="display:inline-block;width:100%;height:90px"
+       data-ad-client="ca-pub-2399752909796795"
+       data-ad-slot="1978471069"></ins> -->
+  <!-- <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script> -->
+  {% include subscribe.html %}
+  {% include footer.html %}
+</div>

@@ -30,7 +30,7 @@ twitter:
 author: mjrbrennan
 comments: true
 excerpt_separator: <!--more-->
-paginate: 10
+paginate: 3
 future: true
 scope:
   path: "_drafts"

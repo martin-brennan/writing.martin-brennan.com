@@ -3,82 +3,57 @@
 ---
 @charset "utf-8";
 
-// Our variables
-$base-font-family: "Crimson Text", sans-serif;
-$header-font-family: "Raleway", sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 2em;
-
-$spacing-unit:     30px;
-
-$text-color:       #333;
-$background-color: #fff;
-$brand-color:      #903;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    1280px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) and (max-device-width: $device) {
-        @content;
-    }
+body {
+  font-size: 16px;
+  background-color: #fff5e6;
+  color: #212127;
 }
 
-@include media-query($on-palm) {
-  h1.post-title {
-    font-size: 160% !important;
-    margin-bottom: 10px !important;
-    padding-top: 10px !important;
-  }
+.blog {
+  width: 70%;
+  margin: 50px auto;
+  display: flex;
 
-  h2.post-subtitle {
-    font-size: 100% !important;
-    width: auto !important;
-  }
-
-  .post-header {
-    padding: 5px 10px;
+  img {
+    max-width: 100%;
   }
 }
 
-@include media-query($on-laptop) {
-  .footer-col {
-    width: 100% !important;
-    padding: 0 !important;
-  }
+hr {
+  width: 65%;
+  margin: 3rem auto;
+  color: #212127;
+}
 
-  .footer-col-wrapper {
-    margin-left: 0 !important;
-  }
+.col {
+  padding: 0 2rem;
+  flex: 1;
+}
 
-  h2.post-subtitle {
-    width: auto !important;
+.me {
+  width: 170px;
+  margin-bottom: 1rem;
+  border: 1px solid #212127;
+}
+
+.author-sidebar {
+  text-align: justify;
+  border-left: 1px solid #212127;
+  max-height: 676px;
+
+  &--image {
+    width: 100%;
+    text-align: center;
   }
 }
 
+.homeback {
+  margin: 1.5rem 0;
+}
 
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting",
-        "mb"
+  "reset",
+  "colors",
+  "typography",
+  "media"
 ;

@@ -1,0 +1,97 @@
+.byline {
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-size: 1.4rem;
+  line-height: 2.5rem;
+}
+
+blockquote {
+  border: 1px solid $base-color;
+  border-right: 0;
+  border-left: 0;
+  padding: 1.6rem 0;
+  color: $base-color;
+  margin: 1.5rem 0;
+
+  p {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  p, cite {
+    color: $base-color;
+    font-family: 'Libre Baskerville';
+    font-style: italic;
+  }
+}
+
+a {
+  font-family: 'Libre Baskerville';
+  text-decoration: none;
+  border-bottom: 1px solid $accent-color;
+  color: $accent-color;
+}
+
+h1, h1 a {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 3rem;
+  color: $base-color;
+  text-decoration: none;
+  border: 0;
+}
+
+h2 {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 2rem;
+}
+
+h3, h4 {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  font-family: 'Libre Baskerville';
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
+ol {
+  margin-left: 1.5rem;
+}
+
+ul li {
+  margin: 1rem 0;
+  line-height: 1.8rem;
+  list-style-type: square;
+}
+
+ol li {
+  margin: 1rem 0;
+  line-height: 1.8rem;
+  list-style-type: upper-roman;
+}
+
+p {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.8rem;
+  margin: 1.5rem 0;
+}
+
+.page-title {
+  text-align: center;
+  margin-top: 50px;
+  
+  a {
+    color: $base-color !important;
+    font-family: 'Archivo Black', sans-serif !important;
+    text-decoration: none !important;
+    border: 0 !important;
+  }
+}
