@@ -9,7 +9,7 @@
 <div class="blog">
     {% for post in paginator.posts %}
     <div class="col">
-      <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}<br/><span class="byline">{{ post.byline }}</span></a></h1>
+      <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}<br/><span class="byline">{{ post.byline }}</span><br/><time class="posttime" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time></a></h1>
       <p>{{ post.excerpt }}</p>
       <p>{% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">Continue reading</a>{% endif %}</p>
     </div>

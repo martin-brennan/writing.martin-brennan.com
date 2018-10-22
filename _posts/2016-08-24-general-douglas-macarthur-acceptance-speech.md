@@ -6,6 +6,7 @@ date: 2016-08-24T08:15:00+00:00
 author: Martin Brennan
 layout: post
 permalink: /general-douglas-mac-arthur-sylvanus-thayer-award-acceptance-address/
+byline: by Martin Brennan
 ---
 
 <blockquote class="hero">

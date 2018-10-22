@@ -5,6 +5,7 @@ author: Martin Brennan
 layout: post
 permalink: /the-graduate/
 oc: true
+byline: by Martin Brennan
 ---
 
 <blockquote class="hero"><p>My whole life is such a waste</p><cite>— Benjamin Braddock</cite></blockquote>

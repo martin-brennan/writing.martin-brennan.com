@@ -12,13 +12,13 @@ byline: by Mark Manson
 
 <span class="first-letter">I</span> MUST admit, I don't normally go in for self-help books. I find the obsession over self-help celebrities somewhat unnatural. There is nothing unhealthy about the goal of improving oneself at all, just when people continue to latch on to other people selling their ideas and say "If I only I do what this guy says, my life will be great and all my problems will be solved!"
 
+<!--more-->
+
 But it doesn't work this way. Self-improvement, as Lisa Simpson says, is a long and arduous journey that never actually ends. There is no perfect person, no matter how much the media pushes this ideal on us. Improvement requires self-evaluation and self-criticism, and a fair amount of self-discipline. Humans are generally pretty awful at these things, but the great thing about us and our brains is that we _can_ think about and achieve these things. The wonders of metacognition!
 
 That being said, I'd seen or heard a few people going on about how great this book was. It seems to be almost ubiquitous at the moment. So when I saw it at my local library I decided to give something different a try. When I first started reading  I thought the constant tirade of "fucks" that Manson uses would grow tiresome. This was not the case. He just uses this device as an initial shock, to get you thinking about the ideas presented in the book.
 
 Now, this book covers a lot of ground, so I am going to break this up into sections with relevant quotes and some of my own commentary. Overall I found Manson's writing to be extremely compelling and his ideas well-presented and interesting. I've already found his thinking influencing my own thoughts and values for the better.
-
-<!--more-->
 
 ### Suffering
 

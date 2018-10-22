@@ -7,6 +7,7 @@ author: Martin Brennan
 layout: post
 permalink: /goodfellas/
 oc: true
+byline: by Martin Brennan
 ---
 
 <blockquote class="hero"><p>As far back as I can remember, I always wanted to be a gangster.</p><cite>— Henry Hill</cite></blockquote>
