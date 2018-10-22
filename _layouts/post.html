@@ -13,7 +13,7 @@
 <div class="blog">
   <div class="col" style="flex: 3">
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-        <h1>{{ page.title }}<br/><span class="byline">{{ page.byline }}</span></h1>
+        <h1>{{ page.title }}<br/><span class="byline">{{ page.byline }}</span><br/><time class="posttime" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time></h1>
         {{ content }}
         <div class="homeback">
           <a href="/"><< Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#top">Back to top</a>
