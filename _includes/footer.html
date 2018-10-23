@@ -1,22 +1,3 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1" style="text-align: center;">
-        <img src="https://www.gravatar.com/avatar/e61d50823d8a61ae2e50aa1b62c29ab5.jpg?s=175" class="avatar" />
-      </div>
-
-      <div class="footer-col footer-col-4">
-        <div class="footer-content">
-          <p style="margin: 0;"><strong>{{ site.title }}</strong></p>
-          <p style="margin: 0;"><a href="/">Home</a> ~ <a href="/archive">Archive</a> ~ <a href="https://martin-brennan.com">Software</a></p>
-          <p>I’m Martin Brennan, I'm a software developer that also knows how to read, and I like to think I know how to write. Like how a hobo thinks he knows the recipe to Coca-Cola. Favorite authors? Cormac McCarthy (my God), Stephen King (my Prophet), J. R. R. Tolkien, George R. R. Martin, Hunter S. Thompson, George Orwell, and Kurt Vonnegut (yes that was an Oxford comma fite me).</p>
-          <p>My other loves include programming, music, cycling, hiking, my lovely fiancé and our two sons!</p>
-          <p>You can get into touch with me via email at <a href="mailto:{{ site.email }}">{{ site.email }}</a> or via twitter at {% include icon-twitter.html username=site.twitter_username %}.
-        </div>
-      </div>
-    </div>
-
-  </div>
-
-</footer>
+<div class="footer">
+  <p><a href="/">Home</a> | <a href="/archive">Archive</a> | <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a> | Find me on twitter <a href="https://twitter.com/mjrbrennan">@mjrbrennan</a> or <a href="mailto:mjrbrennan@gmail.com">email me</a>.<br/> &copy; Martin Brennan {{ 'now' | date: "%Y" }}</p>
+</div>

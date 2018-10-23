@@ -44,7 +44,11 @@
   ##Device = Tablets, Ipads (portrait)
   ##Screen = B/w 768px to 1024px
 */
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+  .blog {
+    width: 90%;
+    flex-direction: column;
+  }
   hr {
     margin: 1.5rem auto;
   }
@@ -53,6 +57,14 @@
   }
   .blog {
     width: 90%;
+  }
+  .author-sidebar {
+    border-left: 0;
+    padding: 0;
+    padding-top: 1.5rem !important;
+    border-top: 1px solid $base-color;
+    max-width: 90%;
+    margin: 0 auto;
   }
 }
 
@@ -61,6 +73,10 @@
   ##Screen = B/w 768px to 1024px
 */
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .blog {
+    width: 90%;
+  }
+
   hr {
     margin: 1.5rem auto;
   }
@@ -69,5 +85,9 @@
   }
   .blog {
     width: 90%;
+  }
+
+  .author-sidebar {
+    max-height: 866px;
   }
 }

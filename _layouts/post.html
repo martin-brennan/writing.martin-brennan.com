@@ -4,9 +4,6 @@
 
 {% include head.html %}
 
-<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-<link href="https://fonts.googleapis.com/css?family=Archivo+Black|Libre+Baskerville:400,400i,700" rel="stylesheet">
-<meta content="width=device-width, initial-scale=1" name="viewport" />
 <span id="top"></span>
 <h1 class="page-title"><a href="/">The Writing of Martin Brennan</a></h1>
   <hr />
@@ -20,16 +17,6 @@
         </div>
       </article>
   </div>
-  <div class="col author-sidebar" >
-      <div class="author-sidebar--image">
-        <img src="/images/me.jpg" alt="" class="me" />
-      </div>
-      <p style="margin-top: 1rem;">I’m Martin Brennan. I'm a software developer by day, and I like to think I know how to write. Like how a hobo thinks he knows the recipe to Coca-Cola.</p>
-      <p>
-        The authors that inspire me are Cormac McCarthy (my God), Stephen King (my Prophet), J. R. R. Tolkien, George R. R. Martin, Hunter S. Thompson, George Orwell, and Kurt Vonnegut.
-      </p>
-      <p>
-        Find me on twitter <a href="https://twitter.com/mjrbrennan">@mjrbrennan</a> or <a href="mailto:mjrbrennan@gmail.com">email me</a>.
-      </p>
-    </div>
+  {% include authorsidebar.html %}  
 </div>
+{% include footer.html %}

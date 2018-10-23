@@ -6,7 +6,7 @@
 
 <h1 class="page-title"><a href="/">The Writing of Martin Brennan</a></h1>
   <hr />
-<div class="blog">
+<div class="blog" style="margin-bottom: 10px;">
     {% for post in paginator.posts %}
     <div class="col">
       <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}<br/><span class="byline">{{ post.byline }}</span><br/><time class="posttime" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time></a></h1>
@@ -31,3 +31,4 @@
         </tr>
       </table>
 </div>
+{% include footer.html %}

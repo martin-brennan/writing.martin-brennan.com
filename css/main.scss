@@ -3,10 +3,12 @@
 ---
 @charset "utf-8";
 
+@import "colors";
+
 body {
   font-size: 16px;
   background-color: #fff5e6;
-  color: #212127;
+  color: $base-color;
 }
 
 .blog {
@@ -22,7 +24,7 @@ body {
 hr {
   width: 65%;
   margin: 3rem auto;
-  color: #212127;
+  color: $base-color;
 }
 
 .col {
@@ -33,12 +35,12 @@ hr {
 .me {
   width: 170px;
   margin-bottom: 1rem;
-  border: 1px solid #212127;
+  border: 1px solid $base-color;
 }
 
 .author-sidebar {
   text-align: justify;
-  border-left: 1px solid #212127;
+  border-left: 1px solid $base-color;
   max-height: 676px;
 
   &--image {
@@ -55,9 +57,16 @@ hr {
   font-size: 0.8rem;
 }
 
+.footer {
+  margin: 0 auto;
+  width: 600px;
+  text-align: center;
+  border-top: 1px solid $base-color;
+  max-width: 100%;
+}
+
 @import
   "reset",
-  "colors",
   "typography",
   "media"
 ;
