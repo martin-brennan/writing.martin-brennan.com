@@ -9,7 +9,7 @@
 title: The Writing of Martin Brennan
 email: martin_brennan@fastmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I’m Martin Brennan. I'm a software developer by day, and I like to think I know how to write. Like how a hobo thinks he knows the recipe to Coca-Cola. The authors that inspire me are Cormac McCarthy (my God), Stephen King (my Prophet), J. R. R. Tolkien, George R. R. Martin, Hunter S. Thompson, George Orwell, and Kurt Vonnegut.
+  I’m Martin Brennan. I'm a software developer by day, and I like to think I know how to write. Like how a hobo thinks he knows the recipe to Coca-Cola. The authors that inspire me are Cormac McCarthy (my God), Stephen King (my Prophet), J. R. R. Tolkien, George R. R. Martin, Hunter S. Thompson, George Orwell, John Steinbeck, and Kurt Vonnegut.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://writing.martin-brennan.com" # the base hostname & protocol for your site
 twitter_username: mjrbrennan
