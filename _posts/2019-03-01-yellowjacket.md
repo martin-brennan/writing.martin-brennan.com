@@ -23,6 +23,7 @@ The diary is presented here unedited, as a part of a packet of documents to be s
 <hr>
 
 ### Diary of Johann Bergmann
+
 ####  January 31st, 1945
 
 The air was sweet this morning in the rail yard. Crisp and cool, fair and bright, as I made my way through the warehouses to the workshop I was assigned to. We were beginning to finalise work on several new locomotives, beautiful engines polished and bright, ready to be sent out to help the Fuhrer’s war effort. There has been trouble lately bringing in the raw material for steelwork, and many delays procuring the resources needed to build the locomotives, but the foreman is confident the deliveries will start picking up soon.
