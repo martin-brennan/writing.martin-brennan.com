@@ -11,6 +11,7 @@ byline: by Martin Brennan
 
 I submitted this story to [Third Flatiron Publishing's](https://www.thirdflatiron.com/liveSite/) <em>Hidden Histories</em> anthology at the beginning of February. Unfortunately this time I was not accepted. So, I thought I would post up the story as I cannot think of another place where it would be accepted, with the theme being so specific. I enjoyed writing this story and researching some history, though I struggled somewhat with coming up with a hidden history for the overall theme. What drew me to write about the Dresden bombings was the controversy around whether the city was a valid target, coupled with Kurt Vonnegut's vivid descriptions of the bombing and the fire in <em>Slaughterhouse Five</em>. So, without further ado, here is YELLOWJACKET.
 
+<!--more-->
 <hr>
 
 The bombing of Dresden in World War II by Allied forces has been long accepted as a necessary, though unfortunate, military action. Many opine that the bombing and enormous damage of an old European city, paired with the extensive civilian casualties, were unwarranted for a city without clear military strategic importance. The Marshall inquiry and various other inquiries by the United States and Allied governments found the military and industrial infrastructure, such as the rail yard, weapons factories, and the Albertstadt military garrison all valid bombing targets. So, the fate of Dresden has been accepted as yet another horrific tragedy and senseless loss of life in World War II.
