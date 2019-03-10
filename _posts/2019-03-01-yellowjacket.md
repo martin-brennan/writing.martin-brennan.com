@@ -9,7 +9,7 @@ category: short story
 byline: by Martin Brennan
 ---
 
-I submitted this story to [Third Flatiron Publishing's](https://www.thirdflatiron.com/liveSite/) <em>Hidden Histories</em> anthology at the beginning of February. Unfortunately this time I was not accepted. So, I thought I would post up the story as I cannot think of another place where it would be accepted, with the theme being so specific. I enjoyed writing this story and researching some history, though I struggled somewhat with coming up with a hidden history for the overall theme. What drew me to write about the Dresden bombings was the controversy around whether the city was a valid target, coupled with Kurt Vonnegut's vivid descriptions of the bombing and the fire in <em>Slaughterhouse Five</em>. So, without further ado, here is YELLOWJACKET.
+I submitted this story to [Third Flatiron Publishing's](https://www.thirdflatiron.com/liveSite/) <em>Hidden Histories</em> anthology at the beginning of February. Unfortunately this time I was not accepted. So, I thought I would post up the story as I cannot think of another place where it would be accepted, with the theme being so specific. I enjoyed writing this story and researching some history, though I struggled somewhat with coming up with a hidden history for the overall theme. What drew me to write about the Dresden bombings was the controversy around whether the city was a valid target, coupled with Kurt Vonnegut's vivid descriptions of the bombing and the fire in <em>Slaughterhouse Five</em>. So, without further ado, here is <strong>YELLOWJACKET</strong>.
 
 <!--more-->
 <hr>

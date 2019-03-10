@@ -104,8 +104,7 @@ What I'd like to read this year:
 * Grapes of Wrath, John Steinbeck
 * 11/22/63, Stephen King
 * The Zombie Survival Guide, Max Brooks
-* The Fall of Hyperion, Dam Simmons
+* The Fall of Hyperion, Dan Simmons
 * Starting The Gunslinger Series, Stephen King
-* Starting the Outlander Series, Diana Gabaldon
 
 And that's it! Happy New Year to everyone reading this, and I hope you have a prosperous year with your own goals as well in 2019.

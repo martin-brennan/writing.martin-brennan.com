@@ -15,6 +15,7 @@ body {
   width: 70%;
   margin: 50px auto;
   display: flex;
+  flex-wrap: wrap;
 
   img {
     max-width: 100%;
@@ -28,6 +29,7 @@ hr {
 }
 
 .col {
+  min-width: 400px;
   padding: 0 2rem;
   flex: 1;
 }
@@ -70,3 +72,11 @@ hr {
   "typography",
   "media"
 ;
+
+
+.highlight-reel {
+  background-color: #f1f1ff;
+  padding: 40px;
+  border: 1px dashed #212127;
+  margin-bottom: 50px;
+}
