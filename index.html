@@ -8,13 +8,16 @@
 <div class="page-nav"><a href="/">Home</a> ~ <a href="/works">Works</a> ~ <a href="/archive">Archive</a> ~ <a href="https://martin-brennan.com" target="_blank">Software</a></div>
   <hr />
 <div class="blog" style="margin-bottom: 10px;">
+  <div class="col"  style="flex: 3">
     {% for post in paginator.posts %}
-    <div class="col">
+    <div>
       <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}<br/><span class="byline">{{ post.byline }}</span><br/><time class="posttime" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time></a></h1>
       <p>{{ post.excerpt }}</p>
-      <p>{% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">Continue reading</a>{% endif %}</p>
+      <p>{% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">Continue reading...</a>{% endif %}</p>
     </div>
     {% endfor %}
+  </div>
+  {% include authorsidebar.html %}
 </div>
 <div class="blog">
     <table style="width: 100%;">

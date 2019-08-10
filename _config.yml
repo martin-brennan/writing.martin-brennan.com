@@ -27,7 +27,7 @@ twitter:
 author: mjrbrennan
 comments: true
 excerpt_separator: <!--more-->
-paginate: 6
+paginate: 10
 future: true
 scope:
   path: "_drafts"
