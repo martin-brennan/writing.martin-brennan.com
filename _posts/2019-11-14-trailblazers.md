@@ -9,7 +9,7 @@ category: short story
 byline: by Martin Brennan
 ---
 
-I wrote this piece as an entry for 2019 Literary Taxidermy short story competition [https://literarytaxidermy.com/](https://literarytaxidermy.com/), for which I received an honourable mention. The premise of the competition was to take an opening and closing line from Farenheit 451 and write your own short story inbetween, less than 2500 words.Without further ado here is my entry, **TRAILBLAZERS**.
+I wrote this piece as an entry for the 2019 Literary Taxidermy short story competition [https://literarytaxidermy.com/](https://literarytaxidermy.com/), for which I received an honourable mention. The premise of the competition was to take an opening and closing line from Fahrenheit 451 and write your own short story in-between, in less than 2500 words. Without further ado here is my entry, **TRAILBLAZERS**.
 
 <!--more-->
 
