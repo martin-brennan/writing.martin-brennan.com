@@ -114,10 +114,11 @@ permalink: /library/
 
 * Diamond, Jared -- Guns, Germs, and Steel
 
-#### Non-Fiction -- Reference
+#### Non-Fiction -- Reference & Productivity
 
 * [King, Stephen -- On Writing](/2017-reading-list) 📖🌟🌟
 * Koch, Stephen -- Modern Library Writer’s Workshop 📖
+* Newport, Cal -- Deep Work 📖
 
 #### Non-Fiction -- Biographical
 
