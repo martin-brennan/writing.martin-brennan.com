@@ -79,9 +79,33 @@ hr {
 ;
 
 
-.highlight-reel {
+.highlight-reel,
+.subscribe-form {
   background-color: #f1f1ff;
   padding: 40px;
   border: 1px dashed #212127;
   margin-bottom: 50px;
+}
+
+.subscribe-form {
+  padding: 2rem;
+  margin-top: 4rem;
+  input {
+    color: $base-color;
+    font-family: 'Libre Baskerville';
+    font-size: 1.1rem;
+    padding: 1rem;
+    width: 100%;
+  }
+  a {
+    font-size: 0.8rem;
+  }
+
+  input[type="submit"] {
+    margin-top: 0.5rem;
+    color: white;
+    background-color: #498000;
+    border: none;
+    outline: none;
+  }
 }

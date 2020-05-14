@@ -16,26 +16,21 @@
           <a href="/"><< Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#top">Back to top</a>
         </div>
       </article>
-      <div id="disqus_thread"></div>
-      <script>
-
-      /**
-      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-      
-      var disqus_config = function () {
-        this.page.url = document.location.href;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = document.location.pathname; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-      };
-      
-      (function() { // DON'T EDIT BELOW THIS LINE
-      var d = document, s = d.createElement('script');
-      s.src = 'https://martinbrennanwriting.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-      })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      <form
+        action="https://buttondown.email/api/emails/embed-subscribe/martin-brennan"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.email/martin-brennan', 'popupwindow')"
+        class="embeddable-buttondown-form subscribe-form"
+      >
+        <p>Subscribe to read more! You know you want to...</p>
+        <input type="email" name="email" id="bd-email" placeholder="Enter your email address">
+        <input type="hidden" value="1" name="embed"></input>
+        <input type="submit" value="Subscribe"></input>
+        <p>
+          <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+        </p>
+      </form>
   </div>
 </div>
 {% include footer.html %}
