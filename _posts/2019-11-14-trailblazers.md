@@ -15,8 +15,6 @@ I wrote this piece as an entry for the 2019 Literary Taxidermy short story compe
 
 --------------
 
-TRAILBLAZERS
-
 It was a pleasure to burn. To see the napalm jelly gout from the end of our flamethrowers and feel the backwash of intense heat. To see the rotten things explode in twisted flames, burning apart, their wretched hearts destroyed. If they had hearts, or something close to it. No one really knew what they were, or why they spread like wildfire. Every time one was cut down with great effort and dragged in chains back to a laboratory it disintegrated into black sludge before anyone could get a good look at it. Not that it would matter anyway. Even if we knew what the hell those things were it wouldn’t help us kill them any better. We already found the best way to destroy those mutant trees, and that’s fire baby.
 
 My men and I have been out on burning rotation for two weeks now. We’ve taken down twenty hectares so far and our time is running out. The sky is choked with blackened ash, and the whole side of the mountain we started out on is nothing but stumps and barren wasteland. My men are taking a break, lounging around in the ash in their orange fire suits with gas masks titled up on their heads, eating, guzzling water, and gazing down at the city. The city that we’ve been tasked to protect. If it weren’t for us, the whole damn thing would be overrun by trees within the month. Then it wouldn’t be no good to anybody.

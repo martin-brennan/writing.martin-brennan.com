@@ -9,7 +9,6 @@ permalink: /library/
 <span id="top"></span>
 <h1 class="page-title"><a href="/">The Writing of Martin Brennan</a></h1>
 {% include postnav.html %}
-  <hr />
 <div class="blog">
   <div class="col" style="flex: 3">
   <p style="margin-top: 0">This is a list of all the books in my personal library. I haven't read every book here, nor do I own all the books I've read or like. I also don't necessarily like all the books I own. Where I have read a book at least once I will mark it with a 📖. Books marked with a 🌟 are a must-read (multiple stars are my favorite novels of all time). Let me know if you disagree with any categorization. For books I have reviewed or written essays about I will link to the relevant blog post.</p>
@@ -20,12 +19,16 @@ permalink: /library/
 * [Didion, Joan -- Slouching Towards Bethlehem](/slouching-towards-bethlehem/) 📖
 * [Ellis, Bret Easton -- American Psycho](/2017-reading-list) 📖
 * Ellis, Bret Easton -- The Rules of Attraction 📖
+* Faulkner, William -- The Sound and the Fury
+* Faulkner, William -- As I Lay Dying 
 * Fitzgerald, F. Scott –- The Great Gatsby 📖
+* Heller, Joseph -- Catch-22 
 * Hemingway, Ernest -- A Farewell to Arms
 * Hemingway, Ernest -- The First Forty-Nine Stories
 * Hemingway, Ernest -- The Old Man and the Sea 📖
 * Lee, Harper -- To Kill a Mockingbird 📖
 * Kesey, Ken -- One Flew Over the Cuckoo's Nest 📖
+* Kerouac, Jack -- On The Road 
 * McCarthy, Cormac -- All The Pretty Horses 📖
 * [McCarthy, Cormac -- Blood Meridian](/2017-reading-list/) 📖🌟🌟
 * McCarthy, Cormac -- The Road 📖🌟🌟
@@ -36,6 +39,7 @@ permalink: /library/
 * [Steinbeck, John -- The Grapes of Wrath](/now-june-2019) 📖🌟
 * [Thompson, Hunter S. -- Hell's Angels](/hells-angels) 📖
 * Thompson, Hunter S. -- Fear and Loathing in Las Vegas
+* Thompson, Hunter S. -- Fear and Loathing in America
 * Vonnegut, Kurt -- Bluebeard
 * [Vonnegut, Kurt -- Breakfast of Champions](/2017-reading-list) 📖🌟
 * Vonnegut, Kurt -- Slaughterhouse Five 📖
@@ -78,6 +82,9 @@ permalink: /library/
 * [King, Stephen -- The Shining](/the-shining) 📖
 * [King, Stephen -- The Stand](/2017-reading-list) 📖🌟🌟
 * King, Stephen -- Misery 📖
+* King, Stephen -- The Dark Tower: The Gunslinger 📖🌟
+* King, Stephen -- The Dark Tower: The Drawing of the Three
+* King, Stephen -- The Dark Tower: The Waste Lands
 * [King, Stephen -- Pet Sematary](/pet-sematary) 📖
 * [Martin, George R. R. -- A Game of Thrones](/2017-reading-list) 📖
 * [Martin, George R. R. -- A Clash of Kings](/2017-reading-list) 📖🌟
@@ -116,6 +123,7 @@ permalink: /library/
 
 #### Non-Fiction -- Reference & Productivity
 
+* Clark, Roy Peter -- Writing Tools
 * [King, Stephen -- On Writing](/2017-reading-list) 📖🌟🌟
 * Koch, Stephen -- Modern Library Writer’s Workshop 📖
 * Newport, Cal -- Deep Work 📖
@@ -128,9 +136,6 @@ permalink: /library/
 * Roberts, Andrew - Napoleon: A Life
 
 </div>
-  </div>
-  <div class="col author-sidebar" >
-    {% include authorsidebar.html %}
   </div>
 </div>
 {% include footer.html %}

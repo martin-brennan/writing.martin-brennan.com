@@ -6,8 +6,7 @@
 
 <h1 class="page-title"><a href="/">The Writing of Martin Brennan</a></h1>
 {% include postnav.html %}
-  <hr />
-<div class="blog" style="margin-bottom: 10px;">
+<div class="blog">
   <div class="col"  style="flex: 3">
     {% for post in paginator.posts %}
     <div>
@@ -17,11 +16,9 @@
     </div>
     {% endfor %}
   </div>
-  <div class="col author-sidebar hide-mobile" >
+  <!--<div class="col author-sidebar hide-mobile" >
     {% include authorsidebar.html %}
-  </div>
-</div>
-<div class="blog">
+  </div>-->
     <table style="width: 100%;">
         <tr>
           <td style="width: 15%;">
@@ -36,5 +33,6 @@
           </td>
         </tr>
       </table>
-</div>
+      </div>
+
 {% include footer.html %}

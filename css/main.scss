@@ -16,6 +16,11 @@ body {
   margin: 50px auto;
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 6em;
+  max-width: 1000px;
+  background-color: white;
+  padding: 5em 3em;
+  box-shadow: #d5c6af 0px 60px 40px;
 
   img {
     max-width: 100%;
@@ -35,7 +40,7 @@ hr {
 }
 
 .me {
-  width: 170px;
+  width: 330px;
   margin-bottom: 1rem;
   border: 1px solid $base-color;
 }
@@ -48,6 +53,7 @@ hr {
   &--image {
     width: 100%;
     text-align: center;
+    margin-bottom: 5rem;
   }
 }
 
@@ -63,7 +69,6 @@ hr {
   margin: 0 auto;
   width: 600px;
   text-align: center;
-  border-top: 1px solid $base-color;
   max-width: 100%;
 }
 

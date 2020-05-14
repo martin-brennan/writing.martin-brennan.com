@@ -12,6 +12,7 @@ blockquote {
   padding: 1.6rem 0;
   color: $base-color;
   margin: 1.5rem 0;
+  font-size: 1.1rem;
 
   p {
     margin-top: 0;
@@ -24,12 +25,14 @@ blockquote {
   p, cite {
     color: $base-color;
     font-family: 'Libre Baskerville';
+    font-size: 1.1rem;
     font-style: italic;
   }
 }
 
 a {
   font-family: 'Libre Baskerville';
+  font-size: 1.1rem;
   text-decoration: none;
   border-bottom: 1px solid $accent-color;
   color: $accent-color;
@@ -57,7 +60,7 @@ h3, h4 {
 
 ul, ol {
   font-family: 'Libre Baskerville';
-  font-size: 1rem;
+  font-size: 1.1rem;
   margin-left: 1rem;
 }
 
@@ -80,8 +83,8 @@ ol li {
 p {
   font-family: 'Libre Baskerville', serif;
   font-weight: 400;
-  font-size: 1rem;
-  line-height: 1.8rem;
+  font-size: 1.1rem;
+  line-height: 2.5rem;
   margin: 1.5rem 0;
 }
 
