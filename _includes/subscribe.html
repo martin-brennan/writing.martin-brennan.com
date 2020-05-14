@@ -1,3 +1,15 @@
-<div class="subscribe">
-  <p class="alert info"><span class="icon-info"></span> Want to read regular updates? Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS!</a></p>
-</div>
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/martin-brennan"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/martin-brennan', 'popupwindow')"
+  class="embeddable-buttondown-form subscribe-form"
+>
+  <p>Thank ye kindly for subscribing.</p>
+  <input type="email" name="email" id="bd-email" placeholder="Enter your email address">
+  <input type="hidden" value="1" name="embed"></input>
+  <input type="submit" value="Subscribe"></input>
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
