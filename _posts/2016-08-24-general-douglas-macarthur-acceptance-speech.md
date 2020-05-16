@@ -7,6 +7,7 @@ author: Martin Brennan
 layout: post
 permalink: /general-douglas-mac-arthur-sylvanus-thayer-award-acceptance-address/
 byline: by Martin Brennan
+category: quote
 ---
 
 <blockquote class="hero">

@@ -6,6 +6,7 @@ author: Martin Brennan
 layout: post
 oc: true
 byline: by Aldous Huxley
+category: essay
 ---
 
 <blockquote class="hero"><p>O, wonder!<br/>How many goodly creatures are there here<br/>How beauteous mankind is!<br/>O brave new world, that has such people in't!</p><cite>— William Shakespeare, The Tempest</cite></blockquote>

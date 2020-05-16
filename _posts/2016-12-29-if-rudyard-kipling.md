@@ -5,7 +5,7 @@ author: Martin Brennan
 layout: post
 permalink: /if-rudyard-kipling/
 byline: by Rudyard Kipling
-category: powm
+category: poem
 ---
 
 <blockquote class="hero"><p>You’ll be a Man, my son!</p><cite>— Rudyard Kipling</cite></blockquote>

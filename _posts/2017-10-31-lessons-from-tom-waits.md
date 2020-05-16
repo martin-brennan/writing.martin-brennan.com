@@ -6,6 +6,7 @@ layout: post
 permalink: /lessons-from-tom-waits/
 oc: true
 byline: by Martin Brennan
+category: essay
 ---
 
 <blockquote class="hero"><p>Everybody knows me at the dump</p><cite>— Tom Waits</cite></blockquote>

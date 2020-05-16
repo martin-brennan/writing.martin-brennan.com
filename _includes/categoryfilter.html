@@ -1,0 +1,15 @@
+{% assign posts = site.posts | where:"categories",category }} %}
+{% assign psize = posts | size %}
+{% if psize == 0 %}
+  <p>There is beauty in the desert, but also danger. Tread lightly, for there is nothing to be found here. <a href="/">Go home traveller</a>.</p>
+  <img alt="Desert with cactii. View Along the Gila. Cereus Giganteus. The botanical works of the late George Engelmann, collected for Henry Shaw, esq." src="/images/cactusdesert.jpg" /> 
+{% endif %}
+{% for post in posts %}
+  {% if post.categories contains category %}
+  <div>
+    <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}<br/><span class="byline">{{ post.byline }}</span><br/><time class="posttime" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time></a></h1>
+    <p>{{ post.excerpt }}</p>
+    <p>{% if post.excerpt != post.content %}<a href="{{ post.url | prepend: site.baseurl }}">Continue reading...</a>{% endif %}</p>
+  </div>
+  {% endif %}
+{% endfor %}

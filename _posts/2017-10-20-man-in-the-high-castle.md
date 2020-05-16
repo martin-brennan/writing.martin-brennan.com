@@ -6,6 +6,7 @@ layout: post
 permalink: /man-in-the-high-castle/
 byline: by Philip K. Dick
 oc: true
+category: essay
 ---
 
 <blockquote class="hero"><p>What profit it a man if he gain the whole world but in this enterprise lose his soul?</p><cite>— Philip K. Dick, Man in the High Castle</cite></blockquote>

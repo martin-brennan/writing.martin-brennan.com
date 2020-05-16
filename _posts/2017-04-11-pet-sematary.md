@@ -6,6 +6,7 @@ author: Martin Brennan
 layout: post
 oc: true
 byline: by Stephen King
+category: essay
 ---
 
 <blockquote class="hero"><p>Death is a mystery, and burial is secret</p><cite>— Stephen King</cite></blockquote>

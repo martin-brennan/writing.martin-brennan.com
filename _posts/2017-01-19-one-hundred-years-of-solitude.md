@@ -6,6 +6,7 @@ author: Martin Brennan
 layout: post
 oc: true
 byline: by Gabriel García Márquez
+category: essay
 ---
 
 <blockquote class="hero">

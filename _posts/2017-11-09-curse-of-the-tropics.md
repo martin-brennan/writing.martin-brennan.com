@@ -6,6 +6,7 @@ layout: post
 permalink: /curse-of-the-tropics/
 oc: true
 byline: by Martin Brennan
+category: short story
 ---
 
 <span class="first-letter">F</span>OUR days have passed since we last saw familiar ground. Our flesh runs with sweat in the pressure cooker of the deep jungle. I lick my lips and relish the moisture. The last of our water ran out this morning, and there is no stream nor pond in sight. A malfunction with the compass, something deeply wrong with the earth here, led us to be lost in this cursed place. We knew we were damned when our native guides left us, melding into the bush like ghosts. I hack at the vines with a machete, but each time I cut one down two more take its place, like some wild green hydra.

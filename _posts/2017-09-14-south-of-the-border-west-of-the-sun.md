@@ -6,6 +6,7 @@ layout: post
 permalink: /south-of-the-border-west-of-the-sun/
 oc: true
 byline: by Haruki Murakami
+category: essay
 ---
 
 <blockquote class="hero"><p>'For a while' is a phrase whose length can't be measured. At least by the person who's waiting.</p><cite>— Haruki Murakami, South of the Border, West of the Sun</cite></blockquote>

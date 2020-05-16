@@ -6,6 +6,7 @@ layout: post
 permalink: /dust-to-dust/
 oc: true
 byline: by Martin Brennan
+category: short story
 ---
 
 <span class="first-letter">M</span>Y FATHER was a coal man, and his before him. Wasn't much other work you could do in those days. Not where I grew up anyhow. Ever since I was a tyke I remember him leaving off for work every morning, clean as a whistle, kissing ma on the cheek. She wouldn't touch him with a ten foot pole when he got home at the end of a day. Not until he washed at least. I remember her laying down newspaper from the front door to the bathroom so he wouldn't track so much soot all over her damn floors. 

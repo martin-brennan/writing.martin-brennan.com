@@ -8,6 +8,7 @@ layout: post
 permalink: /in-cold-blood/
 oc: true
 byline: by Truman Capote
+category: essay
 ---
 
 <blockquote class="hero">

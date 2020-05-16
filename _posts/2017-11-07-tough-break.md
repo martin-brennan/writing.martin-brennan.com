@@ -6,6 +6,7 @@ layout: post
 permalink: /tough-break/
 oc: true
 byline: by Martin Brennan
+category: short story
 ---
 
 <span class="first-letter">E</span>ACH rock he crushed into pebbles with his pick under the blazing sun wore him down a little more. The jolt of the impact surged up his arms, vibrated through his shoulders and his spine. He was hurting bad, sweating like a hog, and the chain gang had only been outside for an hour. The screw paced up and down the blacktop behind them, at total ease with a shotgun cradled in the crook of his arm, spitting tobacco at their feet and daring them to think about running. Not that they'd get far with heavy chains and cuffs chafing their ankles and locking them together.
