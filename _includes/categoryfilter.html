@@ -1,5 +1,8 @@
 {% assign posts = site.posts | where:"categories",category }} %}
 {% assign psize = posts | size %}
+
+{{ category }}
+{{ psize }}
 {% if psize == 0 %}
   <p>There is beauty in the desert, but also danger. Tread lightly, for there is nothing to be found here. <a href="/">Go home traveller</a>.</p>
   <img alt="Desert with cactii. View Along the Gila. Cereus Giganteus. The botanical works of the late George Engelmann, collected for Henry Shaw, esq." src="/images/cactusdesert.jpg" /> 
