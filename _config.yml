@@ -9,7 +9,9 @@
 title: The Writing of Martin Brennan
 email: mjrbrennan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I’m Martin Brennan. I'm a software developer by day, and I like to think I know how to write. Like how a hobo thinks he knows the recipe to Coca-Cola. The authors that inspire me are Cormac McCarthy (my God), Stephen King (my Prophet), J. R. R. Tolkien, George R. R. Martin, Hunter S. Thompson, George Orwell, John Steinbeck, and Kurt Vonnegut.
+  I’m Martin Brennan, a Software Engineer by day, and a writer whenever I can wrangle it. Genre fiction is my domain — I enjoy writing horror, sci-fi, fantasy, western, and everything else in-between, first in longhand, then typed into the devil-machine. I take cues from every place.
+  
+  The authors that inspire me are Cormac McCarthy (my God), Stephen King (my Prophet), J. R. R. Tolkien, George R. R. Martin, Hunter S. Thompson, George Orwell, John Steinbeck, and Kurt Vonnegut.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://writing.martin-brennan.com" # the base hostname & protocol for your site
 twitter_username: mjrbrennan

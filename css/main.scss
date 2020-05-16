@@ -11,6 +11,12 @@ body {
   color: $base-color;
 }
 
+.archive-list {
+  li:first-child {
+    margin-top: 0 !important;
+  }
+}
+
 .blog {
   width: 70%;
   margin: 50px auto;
