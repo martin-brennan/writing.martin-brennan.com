@@ -5,9 +5,7 @@ author: Martin Brennan
 layout: post
 permalink: /now-january-2019-and-year-in-review/
 oc: true
-categories:
-  - personal
-  - writing
+category: personal
 byline: by Martin Brennan
 ---
 

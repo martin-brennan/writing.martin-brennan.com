@@ -6,9 +6,7 @@ layout: post
 permalink: /fiction-writing/
 oc: true
 byline: by Martin Brennan
-categories:
-  - personal
-  - writing
+category: personal
 ---
 
 <span class="first-letter">I</span> WANTED to take this opportunity to explain what I like to read and write about, so you may be able to understand my frame of mind when you read my fiction.
