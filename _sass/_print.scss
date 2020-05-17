@@ -1,0 +1,42 @@
+@media print {
+  body {
+    background-color: white;
+  }
+  .blog {
+    box-shadow: none;
+    max-width: 10000px;
+    width: 100%;
+    padding: 0;
+
+    img {
+      max-width: 400px !important;
+    }
+  }
+
+  cite {
+    text-align: left !important;
+  }
+
+  p, a, li, blockquote {
+    font-size: .9rem !important;
+  }
+
+  blockquote {
+    padding: 1rem;
+    p {
+      font-style: .9rem !important;
+    }
+  }
+
+  h1, h1 a {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  .subscribe-form {
+    display: none;
+  }
+}
