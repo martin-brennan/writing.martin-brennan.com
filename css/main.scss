@@ -116,3 +116,15 @@ hr {
     outline: none;
   }
 }
+
+.centerimage {
+  width: 500px;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .centerimage {
+    margin: auto;
+    width: auto;
+  }
+}
