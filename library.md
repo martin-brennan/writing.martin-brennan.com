@@ -30,6 +30,8 @@ permalink: /library/
 * Kesey, Ken -- One Flew Over the Cuckoo's Nest 📖
 * Kerouac, Jack -- On The Road 
 * McCarthy, Cormac -- All The Pretty Horses 📖
+* McCarthy, Cormac -- The Crossing
+* McCarthy, Cormac -- Cities of the Plain
 * [McCarthy, Cormac -- Blood Meridian](/2017-reading-list/) 📖🌟🌟
 * McCarthy, Cormac -- The Road 📖🌟🌟
 * McCarthy, Cormac -- No Country for Old Men 📖🌟🌟
@@ -40,10 +42,10 @@ permalink: /library/
 * [Thompson, Hunter S. -- Hell's Angels](/hells-angels) 📖
 * Thompson, Hunter S. -- Fear and Loathing in Las Vegas
 * Thompson, Hunter S. -- Fear and Loathing in America
-* Vonnegut, Kurt -- Bluebeard
+* Vonnegut, Kurt -- Bluebeard 📖
 * [Vonnegut, Kurt -- Breakfast of Champions](/2017-reading-list) 📖🌟
 * Vonnegut, Kurt -- Slaughterhouse Five 📖
-* Wallace, David Foster –- Infinite Jest
+* Wallace, David Foster -- Infinite Jest
 
 #### Fiction -- English Literature
 
@@ -70,6 +72,11 @@ permalink: /library/
 
 #### Fiction -- Genre -- Action, Adventure, Crime, Fantasy, Horror, Mystery, Sci-Fi
 
+* Clancy, Tom - Clear and Present Danger
+* Clancy, Tom - The Bear and the Dragon
+* Clancy, Tom - Red Storm Rising
+* Clancy, Tom - Patriot Games
+* Clancy, Tom - The Hunt for Red October 📖
 * [Chandler, Raymond -- The Big Sleep](/now-march-2019) 📖
 * [Dick, Philip K. -- Man In The High Castle](/man-in-the-high-castle) 📖
 * [Gaiman, Neil, and Pratchett, Terry -- Good Omens](/now-june-2019) 📖
@@ -81,10 +88,12 @@ permalink: /library/
 * [King, Stephen -- The Green Mile](/2017-reading-list) 📖🌟
 * [King, Stephen -- The Shining](/the-shining) 📖
 * [King, Stephen -- The Stand](/2017-reading-list) 📖🌟🌟
+* King, Stephen -- Night Shift
+* King, Stephen -- Hearts in Atlantis
 * King, Stephen -- Misery 📖
 * King, Stephen -- The Dark Tower: The Gunslinger 📖🌟
-* King, Stephen -- The Dark Tower: The Drawing of the Three
-* King, Stephen -- The Dark Tower: The Waste Lands
+* King, Stephen -- The Dark Tower: The Drawing of the Three 📖
+* King, Stephen -- The Dark Tower: The Waste Lands 📖
 * [King, Stephen -- Pet Sematary](/pet-sematary) 📖
 * [Martin, George R. R. -- A Game of Thrones](/2017-reading-list) 📖
 * [Martin, George R. R. -- A Clash of Kings](/2017-reading-list) 📖🌟
@@ -94,7 +103,7 @@ permalink: /library/
 * [Matheson, Richard -- I Am Legend](/2017-reading-list) 📖
 * [Murakami, Haruki -- South of the Border, West of the Sun](/south-of-the-border-west-of-the-sun) 📖
 * Murakami, Haruki -- Sputnik Sweetheart
-* Pratchett, Terry -- Guards! Guards!
+* Pratchett, Terry -- Guards! Guards! 📖
 * Rowling, J. K. -- Harry Potter and the Philosopher's Stone 📖
 * Rowling, J. K. -- Harry Potter and the Chamber of Secrets 📖
 * Rowling, J. K. -- Harry Potter and the Prisoner of Azkaban 📖
@@ -123,6 +132,7 @@ permalink: /library/
 
 #### Non-Fiction -- Reference & Productivity
 
+* Bukowski, Charles -- On Writing
 * Clark, Roy Peter -- Writing Tools
 * [King, Stephen -- On Writing](/2017-reading-list) 📖🌟🌟
 * Koch, Stephen -- Modern Library Writer’s Workshop 📖
