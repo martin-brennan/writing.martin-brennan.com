@@ -1,11 +1,11 @@
 ---
-title: "The Weekly Proclamation IV"
+title: "Home Alone"
 date: 2020-06-20T10:26:00+10:00
 author: Martin Brennan
 layout: post
-permalink: /weekly-proclamation-4/
+permalink: /home-alone/
 oc: true
-category: weekly update
+category: dispatches
 byline: by Martin Brennan
 ---
 
@@ -57,3 +57,5 @@ Overall I liked _The Waste Lands_ much more than _The Drawing of the Three_, but
   Until the day I die.</p>
   <cite>— Charlie the Choo-Choo, The Dark Tower III: The Waste Lands</cite>
 </blockquote>
+
+_This post is the latest edition of my Dispatches series. You can find all the posts in the series [here](/dispatches)._

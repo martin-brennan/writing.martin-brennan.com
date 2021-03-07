@@ -1,21 +1,23 @@
 ---
-title: "The Weekly Proclamation I"
+title: "Proclamation"
 date: 2020-05-19T18:38:00+10:00
 author: Martin Brennan
 layout: post
-permalink: /weekly-proclamation-1/
+permalink: /proclamation/
 oc: true
-category: weekly update
+category: dispatches
 byline: by Martin Brennan
 ---
 
-First off, I want to level with you, and let you know that this proclamation may not be weekly. It may end up being bi-weekly, or monthly, or something like that, but goddamn it, I'm going to call it the Weekly Proclamation because it will always be released on a week. That way, I don't need to feel guilt, and you don't need to feel let down. Whenever I feel like not posting, I will post an update saying "I didn't really do anything", and may I be booed and have rotten tomatoes thrown at me like some vagrant locked in the village stocks. Sound good? Onward, then!
+I have revised history in this post. I am now a revisionist. I put the newspaper clipping into the furnace. You never saw anything about weekly updates.
 
 <!--more-->
 
+Author's note: I originally envisioned these dispatches to be weekly updates...but then 2020 was a Year, as we all know. I want to keep doing these little posts but I think the idea of having to do them weekly was too much pressure, especially with COVID. So I will leave this here as a historical fragment (slightly edited) and carry on as if these were not weekly. I have edited the other 3 posts similarly. See [the dispatches list](/dispatches) for more entries.
+
 ### Why...How?
 
-It all started with the Now pages. Good-intentioned, I wanted these updates to be a window into my writing process and my progress with my novels and other projects. [That](/now-november-2018) [didn't](/now-january-2019-and-year-in-review) [go](/now-march-2019) [so well](/now-june-2019). The problem wasn't the content -- at least I don't think. I updated. I talked about what I was doing. But the gaps between the posts made these updates rather large, and thus a pain in the arse to write. Even now I have the makings of a "Now February 2020" post partially written longhand, pictured below if you care to strain your eyes to read my scratchings. I wrote this in February in the playground in Indooroopilly shopping centre while my sons played. Abandoned it was, as was all hope when ye entered here. I _think_ what I want to do is smaller posts (weekly, even), that are easier to write and easier to read. Why? Because sometimes writing is being on a gigantic hamster wheel, and it is difficult to see wins and progress when you are in the trenches.
+It all started with the Now pages. Good-intentioned, I wanted these updates to be a window into my writing process and my progress with my novels and other projects. [That](/now-november-2018) [didn't](/now-january-2019-and-year-in-review) [go](/now-march-2019) [so well](/now-june-2019). The problem wasn't the content -- at least I don't think. I updated. I talked about what I was doing. But the gaps between the posts made these updates rather large, and thus a pain in the arse to write. Even now I have the makings of a "Now February 2020" post partially written longhand, pictured below if you care to strain your eyes to read my scratchings. I wrote this in February in the playground in Indooroopilly shopping centre while my sons played. Abandoned it was, as was all hope when ye entered here. I _think_ what I want to do is smaller posts, that are easier to write and easier to read. Why? Because sometimes writing is being on a gigantic hamster wheel, and it is difficult to see wins and progress when you are in the trenches.
 
 ![Abandoned Now February 2020](/images/abandoned_now_february.jpg)
 
@@ -23,7 +25,7 @@ There a few inspirations on this new format I am going to run with. First of all
 
 > Good writers move up and down a ladder of language. At the bottom are bloody knives and rosary beads, wedding rings and baseball cards. At the top are words that reach for a higher meaning, words like freedom and literacy. Beware of the middle, the rungs of the ladder where bureaucracy and technocracy lurk. Halfway up, teachers are referred to as full-time equivalents and school lessons are called instructional units.
 
-The other format guide I am drawing from is the way I write my weekly updates at work. I work as a software engineer at [Discourse](https://www.discourse.org/team) now, a fully remote asynchronous team. Each of my colleagues and I have a weekly update topic where we write every Friday about the bugs we fixed, features we worked on, and people we collaborated with. In my case I've been adding in some slice of life updates from my personal life as well. There is a huge good feeling associated with seeing all the work I've done during the week laid bare; it motivates me to do more. These updates are in a dot point format, and as much as possible this weekly update (with exception of this first tome) will stick to dot points or small paragraphs and sentences as much as possible. My proclamation will ring out through the land!
+The other format guide I am drawing from is the way I write my weekly updates at work. I work as a software engineer at [Discourse](https://www.discourse.org/team) now, a fully remote asynchronous team. Each of my colleagues and I have a weekly update topic where we write every Friday about the bugs we fixed, features we worked on, and people we collaborated with. In my case I've been adding in some slice of life updates from my personal life as well. There is a huge good feeling associated with seeing all the work I've done during the week laid bare; it motivates me to do more. These updates are in a dot point format, and as much as possible these updates, which I call Dispatches, will stick to dot points or small paragraphs and sentences as much as possible. My proclamation will ring out through the land!
 
 ![Preacher, from the Dance of Death](/images/preacher_dance_of_death.jpg)
 <cite>[Preacher, from the Dance of Death by Wenceslaus Hollar](https://www.metmuseum.org/art/collection/search/361662?searchField=Description&amp;sortBy=Relevance&amp;showOnly=openAccess&amp;ft=preach&amp;offset=20&amp;rpp=20&amp;pos=28)</cite>
@@ -74,4 +76,4 @@ And the framed fish, with quote, which is the final passage from _The Road_ by C
 
 > Once there were brook trout in the streams in the mountains. You could see them standing in the amber current where the white edges of their fins wimpled softly in the flow. They smelled of moss in your hand. Polished and muscular and torsional. On their backs were vermiculate patterns that were maps of the world in its becoming. Maps and mazes. Of a thing which could not be put back. Not be made right again. In the deep glens where they lived all things were older than man and they hummed of mystery.
 
-Anyway, four dollars a pound. You can find all my weekly proclamations [in one convenient location](/weekly-updates), or better yet subscribe below to keep up!
+Anyway, four dollars a pound. You can find all my dispatches [in one convenient location](/dispatches), or better yet subscribe below to keep up!

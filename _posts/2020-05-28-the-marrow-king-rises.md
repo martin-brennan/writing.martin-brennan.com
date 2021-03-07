@@ -1,11 +1,11 @@
 ---
-title: "The Weekly Proclamation II"
+title: "The Marrow King Rises"
 date: 2020-05-28T19:23:00+10:00
 author: Martin Brennan
 layout: post
-permalink: /weekly-proclamation-2/
+permalink: /the-marrow-king-rises/
 oc: true
-category: weekly update
+category: dispatches
 byline: by Martin Brennan
 ---
 
@@ -50,4 +50,4 @@ Reading of _The Drawing of the Three_ is progressing steadily. I got to some mor
 
 Well, this brings us to the end of another edition. Until next time, may you walk in the golden light of the Dawn God.
 
-_This post is the latest edition of my Weekly Proclamation series. You can find all the posts in the series [here](/weekly-updates)._
+_This post is the latest edition of my Dispatches series. You can find all the posts in the series [here](/dispatches)._

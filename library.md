@@ -1,6 +1,6 @@
 ---
 title: Library
-permalink: /library/
+permalink: "/library/"
 ---
 
 {% include head.html %}
@@ -30,7 +30,7 @@ permalink: /library/
 * Kesey, Ken -- One Flew Over the Cuckoo's Nest 📖
 * Kerouac, Jack -- On The Road 
 * McCarthy, Cormac -- All The Pretty Horses 📖
-* McCarthy, Cormac -- The Crossing
+* McCarthy, Cormac -- The Crossing 📖
 * McCarthy, Cormac -- Cities of the Plain
 * [McCarthy, Cormac -- Blood Meridian](/2017-reading-list/) 📖🌟🌟
 * McCarthy, Cormac -- The Road 📖🌟🌟
@@ -54,7 +54,10 @@ permalink: /library/
 * Golding, William -- Lord of the Flies 📖
 * Orwell, George -- 1984 📖
 * Orwell, George -- Animal Farm 📖
+* Orwell, George -- Burmese Days
 * [Huxley, Aldous -- Brave New World](/brave-new-world) 📖
+* Shakespeare, William -- Henry V
+* Shakespeare, William -- Hamlet
 * Tolkien, J. R. R. -- The Hobbit 📖🌟
 * Tolkien, J. R. R. -- The Fellowship of the Ring 📖🌟
 * Tolkien, J. R. R. -- The Two Towers 📖🌟
@@ -79,6 +82,12 @@ permalink: /library/
 * Clancy, Tom - The Hunt for Red October 📖
 * [Chandler, Raymond -- The Big Sleep](/now-march-2019) 📖
 * [Dick, Philip K. -- Man In The High Castle](/man-in-the-high-castle) 📖
+* Gabaldon, Diana -- Outlander
+* Gabaldon, Diana -- Voyager
+* Gabaldon, Diana -- The Drums of Autumn
+* Gabaldon, Diana -- The Firey Cross
+* Gabaldon, Diana -- A Breath of Snow and Ashes
+* Gabaldon, Diana -- An Echo in the Bone
 * [Gaiman, Neil, and Pratchett, Terry -- Good Omens](/now-june-2019) 📖
 * Gaiman, Neil -- Norse Mythology
 * Ishiguro, Kazuo -- Never Let Me Go
@@ -94,6 +103,7 @@ permalink: /library/
 * King, Stephen -- The Dark Tower: The Gunslinger 📖🌟
 * King, Stephen -- The Dark Tower: The Drawing of the Three 📖
 * King, Stephen -- The Dark Tower: The Waste Lands 📖
+* King, Stephen -- The Dark Tower: The Wind Through The Keyhole 📖
 * [King, Stephen -- Pet Sematary](/pet-sematary) 📖
 * [Martin, George R. R. -- A Game of Thrones](/2017-reading-list) 📖
 * [Martin, George R. R. -- A Clash of Kings](/2017-reading-list) 📖🌟
@@ -129,6 +139,12 @@ permalink: /library/
 #### Non-Fiction -- History
 
 * Diamond, Jared -- Guns, Germs, and Steel
+* Brown, Dee -- Bury My Heart at Wounded Knee
+	
+#### Non-Fiction -- Crime
+	
+* Douglas, John -- Mindhunter 📖
+* Dudley, Stephen -- MS-13
 
 #### Non-Fiction -- Reference & Productivity
 

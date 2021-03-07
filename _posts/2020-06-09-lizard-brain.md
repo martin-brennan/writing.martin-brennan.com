@@ -1,15 +1,15 @@
 ---
-title: "The Weekly Proclamation III"
+title: "Lizard Brain"
 date: 2020-06-09T20:08:00+10:00
 author: Martin Brennan
 layout: post
-permalink: /weekly-proclamation-3/
+permalink: /lizard-brain/
 oc: true
-category: weekly update
+category: dispatches
 byline: by Martin Brennan
 ---
 
-I won't tell if you won't that I essentially missed a week. That knowledge is forbidden, all who seek it are damned.
+I am a reptile, and I embrace it.
 
 <!--more-->
 
@@ -20,3 +20,5 @@ I have not made much more progress on _The Thaw_. Everyone is still frozen, or m
 I finished reading _The Drawing of the Three_, that sure got a lot better by the end of the book. Roland posessing Jack Mort and just wrecking shit to get his hoard of ammunition and Keflex was amazing, and King really turned Detta/Odetta/Susannah around for me as a character, making the whole thing make sense by the end (loved the Pusher connection between the characters). I'm more than halfway through _The Waste Lands_ now, and it has been refreshing to have more of the book set in Roland's world. Shardik the bear was a stand-out, and I'm happy that Jake came back as a character, though I feel like it could have taken less time to get him through the door marked "The Boy" (some more classic King bloat). Was the Mansion possessed by an entity like _It_?
 
 Apart from that, I'm just trying to keep it all together like any other man. I fight the part of me that avoids writing each day, knowing in the logical part of my brain that once I start I will not likely stop (as with this post), while the filthy lizard part of my brain would rather check Reddit or Twitter. As they say (again referencing they, clever bunch they are) the devil's hands are idle playthings. Why can't the devil finish editing _Bottom Feeders_ for me then?
+
+_This post is the latest edition of my Dispatches series. You can find all the posts in the series [here](/dispatches)._
