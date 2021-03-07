@@ -2,7 +2,7 @@
 title: Evolution
 author: Martin Brennan
 layout: post
-permalink: evolution
+permalink: /evolution/
 oc: true
 category: dispatches
 byline: by Martin Brennan
