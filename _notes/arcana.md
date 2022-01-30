@@ -1,7 +1,5 @@
 ---
 title: Arcana
-id: arcana
-permalink: /arcana
 ---
 
 When walking beneath the canopy, you may come across [[works|links like this]]. Hover over them with your mouse and you will see a premonition of things to come. Every sacred scroll has a section like this to help you find your way in the maze as Theseus once did:
