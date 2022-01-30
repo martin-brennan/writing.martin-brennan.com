@@ -8,14 +8,16 @@ _The Marrow King Saga_ is a series of fantasy novels set in a yet-unnamed world 
 
 Read the [[Marrow King Book One Summary]] to get a better idea of the beginnings of the story, dealing with Alorn Torgond's first landfall in Altor, and the misery that he brought upon his house there.
 
+### The Line of Torgond
+
+Behold! The mighty line of Torgond with my annotations (I’m still not content with some of the names, and many places and people are still taking shape in the ether).
+
+<a href="/assets/lineoftorgond.jpg" class="img-link">
+![Line of Torgond](/assets/lineoftorgond.jpg)
+</a>
+
 ### Rough map
 
 The world is yet unnamed, though each continent has been discovered and named. Saralas plays an important part in the history of the kingdoms of the people of the East, and Zakour plays an important part in the history of the people of the West and the North.
 
 ![Rough map of the world of the Marrow King](/assets/rough_map_marrow_king.png)
-
-### The Line of Torgond
-
-Behold! The mighty line of Torgond with my annotations (I’m still not content with some of the names, and many places and people are still taking shape in the ether).
-
-![Line of Torgond](/assets/lineoftorgond.jpg)
