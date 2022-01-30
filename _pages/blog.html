@@ -1,0 +1,11 @@
+---
+layout: page
+title: Blog
+permalink: /blog
+---
+
+{% for post in site.posts %}
+  <h1><a class="internal-link" href="{{ post.url }}">{{ post.title }}</a></h1>
+  <time class="posttime" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time>
+  <p>{{post.excerpt}}</p>
+{% endfor %}

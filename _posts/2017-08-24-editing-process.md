@@ -1,15 +1,12 @@
 ---
 title: The Editing Process
 date: 2017-08-20T23:45:00+10:00
-author: Martin Brennan
-layout: post
 permalink: /editing-process/
-oc: true
-byline: by Martin Brennan
-category: personal
+category: blog
+layout: note
 ---
 
-<span class="first-letter">T</span>HIS is the first post in a series of posts where I will explore my writing style and process, for a few different reasons. I hope by writing out my process in some detail I can identify areas where I can improve, have something to look back on when I've written more stories and novels, and hopefully help others gain insight into different areas of the writing process. I would also love to hear feedback from other writers no matter how far along you may be in your career or hobby. We are going to start toward the mid-point of the novel-writing process, which is where I find myself at right now. I'm writing a book I'm calling _Bottom Feeders_, which is about the Crabs Motorcycle Club, a group of misfits and losers fallen from grace and at the bottom of the shitheap, doing jobs for a larger club, the Devil's Faithful MC, just to get by. It's a mixture of crime, humour, and action and sitting at 85,000 words at the completion of the first draft. I'll get to how I wrote it in a future post (it involved a lot of cheap notebooks and pens) but for now I'll focus on the editing.
+This is the first in a series of posts I will explore my writing style and process, for a few different reasons. I hope by writing out my process in some detail I can identify areas where I can improve, have something to look back on when I've written more stories and novels, and hopefully help others gain insight into different areas of the writing process. I would also love to hear feedback from other writers no matter how far along you may be in your career or hobby. We are going to start toward the mid-point of the novel-writing process, which is where I find myself at right now. I'm writing a book I'm calling _Bottom Feeders_, which is about the Crabs Motorcycle Club, a group of misfits and losers fallen from grace and at the bottom of the shitheap, doing jobs for a larger club, the Devil's Faithful MC, just to get by. It's a mixture of crime, humour, and action and sitting at 85,000 words at the completion of the first draft. I'll get to how I wrote it in a future post (it involved a lot of cheap notebooks and pens) but for now I'll focus on the editing.
 
 <!--more-->
 

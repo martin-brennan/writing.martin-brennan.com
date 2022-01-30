@@ -1,14 +1,34 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
+<div class="page-details {{page.title}}">
+  <h1>{{ page.title }}</h1>
+  <div id="note-arcana">
+    <div class="flex-container">
+      <time class="last-modified-at" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+        Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+        {% endif %}
+      </time>
+      {% if page.fullness %}
+      <span class="note-fullness">
+        {% case page.fullness %}
+        {% when 0 %}
+        <a href="/arcana" class="nopreview nopreview-arcana fullness">🌑</a>
+        {% when 1 %}
+        <a href="/arcana" class="nopreview nopreview-arcana fullness">🌒</a>
+        {% when 2 %}
+        <a href="/arcana" class="nopreview nopreview-arcana fullness">🌓</a>
+        {% when 3 %}
+        <a href="/arcana" class="nopreview nopreview-arcana fullness">🌕</a>
+        {% endcase %}
+      </span>
+      {% endif %}
+    </div>
   </div>
-
-</article>
+</div>
+<main class="notes-container notes-container__full-page">
+  <content>
+    {{ content }}
+  </content>
+</main>

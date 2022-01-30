@@ -1,21 +1,21 @@
 ---
 title: Lessons from Tom Waits
 date: 2017-10-31T22:10:00+10:00
-author: Martin Brennan
-layout: post
+layout: note
 permalink: /lessons-from-tom-waits/
-oc: true
-byline: by Martin Brennan
-category: essay
+category: blog
 ---
 
-<blockquote class="hero"><p>Everybody knows me at the dump</p><cite>— Tom Waits</cite></blockquote>
+I came across this [wonderful interview with Tom Waits](http://www.tomwaitsfan.com/tom%20waits%20library/www.tomwaitslibrary.com/interviews/02-june-gq.html) that Elizabeth Gilbert did for GQ magazine back in 2002. She mentioned it in her Ted talk [Your elusive creative genius](https://www.youtube.com/watch?v=86x-u-tz0MA) which is also a great watch. In the interview there were some gems of wisdom from one of the most unique musicians and writers in the 20th century, certainly one of my favorites. I thought I'd collate the quotes I found interesting here but I'd urge anyone to go read the article itself in full.
 
-<span class="first-letter">I</span> CAME across this [wonderful interview with Tom Waits](http://www.tomwaitsfan.com/tom%20waits%20library/www.tomwaitslibrary.com/interviews/02-june-gq.html) that Elizabeth Gilbert did for GQ magazine back in 2002. She mentioned it in her Ted talk [Your elusive creative genius](https://www.youtube.com/watch?v=86x-u-tz0MA) which is also a great watch. In the interview there were some gems of wisdom from one of the most unique musicians and writers in the 20th century, certainly one of my favorites. I thought I'd collate the quotes I found interesting here but I'd urge anyone to go read the article itself in full.
+<!--more-->
 
-![tom waits](/images/tomwaits.jpg)
+> Everybody knows me at the dump
+> <cite>— Tom Waits</cite>
 
-<blockquote><p>Kids are always working on songs and throwing them away, like little origami things or paper airplanes. They don't care if they lose it; they'll just make another one</p></blockquote>
+![tom waits](/assets/tomwaits.jpg)
+
+<blockquote><p>Kids are always working on songs and throwing them away, like little origami things or paper airplanes. They don't care if they lose it; they'll just make another one.</p></blockquote>
 
 Tom said this after relaying a story where his daughter came up with one of the key lyrics to _Hold On_ off the top of her head. What it says to me is that you should focus on just getting creative work out there, and not really worry about whether it succeeds or fails. Just write another story, or another song, paint or draw another picture, just get it out there and keep going.
 
