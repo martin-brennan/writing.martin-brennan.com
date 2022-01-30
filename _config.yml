@@ -27,7 +27,7 @@ github_username:  martin-brennan
 twitter:
   username: mjrbrennan
 
-permalink:           pretty
+permalink: pretty
 relative_permalinks: false
 
 plugins:
