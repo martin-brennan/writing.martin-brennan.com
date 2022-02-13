@@ -24,7 +24,7 @@ This is a list of all the books in my personal library. I haven't read every boo
 * Faulkner, William -- The Sound and the Fury
 * Faulkner, William -- As I Lay Dying 
 * Fitzgerald, F. Scott -- The Great Gatsby 📖
-* Heller, Joseph -- Catch-22 
+* Heller, Joseph -- Catch-22 📖
 * Hemingway, Ernest -- A Farewell to Arms
 * Hemingway, Ernest -- The First Forty-Nine Stories
 * Hemingway, Ernest -- The Old Man and the Sea 📖
@@ -98,6 +98,7 @@ This is a list of all the books in my personal library. I haven't read every boo
 * [[it|King, Stephen -- IT]] 📖🌟🌟
 * [[the_green_mile|King, Stephen -- The Green Mile]] 📖🌟
 * [[the_shining|King, Stephen -- The Shining]] 📖
+* King, Stephen -- Doctor Sleep
 * [[the_stand|King, Stephen -- The Stand]] 📖🌟🌟
 * King, Stephen -- Night Shift
 * King, Stephen -- Hearts in Atlantis

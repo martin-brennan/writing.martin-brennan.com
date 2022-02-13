@@ -26,8 +26,35 @@ This website serves as a collection of my writing. Words, as you well know, are 
 We must remember to honour those masters who came before us. The authors that inspire me and prompt me to do better are Cormac McCarthy, Stephen King, J. R. R. Tolkien, Hunter S. Thompson, John Steinbeck, and Kurt Vonnegut.
 
 I apologise, but I must attend to my [[The Thaw|current manuscript]] now. It's quite combative, and needs a stern talking-to every now and then. You may find me [@mjrbrennan](https://twitter.com/mjrbrennan) or email me at [mjrbrennan@gmail.com](mailto:mjrbrennan@gmail.com) if you have further queries.
+
 </div>
   <div class="home__side">
     <img alt="Desert with cactii. View Along the Gila. Cereus Giganteus. The botanical works of the late George Engelmann, collected for Henry Shaw, esq." src="/assets/cactusdesert.jpg" />
-  </div>
+
+    <div markdown="1" class="latest-updates">
+  
+<div markdown="1" class="latest-blog">
+#### Latest blog posts
+
+<ul>
+{% for post in site.posts limit: 3 %}
+  <li><a class="internal-link" href="{{ post.url }}">{{ post.title | truncate: 20 }}</a><br/>(<time class="posttime" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time>)</li>
+{% endfor %}
+</ul>
 </div>
+
+<div markdown="1"  class="latest-notes">
+#### Recently changed notes
+
+<ul>
+{% assign sorted_notes = site.notes | sort: 'last_modified_at' %}
+{% for post in sorted_notes limit: 3 %}
+  <li><a class="internal-link" href="{{ post.url }}">{{ post.title | truncate: 20 }}</a><br/>(<time class="posttime" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time>)</li>
+{% endfor %}
+</ul>
+</div>
+  </div>
+  </div>
+  
+</div>
+

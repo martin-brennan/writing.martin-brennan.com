@@ -2,7 +2,7 @@
 title: Louisiana Dreamin'
 ---
 
-_Louisiana Dreamin'_ is a young adult horror and dark fantasy novel set in the rural towns and swamps of Louisiana in 1989. It is an extension of the [Swamp Lullaby](/works#swamp-lullaby-tldr-press-horror-anthology-2020) story published by TL;DR press.
+_Louisiana Dreamin'_ is a young adult horror and dark fantasy novel set in the rural towns and swamps of Louisiana in 1989. It is an extension of the [[Swamp Lullaby]] story published by TL;DR press.
 
 > It's been months since Easton's father and grandmere were taken by Big Billy Claret. With their house burned to ash and insurance refusing to pay, he and his mother Christie are forced to live in a seedy motel while she tries to find work. Easton has been having bad bad dreams, the latent powers building inside him are lashing out unpredictably, and on the other end of the telephone a disembodied voice of a girl speaks to him telepathically. Big Billy is not yet done with Easton, and he has a much crueller master. Only with the help of new friends can Easton defeat the swamp-man once and for all.
 

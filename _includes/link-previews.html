@@ -124,6 +124,8 @@
   }
 
   document.querySelectorAll('{{ include.wrapperQuerySelector }} a').forEach(setupListeners);
+  document.querySelectorAll('.appears-in a').forEach(setupListeners);
+  document.querySelectorAll('.notes-scrolls-sidebar a').forEach(setupListeners);
 
   document.querySelectorAll('a.nopreview-meta').forEach(function setupMetaTitle(linkElement) {
     linkElement.setAttribute("title", "What is this?");

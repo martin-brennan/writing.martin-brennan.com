@@ -6,7 +6,10 @@ layout: default
 <article>
   <div>
     <h1>{{ page.title }}</h1>
-    <div id="note-arcana">
+    {% if page.stories.size > 0 %}
+    {{ page.stories | appears_in }}
+    {% endif %}
+    <div id="note-arcana" class="note-arcana">
       <div class="flex-container">
         <time class="last-modified-at" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
           Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
@@ -32,10 +35,21 @@ layout: default
 
   <div id="notes-entry-container" class="notes-container">
     <content>
-      {{ content }}
+      {% assign content_stripped = content | newline_to_br | strip_newlines | replace: '<br />', ' ' | replace: ' ', '' | replace: "\n", "" | replace: "\r", "" | strip_html | strip %}
+      {% if content_stripped == "" %}
+      <p>There is nothing here but ghosts. It is a cursed place. Best leave before you anger the spirits.</p>
+      <p>Perhaps, in time, good things will grow once more on this haunted land.</p>
+      <a class="internal-link" href="javascript:history.back()">↽ Flee from whence you came.</a>
+      <br>
+      <br>
+      <img src="/assets/figure-weeping-grave.jfif" />
+      <cite><a href="https://www.metmuseum.org/art/collection/search/385071?showOnly=openAccess&amp;ft=graveyard&amp;offset=0&amp;rpp=40&amp;pos=6">A Figure Weeping Over A Grave, George Richmond</a></cite>
+      {% else %}
+      {{content}}
+      {% endif %}
     </content>
 
-    <side style="font-size: 0.9em">
+    <side class="notes-scrolls-sidebar" style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Scrolls referencing this scroll</h3>
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">

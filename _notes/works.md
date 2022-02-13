@@ -20,7 +20,7 @@ My published works and the manuscripts that I am currently working on are listed
 
 A short story I wrote for the TL;DR press [NOPE 2 horror anthology](http://tldrpress.org/index.php/2020/10/16/nope-2-line-up-announcement/). This story was featured on the TL;DR press Twitter, and read along with 5 other published stories and poems at a Halloween reading, receiving a lot of positive feedback.
 
-[[Big Billy Claret]], more than a ghost but less than a man, has been wandering the bayou a long time. Many have tried to kill him for good, but they didn't know his secret. When Billy takes a young boy called Easton, the boy's father will stop at nothing to get him back.
+[[Big Billy Claret]], more than a ghost but less than a man, has been wandering the bayou a long time. Many have tried to kill him for good, but they didn't know his secret. When Billy takes a young boy called [[easton_porter|Easton]], the boy's father will stop at nothing to get him back.
 
 
 ### Only The Dead (TL;DR Press Family Anthology 2019)
@@ -43,7 +43,7 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 
 _The Marrow King Saga_ is a series of fantasy novels set in a yet-unnamed world made up of the kingdoms of Altor, Revana, Zakour, and Lacera.
 
-### [[louisiana_dreaming|Louisiana Dreamin']]
+### [[louisiana_dreamin|Louisiana Dreamin']]
 
 _Louisiana Dreamin'_ is a young adult horror and dark fantasy novel set in the rural towns and swamps of Louisiana in 1989.
 
