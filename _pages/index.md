@@ -47,14 +47,12 @@ I apologise, but I must attend to my [[The Thaw|current manuscript]] now. It's q
 #### Recently changed notes
 
 <ul>
-{% assign sorted_notes = site.notes | sort: 'last_modified_at' %}
+{% assign sorted_notes = site.notes | sort: 'last_modified_at_str' | reverse %}
 {% for post in sorted_notes limit: 3 %}
   <li><a class="internal-link" href="{{ post.url }}">{{ post.title | truncate: 20 }}</a><br/>(<time class="posttime" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time>)</li>
 {% endfor %}
 </ul>
 </div>
   </div>
-  </div>
-  
 </div>
 

@@ -4,7 +4,7 @@ layout: default
 
 <div class="page-details {{page.title}}">
   <h1>{{ page.title }}</h1>
-  <div id="note-arcana">
+  <div id="note-arcana" class="note-arcana">
     <div class="flex-container">
       <time class="last-modified-at" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
         Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
