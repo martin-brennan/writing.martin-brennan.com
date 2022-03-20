@@ -1,0 +1,19 @@
+<!-- HTML search field -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="Ambrose! Fetch me..." autofocus>
+<ul id="results-container"></ul>
+</div>
+
+<!-- Grab search-script.js -->
+<script src="/js/search.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    limit: 100,
+    searchResultTemplate: '<li><a href="{url}" class="internal-link">{title}</a><br><span class="post-meta">{date}</span></li>'
+})
+</script>
