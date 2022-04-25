@@ -2,7 +2,7 @@
 title: The Thaw
 ---
 
-_The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of America.
+_The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of America, set five years after [[the Fall]].
 
 > It has been five years since the dead rose. An island community has formed at the junction of the Mississippi and Arkansas rivers. Dwindling food supplies and a crop blight force a group of the survivors to leave the safety of their home to make the perilous journey to a seed vault in Fort Collins, Colorado. A brutal and unnatural winter falls at home and in the Rockies, and the fate of humanity rests upon the success of their long journey across the American heartland. While the interests of the group may be aligned, theirs methods differ wildly, and two fiery conflicts will rage before the thaw.
 

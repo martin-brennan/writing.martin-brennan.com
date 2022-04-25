@@ -1,5 +1,3 @@
-#!/bin/ruby
-
 title_filename = ARGV[0]
 stories = ARGV[1]
 tags = ARGV[2]
