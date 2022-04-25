@@ -2,7 +2,6 @@
 
 require 'fileutils'
 require 'pathname'
-require 'jekyll-last-modified-at'
 require 'pry'
 
 module Recents
