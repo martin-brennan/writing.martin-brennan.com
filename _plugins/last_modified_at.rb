@@ -19,6 +19,7 @@ module Jekyll
         site = context.registers[:site]
         format = @format || site.config.dig('last-modified-at', 'date-format')
         article_file = context.environments.first['page']['path']
+        puts "SITE SOURCE #{site.source}"
         Jekyll::LastModifiedAt::Determinator.new(site.source, article_file, format)
                     .formatted_last_modified_date
       end
