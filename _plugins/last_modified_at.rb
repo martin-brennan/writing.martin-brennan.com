@@ -19,7 +19,6 @@ module Jekyll
         site = context.registers[:site]
         format = @format || site.config.dig('last-modified-at', 'date-format')
         article_file = context.environments.first['page']['path']
-        puts "SITE SOURCE #{site.source}"
         Jekyll::LastModifiedAt::Determinator.new(site.source, article_file, format)
                     .formatted_last_modified_date
       end
@@ -139,7 +138,6 @@ module Jekyll
     def self.add_determinator_proc
       proc { |item|
         format = item.site.config.dig('last-modified-at', 'date-format')
-        puts "SITE SOURCE #{item.site.source}"
         item.data['last_modified_at'] = Jekyll::LastModifiedAt::Determinator.new(item.site.source, item.path,
                                                          format)
       }
