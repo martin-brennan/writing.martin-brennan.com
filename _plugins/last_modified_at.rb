@@ -38,7 +38,7 @@ module Jekyll
 
         @top_level_directory ||= begin
           Dir.chdir(@site_source) do
-            @top_level_directory = File.join(Executor.sh('git', 'rev-parse', '--show-toplevel'), '.git').split[0]
+            @top_level_directory = Executor.sh('git', 'rev-parse', '--show-toplevel').split[0] + '/.git'
           end
                                  rescue StandardError
                                    ''
@@ -94,7 +94,7 @@ module Jekyll
           last_commit_date = Executor.sh(
             'git',
             '--git-dir',
-            git.top_level_directory + "/.git",
+            git.top_level_directory,
             'log',
             '-n',
             '1',
@@ -126,7 +126,7 @@ module Jekyll
       def relative_path_from_git_dir
         return nil unless git.git_repo?
 
-        @relative_path_from_git_dir ||= Pathname.new(absolute_path_to_article).relative_path_from(Pathname.new(git.top_level_directory)).to_s
+        @relative_path_from_git_dir ||= Pathname.new(absolute_path_to_article).relative_path_from(File.dirname(Pathname.new(git.top_level_directory))).to_s
       end
 
       def mtime(file)
