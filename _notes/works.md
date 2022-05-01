@@ -58,7 +58,7 @@ Along with these short stories I have several short novellas (9-15k words) which
 * Bloom (TL;DR Press 2021) - Rejected
 * False Prophet (TL;DR Press 1000 Word Herd 2021) - Rejected
 * Found Wanting (3Elements Review 2021) - Rejected
-* [[trailblazers|Trailblazers (Literary Taxidermy 2019)]] - Rejected
+* Trailblazers (Literary Taxidermy 2019) - Rejected
 * [[yellowjacket|Yellowjacket (Third Flatiron Publishing Hidden Histories Anthology 2019)]] - Rejected
 * [[unrepentant|Unrepentant (Literary Taxidermy 2017)]] - Rejected
 * [[tough_break|Tough Break (Swinburne Microfiction 2017)]] - Rejected
@@ -66,5 +66,5 @@ Along with these short stories I have several short novellas (9-15k words) which
 * [[adrift|Adrift (Swinburne Microfiction 2017)]] - Rejected
 * [[dust_to_dust|Dust to Dust (Swinburne Microfiction 2017)]] - Rejected
 * [[canto_del_jilguero|Canto del Jilguero (Swinburne Microfiction 2017)]] - Rejected
-* [[its_late|It's Late (2013)]]
 * [[in_the_opening_hours|In The Opening Hours (Metropolis, The Suburban Review, 2013)]] - Rejected
+* [[its_late|It's Late (2013)]]
