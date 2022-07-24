@@ -9,6 +9,10 @@ if stories == "mk"
   stories = "the_marrow_king_saga"
 end
 
+if stories == "ld"
+  stories = "louisiana_dreamin"
+end
+
 File.open("_notes/#{title_filename}.md", 'w') { |fo| fo.puts "---
 title: #{title}
 tags: [#{tags}]

@@ -37,7 +37,7 @@ module Jekyll
 
         @top_level_directory ||= begin
           Dir.chdir(@site_source) do
-            @top_level_directory = Executor.sh('git', 'rev-parse', '--show-toplevel').split[0] + '/.git'
+            @top_level_directory =  "#{@site_source}/.git"
           end
                                  rescue StandardError
                                    ''
@@ -49,10 +49,11 @@ module Jekyll
 
         @is_git_repo = begin
           Dir.chdir(@site_source) do
-            Executor.sh('git', 'rev-parse', '--is-inside-work-tree').split[0] == 'true'
+            res = `git --git-dir=#{@site_source}/.git rev-parse --is-inside-work-tree`
+            res.split[0] == 'true'
           end
-                       rescue StandardError
-                         false
+        rescue StandardError
+          false
         end
       end
     end
@@ -91,6 +92,7 @@ module Jekyll
       end
 
       def last_modified_at_unix
+        # git log -n 1 --format="%ct" -- 
         if git.git_repo?
           last_commit_date = Executor.sh(
             'git',
@@ -103,8 +105,10 @@ module Jekyll
             '--',
             relative_path_from_git_dir
           )[/\d+/]
+
           # last_commit_date can be nil iff the file was not committed.
-          last_commit_date.nil? || last_commit_date.empty? ? mtime(absolute_path_to_article) : last_commit_date
+          last_commit_missing = last_commit_date.nil? || last_commit_date.empty?
+          last_commit_missing ? mtime(absolute_path_to_article) : last_commit_date
         else
           mtime(absolute_path_to_article)
         end
