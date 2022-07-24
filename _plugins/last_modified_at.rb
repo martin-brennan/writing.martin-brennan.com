@@ -85,7 +85,9 @@ module Jekyll
       def last_modified_at_time
         raise Errno::ENOENT, "#{absolute_path_to_article} does not exist!" unless File.exist? absolute_path_to_article
 
-        Time.at(last_modified_at_unix.to_i)
+        # Hardcoded to be UTC+1000 (my tz), which is UTC+36000 seconds
+        # to show dates correctly on production site.
+        Time.at(last_modified_at_unix.to_i, in: 36000)
       end
 
       def last_modified_at_unix
