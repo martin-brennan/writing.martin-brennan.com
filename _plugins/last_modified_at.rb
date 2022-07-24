@@ -138,8 +138,8 @@ module Jekyll
     def self.add_determinator_proc
       proc { |item|
         format = item.site.config.dig('last-modified-at', 'date-format')
-        item.data['last_modified_at'] = Jekyll::LastModifiedAt::Determinator.new(item.site.source, item.path,
-                                                         format)
+        item.data['last_modified_at'] = Jekyll::LastModifiedAt::Determinator.new(item.site.source, item.path, format)
+        item.data['last_modified_at_str'] = Jekyll::LastModifiedAt::Determinator.new(item.site.source, item.path, "%FT%T%:z")
       }
     end
 
