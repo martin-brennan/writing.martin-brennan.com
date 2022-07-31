@@ -5,11 +5,12 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     graph_edges = []
 
     all_notes = site.collections['notes'].docs
+    all_films = site.collections['film'].docs
     all_pages = site.pages
     all_posts = site.posts
 
-    all_nodes = all_notes + all_posts # defining what should be visualized in the graph
-    all_docs = all_notes + all_pages + all_posts # ... and where bidirectional links are generated
+    all_nodes = all_notes + all_films + all_posts # defining what should be visualized in the graph
+    all_docs = all_notes + all_pages + all_films + all_posts # ... and where bidirectional links are generated
 
     link_extension = !!site.config["use_html_extension"] ? '.html' : ''
 

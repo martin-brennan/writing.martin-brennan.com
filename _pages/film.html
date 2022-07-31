@@ -1,0 +1,14 @@
+---
+layout: page
+title: Film
+permalink: /film/
+---
+
+<div class="film-thumbnail-container">
+  {% for negative in site.film %}
+    <a class="film-thumbnail-item internal-link" href="{{ negative.url }}" title="{{ negative.title | append: " - " | append: negative.description }}">
+      <img src="/assets/film/thumbnails/{{ negative.url | replace: "/film/", "" | replace: "/", "" }}.jpg" />
+    </a>
+  {% endfor %}
+</div>
+

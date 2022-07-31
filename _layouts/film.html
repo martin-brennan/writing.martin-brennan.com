@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<main>
+  <article>
+    <div id="film-entry-container" class="film-container">
+      <content>
+        <img class="film-entry-image" src="/assets/film/{{ page.url | replace: "/film/", "" | replace: "/", "" }}.jpg" />
+        <div class="film-entry-description">
+          {{content}}
+        </div>
+        {% include film_details.html %}
+        <p><a class="internal-link" href="/film">« Back to gallery</a></p>
+      </content>
+    </div>
+  </article>
+</main>

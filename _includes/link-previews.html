@@ -76,6 +76,9 @@
 
         iframe.src = event.target.href
         iframe.onload = function() {
+          if (!iframe.contentWindow.document.querySelector('div.note-page-wrapper')) {
+            return;
+          }
           tooltipContent.innerHTML = getContentHtmlFromIframe(iframe)
           tooltipCache[event.target.href] = tooltipContent.innerHTML
 

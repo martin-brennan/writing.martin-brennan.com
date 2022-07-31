@@ -9,6 +9,7 @@ gem "webrick", "~> 1.7"
 gem "nokogiri"
 gem "jekyll-seo-tag"
 gem "posix-spawn"
+gem "mini_magick"
 
 group :development do
   gem "pry"

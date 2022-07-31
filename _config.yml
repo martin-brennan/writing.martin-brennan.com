@@ -41,6 +41,9 @@ collections:
   notes:
     output: true
     permalink: /:slug/
+  film:
+    output: true
+    permalink: /film/:slug/
 
 defaults:
   - scope:
