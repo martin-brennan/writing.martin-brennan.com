@@ -37,6 +37,7 @@ QUALITY = 80
 Dir.foreach("assets/film") do |filename|
   next if File.directory?(filename)
   next if filename == "thumbnails"
+  puts "film filename: #{filename}"
   final_filename = filename.gsub(File.extname(filename), "")
   content = open("assets/film/#{filename}")
   ImageOptimizer.resize(content, WIDTH, HEIGHT, QUALITY, final_filename)
