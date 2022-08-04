@@ -4,7 +4,9 @@ require 'mini_magick'
 class ImageOptimizer
   class << self
     def resize(content, width, height, quality, final_filename)
-      MiniMagick.cli_path = "C:\\Program Files\\ImageMagick-7.1.0-Q16-HDRI\\"
+      if Gem.win_platform?
+        MiniMagick.cli_path = "C:\\Program Files\\ImageMagick-7.1.0-Q16-HDRI\\"
+      end
       img = MiniMagick::Image.read(content)
       w_original = img[:width].to_f
       h_original = img[:height].to_f
