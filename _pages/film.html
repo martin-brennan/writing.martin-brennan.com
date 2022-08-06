@@ -4,11 +4,16 @@ title: Film
 permalink: /film/
 ---
 
+<p>Over the fast few years I've taken up film photography. The experience of slowing down and seeing the results much later is a much more satisfying way of taking photos for me. The film shots I've taken I consider to be 100x better than anything I've ever taken on digital cameras, and they feel a lot more alive to me. Here is a selection of the shots I've taken that I consider the better ones. Many of them were shot on my dad's old Chinon CM-4s, but since August 2022 I have been shooting on a Canon AE-1 Program.</p>
+
 <div class="film-thumbnail-container">
-  {% for negative in site.film %}
-    <a class="film-thumbnail-item internal-link" href="{{ negative.url }}" title="{{ negative.title | append: " - " | append: negative.description }}">
-      <img src="/assets/film/thumbnails/{{ negative.url | replace: "/film/", "" | replace: "/", "" }}.jpg" />
+  {% for negative in site.film reversed %}
+    <a class="film-thumbnail-item internal-link" href="{{ negative.url }}" title="{{ negative.title }}">
+      <img src="/assets/film/thumbnails/{{ negative.url | replace: "/film/", "" | replace: "/", "" }}.jpg" alt="{{ negative.title }}" />
     </a>
   {% endfor %}
 </div>
 
+<p markdown="1" class="small">
+  I got the idea to do this from this <a href="https://news.ycombinator.com/item?id=30782578">hacker news thread</a>, specifically <a href="https://news.ycombinator.com/item?id=30799062">this comment by jeena</a>. The article is at <a href="https://devonzuegel.com/post/travel-photos-are-underrated">Travel photos are underrated</a>, and jeena's own photo grid <a href="https://jeena.net/photos">is over at their website</a>.
+</p>

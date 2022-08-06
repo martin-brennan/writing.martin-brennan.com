@@ -11,4 +11,10 @@
     <td><strong>Stock</strong></td>
     <td>{{page.stock}}</td>
   </tr>
+  {% if page.approx_date %}
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>{{page.approx_date}}</td>
+    </tr>
+  {% endif %}
 </table>
