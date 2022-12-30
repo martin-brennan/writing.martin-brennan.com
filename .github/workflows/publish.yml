@@ -16,12 +16,10 @@ jobs:
       with:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         name: id_rsa
-        known_hosts: ${{ secrets.SSH_KNOWN_HOST }}
-        if_key_exists: replace
+    - name: Adding Known Hosts
+      run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
     - name: git push
       run: |
-        echo "" >> ~/.ssh/id_rsa
-        echo "" >> ~/.ssh/known_hosts
         cd $GITHUB_WORKSPACE
         git remote add droplet ${{ secrets.SSH_DROPLET_REMOTE }}
         git push droplet main
