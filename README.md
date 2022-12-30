@@ -1,23 +1,19 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+This is the source repo for https://writing.martin-brennan.com , which at the time of writing this README looks like this:
 
-# Digital garden Jekyll template
+![writing.martin-brennan.com homepage](assets/writing_home.png)
 
-Use this template repository to get started with your own digital garden.
+This website serves as a collection of my writing, including:
 
-**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
+* Worldbuilding for the fictional worlds and stories I create
+* Fully formed essays and traditional blog posts
+* Thoughts about books, films, music, and other art
 
-Preview the template here: https://digital-garden-jekyll-template.netlify.app/
+The blog portion of my website can be found at https://writing.martin-brennan.com/blog/, though admittedly entries are sparse.
 
-- Based on Jekyll, a static website generator
-- Supports Roam-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Includes graph visualization of the notes and their links
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
+----
 
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
+The Jekyll template used to power this website is based on [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll), though heavily modified and styled, which supports `[[Roam/Obisidian style links]]` which generate backlinks as well as a node graph.
 
-## License
+I use this extensively inside the `_notes` directory to make links between worldbuilding and characters for my stories. Links to the current article are displayed in the sidebar:
 
-Source code is available under the [MIT license](LICENSE.md).
+![writing.martin-brennan.com sidebar](assets/writing_sidebar.png)
