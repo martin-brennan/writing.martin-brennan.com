@@ -20,7 +20,7 @@ jobs:
         if_key_exists: ignore
     - name: git push
       run: |
-        cat ~/.ssh/id_rsa.pub
+        ls ~/.ssh
         cd $GITHUB_WORKSPACE
         git remote add droplet ${{ secrets.SSH_DROPLET_REMOTE }}
         git push droplet main
