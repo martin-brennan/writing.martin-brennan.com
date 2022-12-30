@@ -17,7 +17,7 @@ jobs:
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
         ssh-keyscan -H ${{ secrets.SSH_HOST }} > ~/.ssh/known_hosts
     - name: clone
-      run: git clone --depth=1 git@github.com:martin-brennan/writing.martin-brennan.com.git writing && cd writing
+      run: git clone --depth=1 https://github.com/martin-brennan/writing.martin-brennan.com.git writing && cd writing
     - name: add remote
       run: git remote add droplet ${{ secrets.SSH_DROPLET_REMOTE }}
     - name: push to remote
