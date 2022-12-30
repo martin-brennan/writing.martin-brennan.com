@@ -16,11 +16,11 @@ jobs:
         install -m 600 -D /dev/null ~/.ssh/id_rsa
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
         ssh-keyscan -H ${{ secrets.SSH_HOST }} > ~/.ssh/known_hosts
-    - name: clone
-      run: git clone --depth=1 https://github.com/martin-brennan/writing.martin-brennan.com.git writing && cd writing
-    - name: add remote
-      run: git remote add droplet ${{ secrets.SSH_DROPLET_REMOTE }}
-    - name: push to remote
-      run: git push droplet main
+    - name: git
+      run: |
+        git clone --depth=1 https://github.com/martin-brennan/writing.martin-brennan.com.git writing
+        cd writing
+        git remote add droplet ${{ secrets.SSH_DROPLET_REMOTE }}
+        git push droplet main
     - name: cleanup
       run: rm -rf ~/.ssh
