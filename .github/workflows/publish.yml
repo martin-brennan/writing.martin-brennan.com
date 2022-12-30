@@ -24,17 +24,6 @@ jobs:
         name: id_rsa
     - name: Adding Known Hosts
       run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
-    # Start ssh-agent but set it to use the same ssh_auth_sock value.
-    # The agent will be running in all steps after this, so it
-    # should be one of the first.
-    - name: Setup SSH passphrase
-      env:
-        SSH_PASSPHRASE: ${{secrets.SSH_PASSPHRASE}}
-        SSH_PRIVATE_KEY: ${{secrets.SSH_PRIVATE_KEY}}
-      run: |
-        ssh-agent -a $SSH_AUTH_SOCK > /dev/null
-        echo 'echo $SSH_PASSPHRASE' > ~/.ssh_askpass && chmod +x ~/.ssh_askpass
-        echo "$SSH_PRIVATE_KEY" | tr -d '\r' | DISPLAY=None SSH_ASKPASS=~/.ssh_askpass ssh-add - >/dev/null
     - name: ssh test
       run: ssh -v ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} 'ls ~/repos'
     - name: git add droplet
