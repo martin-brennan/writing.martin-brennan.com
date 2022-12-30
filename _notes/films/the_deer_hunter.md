@@ -27,3 +27,4 @@ This was his last movie:
 >
 > <cite>[https://en.wikipedia.org/wiki/The_Deer_Hunter](https://en.wikipedia.org/wiki/The_Deer_Hunter)</cite>
 
+The cinematography for this was fantastic as well, so many great shots, of the factory in town, the mountains, the war, everything. Brilliant, go watch it now.
