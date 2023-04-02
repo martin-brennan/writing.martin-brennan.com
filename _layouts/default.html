@@ -10,12 +10,5 @@
 
     {% include link-previews.html wrapperQuerySelector="content" %}
   </body>
-  <script>
-    document.addEventListener("keyup", (event) => {
-      console.log(event);
-      if (event.code === "Slash" && event.ctrlKey) {
-        window.location.href = "/search";
-      }
-    });
-  </script>
+  <script src="/js/search-shortcut.js"></script>
 </html>

@@ -39,22 +39,23 @@ Each manuscript has a dedicated hub, please pick your poison:
 
 _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of America in 2003.
 
-### [[The Marrow King Saga]]
-
-_The Marrow King Saga_ is a series of fantasy novels set in a yet-unnamed world made up of the kingdoms of Altor, Revana, Zakour, and Lacera.
-
-### [[louisiana_dreamin|Louisiana Dreamin']]
-
-_Louisiana Dreamin'_ is a young adult horror and dark fantasy novel set in the rural towns and swamps of Louisiana in 1989.
-
 ### [[Bottom Feeders]]
 
 _Bottom Feeders_ is a dark comedy crime drama novel set in a fictionalized Californian town called Whiteport in 1984.
+
+### [[The Marrow King Saga]] (Concept stage)
+
+_The Marrow King Saga_ is a series of fantasy novels set in a yet-unnamed world made up of the kingdoms of Altor, Revana, Zakour, and Lacera.
+
+### [[louisiana_dreamin|Louisiana Dreamin']] (Concept stage)
+
+_Louisiana Dreamin'_ is a young adult horror and dark fantasy novel set in the rural towns and swamps of Louisiana in 1989.
 
 ### Stories
 
 Along with these short stories I have several short novellas (9-15k words) which I'm not quite sure what to do with, as they seem to be of too strange a size to submit anywhere, and some other stories not published on this blog because they have been submitted to competitions or otherwise held back for future submissions.
 
+* The King (Backstory for Carson Cash in [[The Thaw]], c.f. [[The King]])
 * Bloom (TL;DR Press 2021) - Rejected
 * False Prophet (TL;DR Press 1000 Word Herd 2021) - Rejected
 * Found Wanting (3Elements Review 2021) - Rejected

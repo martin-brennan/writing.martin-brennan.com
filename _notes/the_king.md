@@ -1,10 +1,10 @@
 ---
 title: The King
 tags: [character]
-stories: [the_thaw, the_king]
+stories: [the_thaw]
 ---
 
-The King, formerly known as Carson Wells, is the leader of a pirate band operating out of the Memphis area along the Mississipi river. Carson and his men arrive at [[the_island|The Island]] on December 5th, 2003 and subjucate the colonists living there, including [[Sarah Hayes]]. They had been watching the Island and planning the invasion for some time beforehand.
+The King, formerly known as Carson Cash, is the leader of a pirate band operating out of the Memphis area along the Mississippi river. Carson and his men arrive at [[the_island|The Island]] on December 5th, 2003 and subjugate the colonists living there, including [[Sarah Hayes]]. They had been watching the Island and planning the invasion for some time beforehand.
 
 The King was born in a small town outside Memphis in 1973, and was raised by a strict, abusive, Elvis-loving father Mason and his timid wife Dot. Carson ran away from home at 16 after an incident with his school principal and a misplaced rock throw, and soon fell in with a low-rate punk band called The Rags in Memphis. After severely beating a concert promoter, Johnny Dunn, for refusing to pay his band, Carson was sentenced to five years in prison, with parole in three for good behavior.
 
@@ -17,3 +17,5 @@ Soon, Carson's life began to fall apart. Clancy died of a heart attack, and seei
 After one particularly bad night, Jackie left Carson, and he was soon forced at rock bottom to sell his beloved Lounge to [[Clay Jackson]], the underworld boss who ruled East Memphis. Carson moved back in with his mother, Dot, and found nothing to get him up in the morning most days. Agreeing eventually to take his mother to Graceland for her birthday, Carson was beginning to work up the courage to write to Jackie and fix things up between him and his wife, to see his daughter once more.
 
 It was not to be. The day they went to Graceland was October 16th, 1998, the day before The Fall. Several people who had been infected with the virus that caused the dead to come back to life reanimated and tore through the crowd of tourists, killing Dot and plunging Carson into a world of chaos and insanity that he would not recover from.
+
+{% include request_copy.html title="The King" %}

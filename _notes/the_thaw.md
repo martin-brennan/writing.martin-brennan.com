@@ -35,7 +35,7 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 
 #### The King's Pirates
 
-* [[the_king|The King (Carson Wells)]]
+* [[the_king|The King (Carson Cash)]]
 * [[Clay Jackson]]
 * [[Stevie]]
 * [[Guts]]
