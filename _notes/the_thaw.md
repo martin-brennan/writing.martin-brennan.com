@@ -18,7 +18,7 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 * [[Gloria Palermo]]
 * [[Private Patterson]]
 
-#### Islanders
+#### The Islanders
 
 * [[Sarah Hayes]]
 * [[Cathy Darrow]]
@@ -35,17 +35,30 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 
 #### The King's Pirates
 
-* [[the_king|The King (Carson Cash)]]
+* [[the_king|The King (AKA Carson Cash)]]
 * [[Clay Jackson]]
+* [[Stokes]]
+* [[Norwood]]
+* [[Smalls]]
+* [[Ross]]
+* [[Delaney]]
 * [[Stevie]]
 * [[Guts]]
 * [[Randy]]
 * [[Leon]]
 * [[Spider]]
+* [[Lazy-Eye]]
 
 #### The King's Slaves
 
 * [[Edie]]
+
+#### Gold Rushers
+
+* [[Frank (AKA Francis)]]
+* [[Tom the Rat]]
+* [[Edie]]
+* [[Lou]]
 
 #### Pinnacle Mountain Colonists
 
@@ -60,6 +73,18 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 * [[Joey]]
 * [[Murdoch]]
 * [[Heather]]
+
+#### Muscogee Nation
+
+* [[Chief Robert Perry Beaver]]
+* [[Daniel Nix]]
+* [[Childers]]
+
+#### The Barrow Gang
+
+* [[Cyrus]]
+* [[joey_barrow_gang|Joey]]
+* [[Boggs]]
 
 #### Cheyenne Mountain
 
