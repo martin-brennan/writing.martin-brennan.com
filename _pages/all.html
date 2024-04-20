@@ -1,0 +1,21 @@
+---
+layout: page
+title: All Notes
+id: all
+permalink: /all
+---
+
+<ul>
+  {% assign sorted_notes = site.notes | sort: 'title' %} {% for post in
+  sorted_notes %}
+  <li>
+    <a class="internal-link" href="{{ post.url }}">{{ post.title }}</a
+    >&nbsp;(<time
+      class="posttime"
+      datetime="{{ post.last_modified_at | date_to_xmlschema }}"
+      itemprop="datePublished"
+      >{{ post.last_modified_at | date: "%B %-d, %Y" }}</time
+    >)
+  </li>
+  {% endfor %}
+</ul>
