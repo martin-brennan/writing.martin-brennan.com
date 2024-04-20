@@ -17,12 +17,11 @@ This is a list of all the books in my personal library. I haven't read every boo
 <div markdown="1" class="library-list">
 #### Fiction -- American Literature
 
-* [[in_cold_blood|Capote, Truman -- In Cold Blood]] 📖🌟
 * [[slouching_towards_bethlehem|Didion, Joan -- Slouching Towards Bethlehem]] 📖
 * [[american_psycho|Ellis, Bret Easton -- American Psycho]] 📖
 * Ellis, Bret Easton -- The Rules of Attraction 📖
 * Faulkner, William -- The Sound and the Fury
-* Faulkner, William -- As I Lay Dying 
+* Faulkner, William -- As I Lay Dying
 * Fitzgerald, F. Scott -- The Great Gatsby 📖
 * Heller, Joseph -- Catch-22 📖
 * Hemingway, Ernest -- A Farewell to Arms
@@ -30,10 +29,10 @@ This is a list of all the books in my personal library. I haven't read every boo
 * Hemingway, Ernest -- The Old Man and the Sea 📖
 * Lee, Harper -- To Kill a Mockingbird 📖
 * Kesey, Ken -- One Flew Over the Cuckoo's Nest 📖
-* Kerouac, Jack -- On The Road 
+* Kerouac, Jack -- On The Road
 * McCarthy, Cormac -- All The Pretty Horses 📖
 * McCarthy, Cormac -- The Crossing 📖
-* McCarthy, Cormac -- Cities of the Plain
+* McCarthy, Cormac -- Cities of the Plain 📖
 * [[blood_meridian|McCarthy, Cormac -- Blood Meridian]] 📖🌟🌟
 * McCarthy, Cormac -- The Road 📖🌟🌟
 * McCarthy, Cormac -- No Country for Old Men 📖🌟🌟
@@ -43,7 +42,8 @@ This is a list of all the books in my personal library. I haven't read every boo
 * [[the_grapes_of_wrath|Steinbeck, John -- The Grapes of Wrath]] 📖🌟
 * [[hells_angels|Thompson, Hunter S. -- Hell's Angels]] 📖
 * Thompson, Hunter S. -- Fear and Loathing in Las Vegas
-* Thompson, Hunter S. -- Fear and Loathing in America
+* Thompson, Hunter S. -- Fear and Loathing in America: The Brutal Odyssey of an Outlaw Journalist 1968–1976 📖
+* Thompson, Hunter S. -- The Rum Diary
 * [[bluebeard|Vonnegut, Kurt -- Bluebeard]] 📖
 * [[breakfast_of_champions|Vonnegut, Kurt -- Breakfast of Champions]] 📖🌟
 * Vonnegut, Kurt -- Slaughterhouse Five 📖
@@ -85,20 +85,20 @@ This is a list of all the books in my personal library. I haven't read every boo
 * [[the_big_sleep|Chandler, Raymond -- The Big Sleep]] 📖
 * [[man_in_the_high_castle|Dick, Philip K. -- Man In The High Castle]] 📖
 * Gabaldon, Diana -- Outlander 📖
-* Gabaldon, Diana -- Voyager
-* Gabaldon, Diana -- The Drums of Autumn
-* Gabaldon, Diana -- The Fiery Cross
+* Gabaldon, Diana -- Voyager 📖
+* Gabaldon, Diana -- The Drums of Autumn 📖
+* Gabaldon, Diana -- The Fiery Cross 📖
 * Gabaldon, Diana -- A Breath of Snow and Ashes
 * Gabaldon, Diana -- An Echo in the Bone
 * [[good_omens|Gaiman, Neil, and Pratchett, Terry -- Good Omens]] 📖
 * Gaiman, Neil -- Norse Mythology
-* Ishiguro, Kazuo -- Never Let Me Go
+* Ishiguro, Kazuo -- Never Let Me Go 📖
 * [[11_22_63|King, Stephen -- 11/22/63]] 📖🌟🌟
 * [[christine|King, Stephen -- Christine]]
 * [[it|King, Stephen -- IT]] 📖🌟🌟
 * [[the_green_mile|King, Stephen -- The Green Mile]] 📖🌟
 * [[the_shining|King, Stephen -- The Shining]] 📖
-* King, Stephen -- Doctor Sleep
+* King, Stephen -- Doctor Sleep 📖
 * [[the_stand|King, Stephen -- The Stand]] 📖🌟🌟
 * King, Stephen -- Night Shift
 * King, Stephen -- Hearts in Atlantis
@@ -119,7 +119,7 @@ This is a list of all the books in my personal library. I haven't read every boo
 * Pratchett, Terry -- Guards! Guards! 📖
 * Rowling, J. K. -- Harry Potter and the Philosopher's Stone 📖
 * Rowling, J. K. -- Harry Potter and the Chamber of Secrets 📖
-* Rowling, J. K. -- Harry Potter and the Prisoner of Azkaban 📖
+* Rowling, J. K. -- Harry Potter and the Prisoner of Azkaban 📖🌟
 * Rowling, J. K. -- Harry Potter and the Goblet of Fire 📖
 * Rowling, J. K. -- Harry Potter and the Order of the Phoenix 📖
 * Rowling, J. K. -- Harry Potter and the Half-Blood Prince 📖🌟
@@ -142,27 +142,34 @@ This is a list of all the books in my personal library. I haven't read every boo
 #### Non-Fiction -- History
 
 * Diamond, Jared -- Guns, Germs, and Steel
-* Brown, Dee -- Bury My Heart at Wounded Knee
-	
+* Brown, Dee -- Bury My Heart at Wounded Knee 📖🌟🌟
+* Grann, David -- Killers Of The Flower Moon 📖🌟
+
 #### Non-Fiction -- Crime
-	
+
+* [[in_cold_blood|Capote, Truman -- In Cold Blood]] 📖🌟
 * Douglas, John -- Mindhunter 📖
 * Dudley, Stephen -- MS-13
+* Larson, Erik - The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America
+* Rule, Anne - The Stranger Beside Me
 
-#### Non-Fiction -- Reference & Productivity
+#### Non-Fiction -- Reference, Work, and Productivity
 
 * Bukowski, Charles -- On Writing
 * Clark, Roy Peter -- Writing Tools
 * [[on_writing|King, Stephen -- On Writing]] 📖🌟🌟
 * Koch, Stephen -- Modern Library Writer's Workshop 📖
+* Larson, Will -- Staff Engineer: Leadership Beyond the Management Track 📖
 * Newport, Cal -- Deep Work 📖
+* Newport, Cal -- Slow Productivity
 
 #### Non-Fiction -- Biographical
 
 * Barger, Ralph -- Hell's Angel: The Autobiography of Sonny Barger 📖
 * Bourdain, Anthony -- Kitchen Confidential 📖
-* [[autobiography_of_malcolm_x|Hayley, Alex and Malcolm X -- The Autobiography of Malcolm X]] 📖
+* [[autobiography_of_malcolm_x|Hayley, Alex and Malcolm X -- The Autobiography of Malcolm X]] 📖🌟
 * Roberts, Andrew - Napoleon: A Life
+* Springseen, Bruce -- Born to Run 📖
 
 ### Films
 
