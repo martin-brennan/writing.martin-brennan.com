@@ -4,12 +4,15 @@ title: Film
 permalink: /film/
 ---
 
-<p>Over the fast few years I've taken up film photography. The experience of slowing down and seeing the results much later is a much more satisfying way of taking photos for me. The film shots I've taken I consider to be 100x better than anything I've ever taken on digital cameras, and they feel a lot more alive to me. Here is a selection of the shots I've taken that I consider the better ones. Many of them were shot on my dad's old Chinon CM-4s, but since August 2022 I have been shooting on a Canon AE-1 Program.</p>
+<p>I've been shooting film since 2020. The experience of slowing down and seeing the results much later is far more satisfying to me than shooting digital. The film shots I've taken I consider to be 100x better than anything I've ever taken on digital cameras, and they feel a lot more alive to me. Here is a selection of the shots I've taken that I consider the better ones.</p>
+
+<p>Earlier images were shot on my dad's old Chinon CM-4s, but since August 2022 I have been shooting on a Canon AE-1 Program.</p>
 
 <div class="film-thumbnail-container">
-  {% for negative in site.film reversed %}
+  {% assign sorted_film = site.film | sort: "order" | reverse %}
+  {% for negative in sorted_film  %}
     <a class="film-thumbnail-item internal-link" href="{{ negative.url }}" title="{{ negative.title }}">
-      <img src="/assets/film/thumbnails/{{ negative.url | replace: "/film/", "" | replace: "/", "" }}.jpg" alt="{{ negative.title }}" />
+      <img src="/assets/film/thumbnails/{{ negative.url | replace: "/film/", "" | replace: "/", "" }}.jpeg" alt="{{ negative.title }}" />
     </a>
   {% endfor %}
 </div>

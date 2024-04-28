@@ -14,4 +14,6 @@ gem "mini_magick"
 group :development do
   gem "pry"
   gem "pry-byebug"
+  gem "httparty"
+  gem "syntax_tree"
 end

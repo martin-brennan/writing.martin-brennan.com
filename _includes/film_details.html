@@ -1,4 +1,5 @@
 <table class="film-entry-details">
+  {% if page.camera %}
   <tr>
     <td><strong>Camera</strong></td>
     <td>{{page.camera}}</td>
@@ -11,10 +12,10 @@
     <td><strong>Stock</strong></td>
     <td>{{page.stock}}</td>
   </tr>
-  {% if page.approx_date %}
-    <tr>
-      <td><strong>Date</strong></td>
-      <td>{{page.approx_date}}</td>
-    </tr>
+  {% endif %} {% if page.approx_date %}
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>{{page.approx_date}}</td>
+  </tr>
   {% endif %}
 </table>
