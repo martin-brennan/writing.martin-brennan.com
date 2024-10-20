@@ -9,7 +9,7 @@ I am Martin Brennan, an Australian writer, and above all I enjoy writing genre f
 My published works and the manuscripts that I am currently working on are listed below, as well as an index of stories that I have written and posted on this blog, and links to various works in full. The links to my current manuscripts are knowledge bases where I write backstory and worldbuilding for these novels.
 </div>
 <div class="works-me" markdown="1">
-![Martin Brennan, Writer](/assets/me2.jpg)
+![Martin Brennan, Writer](/assets/me3.jpg)
 </div>
 </div>
 
