@@ -28,7 +28,7 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 * [[Ed Pembrook]]
 * [[Bill and Pete Hartley]]
 * [[William, Alice, and Elle Barr]]
-* [[Arthur and Molly Leyland]]
+* [[Rosemary and Arthur Leyland]]
 * [[Angie Watts]]
 * [[Anthony Watts]]
 * [[Elaine Northcote]]
