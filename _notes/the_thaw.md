@@ -32,6 +32,10 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 * [[Angie Watts]]
 * [[Anthony Watts]]
 * [[Elaine Northcote]]
+* [[Emily Alder]]
+* [[Andrea Cole]]
+* [[Benson]]
+* [[Lautner]]
 
 #### The King's Pirates
 
@@ -52,6 +56,8 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 #### The King's Slaves
 
 * [[Edie]]
+* [[Tabitha]]
+* [[Amos]]
 
 #### Gold Rushers
 
@@ -59,6 +65,7 @@ _The Thaw_ is a post-apocalyptic zombie survival novel set in the heart of Ameri
 * [[Tom the Rat]]
 * [[Edie]]
 * [[Lou]]
+* [[Vanessa]]
 
 #### Pinnacle Mountain Colonists
 
