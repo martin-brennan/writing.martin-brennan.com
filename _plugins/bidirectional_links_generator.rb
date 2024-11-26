@@ -111,9 +111,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
           .gsub(/\[\[([^\]]+)\]\]/i) do |match|
             link_text = $1.split("|").last # Take the part after the pipe
             <<~HTML.chomp
-      <span title='There is no note that matches this link.' class='invalid-link'>
-        #{link_text}
-      </span>
+      <span title='This knowledge has been lost to the sands of time, or has not yet been written into the annals of history.' class='invalid-link'>#{link_text}</span>
     HTML
           end
     end

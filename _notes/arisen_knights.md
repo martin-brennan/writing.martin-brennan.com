@@ -8,7 +8,7 @@ The Arisen Knights is used to both refer to a holy warrior order and the group o
 
 ### Jorm
 
-The first of the Arisen, who followed Alorn I from the very beginning in the streets of [[revana|Navostra]].
+The first of the Arisen, who followed Alorn I from the very beginning in the streets of [[Novostra]].
 
 > Jorm’s amber eyes were full of concern beneath the fine brows and long auburn hair. Jorm had a face that you immediately trusted, nobility without pride, caring without weakness, and strength without cruelty.
 
@@ -18,7 +18,7 @@ The first of the Arisen, who followed Alorn I from the very beginning in the str
 
 ### Lorhan
 
-> Lorhan, a mournful knight whose raven-dark hair fell in graceful curtains around golden eyes and high cheekbones. Lorhan was a descendent of the people of Palen the Smith in the south of Saralas, and he was dour and stoic like those ancestors who had delt among the mines and mountains.
+> Lorhan, a mournful knight whose raven-dark hair fell in graceful curtains around golden eyes and high cheekbones. Lorhan was a descendent of the people of Palen the Smith in the south of [[Saralas]], and he was dour and stoic like those ancestors who had dwelt among the mines and mountains.
 
 ### Bor
 
