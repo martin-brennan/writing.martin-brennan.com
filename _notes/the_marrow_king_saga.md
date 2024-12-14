@@ -20,4 +20,6 @@ Behold! The mighty [[Line of Torgond]] with my annotations (I’m still not cont
 
 The world is yet unnamed, though each continent has been discovered and named. [[Saralas]] plays an important part in the history of the kingdoms of the people of the east and south, and [[Zakour]] plays an important part in the history of the people of the west and the north.
 
+<a href="/assets/MarrowKingWorldMap.jpg" class="img-link">
 ![Rough map of the world of the Marrow King](/assets/MarrowKingWorldMap.jpg)
+</a>
