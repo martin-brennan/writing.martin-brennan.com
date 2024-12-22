@@ -45,7 +45,7 @@ _Bottom Feeders_ is a dark comedy crime drama novel set in a fictionalized Calif
 
 ### [[The Marrow King Saga]] (Concept stage)
 
-_The Marrow King Saga_ is a series of fantasy novels set in a yet-unnamed world made up of the kingdoms of Altor, Revana, Zakour, and Lacera.
+_The Marrow King Saga_ is a series of fantasy novels set in a yet-unnamed world made up of the kingdoms of [[Altor]], [[Revana]], [[Zakour]], and [[Lacera]].
 
 ### [[louisiana_dreamin|Louisiana Dreamin']] (Concept stage)
 
