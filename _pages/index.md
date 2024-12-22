@@ -29,7 +29,7 @@ I apologise, but I must attend to my [[The Thaw|current manuscript]] now. It's q
 
 </div>
   <div class="home__side">
-    <img alt="Desert with cactii. View Along the Gila. Cereus Giganteus. The botanical works of the late George Engelmann, collected for Henry Shaw, esq." src="/assets/cactusdesert.jpg" />
+    <img alt="Crossing of the Bosphorous by Godfrey" src="/assets/crossing-of-the-bosphorous.jpg" />
 
     <div markdown="1" class="latest-updates">
   

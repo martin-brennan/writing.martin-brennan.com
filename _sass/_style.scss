@@ -63,8 +63,21 @@ body {
   }
 
   &__side {
-    align-self: center;
     padding-top: 1.5em;
+
+    img {
+      border: 3px double rgb(255, 170, 40);
+    }
+  }
+}
+
+a.img-link {
+  text-decoration: none;
+  border-bottom: none;
+  padding: 0;
+
+  &:after {
+    content: "";
   }
 }
 
