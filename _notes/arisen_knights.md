@@ -22,5 +22,7 @@ The first of the Arisen, who followed Alorn I from the very beginning in the str
 
 ### Bor
 
+> Bor had once been a sailor in the paltry navy of Revana, and he had a deeply tanned face with neck muscles like whipcords, his bald head crisscrossed with tattoos of heavenly bodies.
+
 ### Telgor
 
