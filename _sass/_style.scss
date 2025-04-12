@@ -412,6 +412,10 @@ code {
   border: 1px dashed #ffcf87;
 }
 
+blockquote .invalid-link {
+  color: #ffcf87;
+}
+
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
