@@ -4,7 +4,7 @@ tags: [character]
 stories: [the_marrow_king_saga]
 ---
 
-The Arisen Knights is used to both refer to a holy warrior order and the group of five original followers of [[Alorn Torgond I]]. The original followers are named [[Jorm]], [[Telgor]], [[Ustor]], [[Lorhan]], and [[Bor]].
+The Arisen Knights is used to both refer to a holy warrior order and the group of five original followers of [[Alorn Torgond I]]. The original followers are named Jorm, Ustor, Lorhan, Bor, and Telgor.
 
 ### Jorm
 
@@ -26,4 +26,4 @@ The first of the Arisen, who followed Alorn I from the very beginning in the str
 
 ### Telgor
 
-> Telgor was a young scholar, once apprenticed and destined to become a theologian in service to the Abaas in the great library of Cantemir. A callow youth with fair hair and a pinched look from living the frugal life of a scholar, Telgor made up for his inexperience with religious zeal, and careful and considered counsel.
+> Telgor was a young scholar, once apprenticed and destined to become a theologian in service to the Abaas in the great library of Cantemir. A callow youth with fair hair and a pinched look from living the frugal life of a scholar, Telgor made up for his inexperience of life and military matters with religious zeal, and careful and considered counsel.
