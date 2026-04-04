@@ -7,7 +7,7 @@ permalink: /
 
 <div class="home">
 <div class="home__content" markdown="1">
-# Ah, a visitor from a distant land!
+# Hail, visitor from a distant land!
 
 Welcome, weary traveller. Take a seat, drink some water. You must be wondering what this place is. Answers will come in due time.
 

@@ -5,7 +5,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     graph_edges = []
 
     all_notes = site.collections["notes"].docs
-    all_films = site.collections["film"].docs
+    all_films = site.collections["film"]&.docs || []
     all_pages = site.pages
     all_posts = site.posts
 

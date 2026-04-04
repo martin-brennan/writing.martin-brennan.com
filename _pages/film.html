@@ -8,11 +8,21 @@ permalink: /film/
 
 <p>Earlier images were shot on my dad's old Chinon CM-4s, but since August 2022 I have been shooting on a Canon AE-1 Program.</p>
 
-<div class="film-thumbnail-container">
-  {% assign sorted_film = site.film | sort: "order" | reverse %}
-  {% for negative in sorted_film  %}
-    <a class="film-thumbnail-item internal-link" href="{{ negative.url }}" title="{{ negative.title }}">
-      <img src="/assets/film/thumbnails/{{ negative.url | replace: "/film/", "" | replace: "/", "" }}.jpeg" alt="{{ negative.title }}" />
+<link rel="stylesheet" href="/js/vendor/photoswipe.css">
+
+<div class="film-masonry">
+  {% assign sorted_film = site.data.film | sort: "order" | reverse %}
+  {% for photo in sorted_film %}
+    <a class="film-masonry-item"
+       href="/assets/film/{{ photo.slug }}.jpeg"
+       data-pswp-width="{{ photo.width }}"
+       data-pswp-height="{{ photo.height }}"
+       data-description="{{ photo.description | escape }}"
+       target="_blank">
+      <img src="/assets/film/thumbnails/{{ photo.slug }}.jpeg"
+           alt="{{ photo.title }}"
+           loading="lazy" />
+      <span class="film-caption-title">{{ photo.title }}</span>
     </a>
   {% endfor %}
 </div>
@@ -20,3 +30,5 @@ permalink: /film/
 <p markdown="1" class="small">
   I got the idea to do this from this <a href="https://news.ycombinator.com/item?id=30782578">hacker news thread</a>, specifically <a href="https://news.ycombinator.com/item?id=30799062">this comment by jeena</a>. The article is at <a href="https://devonzuegel.com/post/travel-photos-are-underrated">Travel photos are underrated</a>, and jeena's own photo grid <a href="https://jeena.net/photos">is over at their website</a>.
 </p>
+
+<script type="module" src="/js/film-gallery.js"></script>

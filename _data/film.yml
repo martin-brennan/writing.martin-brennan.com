@@ -1,0 +1,273 @@
+# Film photos - sorted by order (higher = newer, shown first)
+# To add a new photo:
+#   1. Drop image in assets/film/ and thumbnail in assets/film/thumbnails/
+#   2. Add an entry here with a unique slug matching the filename (without extension)
+#   3. Set width/height to the full-size image's pixel dimensions
+
+- slug: synced-film-24
+  title: Visby Spring
+  description: "Visby in the spring was a dream. Shot on Canon AE-1 with Kodak Portra 160."
+  width: 1080
+  height: 1364
+  order: 10023
+
+- slug: synced-film-23
+  title: Spring Flowers in Visby
+  description: "Spring bloom in Visby, Sweden. Shot on Canon AE-1 with Kodak Portra 160."
+  width: 1080
+  height: 792
+  order: 10022
+
+- slug: synced-film-22
+  title: Sunny Stockholm
+  description: "Enjoying the rare sun on a spring day in Stockholm. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
+  width: 1080
+  height: 1080
+  order: 10021
+
+- slug: synced-film-21
+  title: Visby Flowers
+  description: "Blossoms on the island of Visby, Sweden. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
+  width: 1080
+  height: 1364
+  order: 10020
+
+- slug: synced-film-20
+  title: Visby Sunset
+  description: "A splash of colour at sunset on Visby, Sweden. Shot on Canon AE-1 with Kodak Portra 160. Developed and scanned by Your Local Film Lab"
+  width: 1080
+  height: 1364
+  order: 10019
+
+- slug: synced-film-19
+  title: Cottage of Hearts
+  description: "Cottage of Hearts in Visby, Sweden. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
+  width: 1080
+  height: 810
+  order: 10018
+
+- slug: synced-film-18
+  title: School Pick-Up Visby
+  description: "School pick-up time in Visby, Sweden. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
+  width: 1080
+  height: 1080
+  order: 10017
+
+- slug: synced-film-17
+  title: Kista Pony II
+  description: "Another Swedish pony near Kista, outside Stockholm. Shot on Canon AE-1 with Kodak Gold 200. Developed and scanned by Your Local Film Lab"
+  width: 1080
+  height: 1350
+  order: 10016
+
+- slug: synced-film-16
+  title: Kista Pony I
+  description: "An urban pony near Kista, outside Stockholm. Shot on Canon AE-1 with Kodak Gold 200. Developed and scanned by Your Local Film Lab"
+  width: 1080
+  height: 771
+  order: 10015
+
+- slug: synced-film-15
+  title: Eiffel Tower Fog
+  description: "A foggy day at the Eiffel Tower. Shot on Canon AE-1 with Portra 400."
+  width: 1080
+  height: 1080
+  order: 10014
+
+- slug: synced-film-14
+  title: Jardin des Tuileries
+  description: "A splash of colour against the grey sky at Jardin des Tuileries. Shot on Canon AE-1 with Portra 400."
+  width: 1080
+  height: 1080
+  order: 10013
+
+- slug: synced-film-13
+  title: Parc Clichy-Batignolles - Martin Luther King
+  description: "Among the tall grass at Parc Clichy-Batignolles - Martin Luther King. Shot on Canon AE-1 with Portra 400. Developed and scanned by Your Local Film Lab"
+  width: 1080
+  height: 1364
+  order: 10012
+
+- slug: synced-film-12
+  title: "L'Orangerie"
+  description: "The Orangerie at Versailles. Shot on Canon AE-1 Program with Portra 400. Developed and scanned by Your Local Film Lab"
+  width: 1109
+  height: 1109
+  order: 10011
+
+- slug: synced-film-11
+  title: Madrid Cafe
+  description: "Opening time in Madrid. Shot on Canon AE-1 with Portra 160. Developed and scanned by Your Local Film Lab"
+  width: 1440
+  height: 1440
+  order: 10010
+
+- slug: synced-film-10
+  title: Versailles Flowers
+  description: "A riot of colour in Versailles. Shot on Canon AE-1 with Portra 400"
+  width: 1440
+  height: 1784
+  order: 10009
+
+- slug: synced-film-9
+  title: Parc Clichy-Batignolles - Martin Luther King II
+  description: "Parc Clichy-Batignolles - Martin Luther King in early June. Shot on Canon AE-1 with Portra 400"
+  width: 1440
+  height: 1046
+  order: 10008
+
+- slug: synced-film-8
+  title: Versailles Flowers II
+  description: "In bloom at Versailles. Shot on Canon AE-1 with Portra 400"
+  width: 1440
+  height: 1161
+  order: 10007
+
+- slug: synced-film-7
+  title: "Église Saint-Eustache"
+  description: "An afternoon in Paris near Église Saint-Eustache. Shot on Canon AE-1 with Cinestill 800T"
+  width: 1080
+  height: 1350
+  order: 10006
+
+- slug: synced-film-6
+  title: "Napoleon III's Suite"
+  description: "Napoleon III's salon in the Louvre. Shot on Canon AE-1 with Portra 400"
+  width: 1440
+  height: 1440
+  order: 10005
+
+- slug: synced-film-5
+  title: Louvre Sculptures
+  description: "A quiet moment in the Louvre. Shot on Canon AE-1 with Portra 400"
+  width: 1080
+  height: 1350
+  order: 10004
+
+- slug: synced-film-4
+  title: "La Basilique du Sacré Cœur de Montmartre"
+  description: "La Basilique du Sacré Cœur de Montmartre. Shot on Canon AE-1 with Portra 160"
+  width: 1080
+  height: 1350
+  order: 10003
+
+- slug: synced-film-3
+  title: Springtime In Paris
+  description: "Springtime vibes in Paris. Shot on Canon AE-1 with Portra 160"
+  width: 1080
+  height: 1364
+  order: 10002
+
+- slug: synced-film-2
+  title: "Lady Liberty in Musée d'Orsay"
+  description: "Lady Liberty in Musée d'Orsay. Shot on Canon AE-1 with Portra 160"
+  width: 1080
+  height: 1350
+  order: 10002
+
+- slug: synced-film-1
+  title: Paris Spring
+  description: "Somewhere near École Militaire on a perfect Paris spring day. Shot on Canon AE-1 with Portra 160"
+  width: 1080
+  height: 1350
+  order: 10000
+
+- slug: synced-film-0
+  title: Broncos
+  description: "Taken during halftime at a Broncos game at Suncorp. Shot on Canon AE-1 with Ilford Delta 400"
+  width: 1080
+  height: 1350
+  order: 10001
+
+- slug: 009-cunningham-sunset
+  title: Cunningham Sunset
+  description: 'Sunset over <a href="https://en.wikipedia.org/wiki/Cunninghams_Gap">Cunningham''s Gap</a>, which is a part of the <a href="https://en.wikipedia.org/wiki/Great_Dividing_Range">Great Dividing Range</a>, at my mother''s farm.'
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Fujifilm Superia X-TRA 400
+  width: 3024
+  height: 2005
+  order: 9
+
+- slug: 008-corn
+  title: Corn
+  description: "Corn growing at my mother's farm west of Ipswich, QLD."
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Fujifilm Superia X-TRA 400
+  width: 2851
+  height: 1890
+  order: 8
+
+- slug: 007-low-tide-dunes-2
+  title: Low Tide Dunes 2
+  description: "Another shot from the day out on the boat described in [[006-low-tide-dunes|Low Tide Dunes]]."
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Kodak Gold 200
+  width: 2005
+  height: 3024
+  order: 7
+
+- slug: 006-low-tide-dunes
+  title: Low Tide Dunes
+  description: 'My friend invited me to a day out on his boat in the waterways around <a href="https://en.wikipedia.org/wiki/South_Stradbroke_Island">South Stradbroke Island</a>. It was an excellent winter''s day and the weather was with us, the sun was out and there wasn''t too much wind or high swell. This was taken at <a href="https://en.wikipedia.org/wiki/Jumpinpin_Channel">Jumpinpin</a> which is an area that constantly shifts and changes due to the wind and the tide.'
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Kodak Gold 200
+  width: 3024
+  height: 2005
+  order: 6
+
+- slug: 005-olive
+  title: Olive
+  description: 'Our gorgeous dog Olive, relaxing in the park near our house. Named by my son Thomas after a character from the cartoon <a href="https://en.wikipedia.org/wiki/Justin_Time_(TV_series)">Justin Time</a>'
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Kodak Ultramax 400
+  width: 3100
+  height: 2214
+  order: 5
+
+- slug: 004-ferris-wheel
+  title: Ferris Wheel
+  description: "A ferris wheel set up each year at Bulcock Beach, Caloundra. One of the images from the second roll of film I shot."
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Kodak Ultramax 400
+  approx_date: August 2020
+  width: 2200
+  height: 3422
+  order: 4
+
+- slug: 003-fisherman-above
+  title: Fisherman Above
+  description: "The same fisherman from above, on a ferris wheel in Caloundra."
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Kodak Ultramax 400
+  approx_date: August 2020
+  width: 2722
+  height: 1758
+  order: 3
+
+- slug: 002-fisherman
+  title: Fisherman
+  description: 'A fisherman at <a href="https://www.sunshinecoast.qld.gov.au/Council/Local-Laws/Bulcock-Beach-Boardwalk">Bulcock Beach, Caloundra</a>, with the obscured <a href="https://parks.des.qld.gov.au/parks/glass-house-mountains">Glass House Mountains</a> and a fire burning in the background.'
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Kodak Ultramax 400
+  approx_date: August 2020
+  width: 2878
+  height: 2159
+  order: 2
+
+- slug: 001-harley-davidson
+  title: Harley Davidson
+  description: 'A Harley spotted out at Maleny, QLD. Each Saturday you will find many such machines cruising through the mountain towns in the Sunshine Coast Hinterland, though much tamer than the members of the [[crabs_motorcycle_club|Crabs MC]]. From what I can tell, I think it''s a <a href="https://en.wikipedia.org/wiki/Harley-Davidson_Super_Glide">Dyna Super Glide</a>.'
+  camera: Chinon CM-4s
+  lens: Chinon 50mm f1.9
+  stock: Kodak Ultramax 400
+  width: 2214
+  height: 3416
+  order: 1

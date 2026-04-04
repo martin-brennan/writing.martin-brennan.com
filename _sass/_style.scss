@@ -178,7 +178,8 @@ a {
   &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after,
-  &.nopreview:after {
+  &.nopreview:after,
+  &.film-masonry-item:after {
     content: normal;
   }
   &.nopreview-arcana:after {
@@ -458,82 +459,55 @@ ul {
   }
 }
 
-.film-thumbnail-container {
-  display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: repeat(8, 5vw);
-  grid-gap: 15px;
-  gap: 55px 10px;
-  padding: 10px;
+.film-masonry {
+  column-count: 3;
+  column-gap: 16px;
+  padding: 10px 0;
 
-  @media (max-width: 700px) {
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(8, 30vw);
-
-    .film-thumbnail-item {
-      padding: 0 !important;
-    }
+  @media (max-width: 1000px) {
+    column-count: 2;
   }
 
-  .film-thumbnail-item {
-    text-align: center;
-    padding: 20px 0;
-    font-size: 1em;
-    max-width: 120px;
-    border: 0;
-
-    &:hover {
-      background-color: transparent;
-    }
-
-    img {
-      max-width: 120px;
-      border: 2px solid transparent;
-
-      &:hover {
-        border: 2px solid $color-box-background-bold;
-      }
-    }
+  @media (max-width: 500px) {
+    column-count: 1;
   }
 }
 
-.film-container {
-  .image-full-link {
-    border: none;
-    padding: 0;
+.film-masonry-item {
+  break-inside: avoid;
+  display: block;
+  margin-bottom: 16px;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  border: 0;
+  border-radius: $border-radius;
+
+  &:hover {
+    background-color: transparent;
   }
 
-  .film-entry-image {
-    height: 80vh;
-    border-radius: 0;
-
-    @media (max-width: 700px) {
-      height: auto;
-    }
+  img {
+    width: 100%;
+    display: block;
+    border-radius: $border-radius;
   }
 
-  .film-entry-description {
-    width: 60%;
-    margin: 0 auto;
-    text-align: center;
-
-    @media (max-width: 700px) {
-      width: 100%;
-    }
+  .film-caption-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+    color: #fff;
+    padding: 2em 0.8em 0.8em;
+    font-family: $font-family;
+    font-size: 0.85em;
+    opacity: 0;
+    transition: opacity 0.2s;
   }
 
-  .film-entry-details {
-    margin: 0 auto;
-    border-collapse: collapse;
-    border: 1px solid #e9e6e1;
-    margin-top: 2em;
-
-    tr:nth-child(even) {
-      background: #e9e6e1;
-    }
-
-    td {
-      padding: 0 1em;
-    }
+  &:hover .film-caption-title {
+    opacity: 1;
   }
 }
