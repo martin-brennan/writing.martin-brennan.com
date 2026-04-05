@@ -460,24 +460,13 @@ ul {
 }
 
 .film-masonry {
-  column-count: 3;
-  column-gap: 16px;
+  position: relative;
   padding: 10px 0;
-
-  @media (max-width: 1000px) {
-    column-count: 2;
-  }
-
-  @media (max-width: 500px) {
-    column-count: 1;
-  }
 }
 
 .film-masonry-item {
-  break-inside: avoid;
   display: block;
-  margin-bottom: 16px;
-  position: relative;
+  position: absolute;
   cursor: pointer;
   overflow: hidden;
   border: 0;
