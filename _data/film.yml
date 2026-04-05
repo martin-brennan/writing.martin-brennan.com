@@ -4,6 +4,27 @@
 #   2. Add an entry here with a unique slug matching the filename (without extension)
 #   3. Set width/height to the full-size image's pixel dimensions
 
+- slug: 000034_noframe
+  title: Visby Spring 2
+  description: "Another shot of Visby in the spring 🌷 . Shot on Canon AE-1 with Kodak Portra 160"
+  width: 4049
+  height: 3036
+  order: 10024
+
+- slug: 000030_noframe
+  title: Fiskarporten, Visby
+  description: "Waiting for her fisherman to come home at Fiskarporten, Visby. Shot on Canon AE-1 with Kodak Portra 160"
+  width: 3328
+  height: 4161
+  order: 10024
+
+- slug: 000017_noframe
+  title: House on the hill, Donso
+  description: "House on the hill in Donso, Sweden, an island near Goteborg. Shot on Canon AE-1 with Kodak Portra 160"
+  width: 3370
+  height: 3370
+  order: 10024
+
 - slug: synced-film-24
   title: Visby Spring
   description: "Visby in the spring was a dream. Shot on Canon AE-1 with Kodak Portra 160."
