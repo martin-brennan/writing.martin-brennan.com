@@ -4,6 +4,27 @@
 #   2. Add an entry here with a unique slug matching the filename (without extension)
 #   3. Set width/height to the full-size image's pixel dimensions
 
+- slug: 000013_noframe
+  title: "Utpost Hållö 2"
+  description: "The main buildings of Utpost Hållö, next to the hostel cabins where my friend Joffrey and I stayed in May 2023. Hållö is a pink granite island near Smögen in Sweden. Shot on Canon AE-1 with Kodak Portra 160"
+  width: 5073
+  height: 3394
+  order: 10027
+
+- slug: 000014_noframe
+  title: "Utpost Hållö 1"
+  description: "Looking towards the main buildings of Utpost Hållö from the rocks. Hållö is a pink granite island near Smögen in Sweden. Shot on Canon AE-1 with Kodak Portra 160"
+  width: 3444
+  height: 4306
+  order: 10026
+
+- slug: 000023_noframe
+  title: Ferry to Donsö
+  description: "On the ferry to Donsö, an island near Goteborg on a beautiful Swedish spring day. Shot on Canon AE-1 with Kodak Portra 160"
+  width: 4457
+  height: 3342
+  order: 10025
+
 - slug: 000034_noframe
   title: Visby Spring 2
   description: "Another shot of Visby in the spring 🌷 . Shot on Canon AE-1 with Kodak Portra 160"
