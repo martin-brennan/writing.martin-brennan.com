@@ -44,10 +44,25 @@ function layoutMasonry() {
   });
 
   container.style.height = Math.max(...colHeights) - gap + "px";
+  container.classList.add("film-masonry-ready");
 }
 
 layoutMasonry();
 window.addEventListener("resize", layoutMasonry);
+
+// Fade in images as they load and remove the skeleton shimmer.
+document.querySelectorAll(".film-masonry-item img").forEach((img) => {
+  if (img.complete) {
+    img.closest(".film-masonry-item").classList.add("loaded");
+  } else {
+    img.addEventListener("load", () => {
+      img.closest(".film-masonry-item").classList.add("loaded");
+    });
+    img.addEventListener("error", () => {
+      img.closest(".film-masonry-item").classList.add("loaded");
+    });
+  }
+});
 
 const lightbox = new PhotoSwipeLightbox({
   gallery: ".film-masonry",
