@@ -68,19 +68,23 @@ if __FILE__ == $PROGRAM_NAME
   end
 
   if new_yml_entries.any?
-    File.open(YAML_PATH, "a") do |f|
-      new_yml_entries.each do |e|
-        f.write <<~YAML
+    new_block = new_yml_entries.sort_by { |e| -e[:order] }.map { |e|
+      <<~YAML
+        - slug: "#{e[:slug]}"
+          title: ""
+          description: ""
+          width: #{e[:width]}
+          height: #{e[:height]}
+          order: #{e[:order]}
 
-          - slug: "#{e[:slug]}"
-            title: ""
-            description: ""
-            width: #{e[:width]}
-            height: #{e[:height]}
-            order: #{e[:order]}
-        YAML
-      end
-    end
+      YAML
+    }.join
+
+    text = File.read(YAML_PATH)
+    first_entry_idx = text.index(/^- slug:/)
+    abort "Could not find first entry in #{YAML_PATH}" unless first_entry_idx
+    text = text[0...first_entry_idx] + new_block + text[first_entry_idx..]
+    File.write(YAML_PATH, text)
   end
 
   puts ""

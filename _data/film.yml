@@ -1,232 +1,239 @@
 # Film photos - sorted by order (higher = newer, shown first).
 # To add a new photo: drop the full-size image in assets/film/ and run
-# `ruby manage_film.rb` — this generates the thumbnail and appends a new
-# entry below with slug/width/height/order prefilled. Then fill in title
-# and description by hand.
+# `ruby manage_film.rb` — this generates the thumbnail and inserts a new
+# entry at the top of this file with slug/width/height/order prefilled.
+# Then fill in title and description by hand.
+
+- slug: "000042"
+  title: "Utpost Hållö 4"
+  description: "A late sunset on the western side of Hållö. Shot on Canon AE-1 with Kodak Portra 160"
+  width: 3554
+  height: 5330
+  order: 42
 
 - slug: "000041"
   title: "Utpost Hållö 3"
   description: "The lightpost on the island of Hållö, which was the original structure on the island. Shot on Canon AE-1 with Kodak Portra 160"
   width: 5070
   height: 3390
-  order: 10028
+  order: 41
 
 - slug: "000040"
   title: "Utpost Hållö 2"
   description: "The main buildings of Utpost Hållö, next to the hostel cabins where my friend Joffrey and I stayed in May 2023. Hållö is a pink granite island near Smögen in Sweden. Shot on Canon AE-1 with Kodak Portra 160"
   width: 5073
   height: 3394
-  order: 10027
+  order: 40
 
 - slug: "000039"
   title: "Utpost Hållö 1"
   description: "Looking towards the main buildings of Utpost Hållö from the rocks. Hållö is a pink granite island near Smögen in Sweden. Shot on Canon AE-1 with Kodak Portra 160"
   width: 3444
   height: 4306
-  order: 10026
+  order: 39
 
 - slug: "000038"
   title: Ferry to Donsö
   description: "On the ferry to Donsö, an island near Goteborg on a beautiful Swedish spring day. Shot on Canon AE-1 with Kodak Portra 160"
   width: 4457
   height: 3342
-  order: 10025
+  order: 38
 
 - slug: "000037"
   title: Visby Spring 2
   description: "Another shot of Visby in the spring 🌷 . Shot on Canon AE-1 with Kodak Portra 160"
   width: 4049
   height: 3036
-  order: 10024
+  order: 37
 
 - slug: "000036"
   title: Fiskarporten, Visby
   description: "Waiting for her fisherman to come home at Fiskarporten, Visby. Shot on Canon AE-1 with Kodak Portra 160"
   width: 3328
   height: 4161
-  order: 10024
+  order: 36
 
 - slug: "000035"
   title: House on the hill, Donso
   description: "House on the hill in Donso, Sweden, an island near Goteborg. Shot on Canon AE-1 with Kodak Portra 160"
   width: 3370
   height: 3370
-  order: 10024
+  order: 35
 
 - slug: "000034"
   title: Visby Spring
   description: "Visby in the spring was a dream. Shot on Canon AE-1 with Kodak Portra 160."
   width: 1080
   height: 1364
-  order: 10023
+  order: 34
 
 - slug: "000033"
   title: Spring Flowers in Visby
   description: "Spring bloom in Visby, Sweden. Shot on Canon AE-1 with Kodak Portra 160."
   width: 1080
   height: 792
-  order: 10022
+  order: 33
 
 - slug: "000032"
   title: Sunny Stockholm
   description: "Enjoying the rare sun on a spring day in Stockholm. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
   width: 1080
   height: 1080
-  order: 10021
+  order: 32
 
 - slug: "000031"
   title: Visby Flowers
   description: "Blossoms on the island of Visby, Sweden. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
   width: 1080
   height: 1364
-  order: 10020
+  order: 31
 
 - slug: "000030"
   title: Visby Sunset
   description: "A splash of colour at sunset on Visby, Sweden. Shot on Canon AE-1 with Kodak Portra 160. Developed and scanned by Your Local Film Lab"
   width: 1080
   height: 1364
-  order: 10019
+  order: 30
 
 - slug: "000029"
   title: Cottage of Hearts
   description: "Cottage of Hearts in Visby, Sweden. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
   width: 1080
   height: 810
-  order: 10018
+  order: 29
 
 - slug: "000028"
   title: School Pick-Up Visby
   description: "School pick-up time in Visby, Sweden. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
   width: 1080
   height: 1080
-  order: 10017
+  order: 28
 
 - slug: "000027"
   title: Kista Pony II
   description: "Another Swedish pony near Kista, outside Stockholm. Shot on Canon AE-1 with Kodak Gold 200. Developed and scanned by Your Local Film Lab"
   width: 1080
   height: 1350
-  order: 10016
+  order: 27
 
 - slug: "000026"
   title: Kista Pony I
   description: "An urban pony near Kista, outside Stockholm. Shot on Canon AE-1 with Kodak Gold 200. Developed and scanned by Your Local Film Lab"
   width: 1080
   height: 771
-  order: 10015
+  order: 26
 
 - slug: "000025"
   title: Eiffel Tower Fog
   description: "A foggy day at the Eiffel Tower. Shot on Canon AE-1 with Portra 400."
   width: 1080
   height: 1080
-  order: 10014
+  order: 25
 
 - slug: "000024"
   title: Jardin des Tuileries
   description: "A splash of colour against the grey sky at Jardin des Tuileries. Shot on Canon AE-1 with Portra 400."
   width: 1080
   height: 1080
-  order: 10013
+  order: 24
 
 - slug: "000023"
   title: Parc Clichy-Batignolles - Martin Luther King
   description: "Among the tall grass at Parc Clichy-Batignolles - Martin Luther King. Shot on Canon AE-1 with Portra 400. Developed and scanned by Your Local Film Lab"
   width: 1080
   height: 1364
-  order: 10012
+  order: 23
 
 - slug: "000022"
   title: "L'Orangerie"
   description: "The Orangerie at Versailles. Shot on Canon AE-1 Program with Portra 400. Developed and scanned by Your Local Film Lab"
   width: 1109
   height: 1109
-  order: 10011
+  order: 22
 
 - slug: "000021"
   title: Madrid Cafe
   description: "Opening time in Madrid. Shot on Canon AE-1 with Portra 160. Developed and scanned by Your Local Film Lab"
   width: 1440
   height: 1440
-  order: 10010
+  order: 21
 
 - slug: "000020"
   title: Versailles Flowers
   description: "A riot of colour in Versailles. Shot on Canon AE-1 with Portra 400"
   width: 1440
   height: 1784
-  order: 10009
+  order: 20
 
 - slug: "000019"
   title: Parc Clichy-Batignolles - Martin Luther King II
   description: "Parc Clichy-Batignolles - Martin Luther King in early June. Shot on Canon AE-1 with Portra 400"
   width: 1440
   height: 1046
-  order: 10008
+  order: 19
 
 - slug: "000018"
   title: Versailles Flowers II
   description: "In bloom at Versailles. Shot on Canon AE-1 with Portra 400"
   width: 1440
   height: 1161
-  order: 10007
+  order: 18
 
 - slug: "000017"
   title: "Église Saint-Eustache"
   description: "An afternoon in Paris near Église Saint-Eustache. Shot on Canon AE-1 with Cinestill 800T"
   width: 1080
   height: 1350
-  order: 10006
+  order: 17
 
 - slug: "000016"
   title: "Napoleon III's Suite"
   description: "Napoleon III's salon in the Louvre. Shot on Canon AE-1 with Portra 400"
   width: 1440
   height: 1440
-  order: 10005
+  order: 16
 
 - slug: "000015"
   title: Louvre Sculptures
   description: "A quiet moment in the Louvre. Shot on Canon AE-1 with Portra 400"
   width: 1080
   height: 1350
-  order: 10004
+  order: 15
 
 - slug: "000014"
   title: "La Basilique du Sacré Cœur de Montmartre"
   description: "La Basilique du Sacré Cœur de Montmartre. Shot on Canon AE-1 with Portra 160"
   width: 1080
   height: 1350
-  order: 10003
+  order: 14
 
 - slug: "000013"
   title: Springtime In Paris
   description: "Springtime vibes in Paris. Shot on Canon AE-1 with Portra 160"
   width: 1080
   height: 1364
-  order: 10002
+  order: 13
 
 - slug: "000012"
   title: "Lady Liberty in Musée d'Orsay"
   description: "Lady Liberty in Musée d'Orsay. Shot on Canon AE-1 with Portra 160"
   width: 1080
   height: 1350
-  order: 10002
+  order: 12
 
 - slug: "000010"
   title: Paris Spring
   description: "Somewhere near École Militaire on a perfect Paris spring day. Shot on Canon AE-1 with Portra 160"
   width: 1080
   height: 1350
-  order: 10000
+  order: 11
 
 - slug: "000011"
   title: Broncos
   description: "Taken during halftime at a Broncos game at Suncorp. Shot on Canon AE-1 with Ilford Delta 400"
   width: 1080
   height: 1350
-  order: 10001
+  order: 10
 
 - slug: "000009"
   title: Cunningham Sunset
