@@ -2,7 +2,7 @@
 
 require "pry"
 require "httparty"
-require_relative "./film_thumbnails.rb"
+require_relative "./manage_film.rb"
 
 INSTA_API = "https://graph.instagram.com/"
 
