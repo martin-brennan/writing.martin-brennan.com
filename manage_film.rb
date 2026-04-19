@@ -72,7 +72,7 @@ if __FILE__ == $PROGRAM_NAME
       new_yml_entries.each do |e|
         f.write <<~YAML
 
-          - slug: #{e[:slug]}
+          - slug: "#{e[:slug]}"
             title: ""
             description: ""
             width: #{e[:width]}
