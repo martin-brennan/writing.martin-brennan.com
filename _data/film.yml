@@ -4,6 +4,48 @@
 # entry at the top of this file with slug/width/height/order prefilled.
 # Then fill in title and description by hand.
 
+- slug: "000048"
+  title: "Park Güell 2"
+  description: "One of the houses inside Park Güell in Barcelona. Shot on Canon AE-1 with Kodak Portra 400"
+  width: 3340
+  height: 4175
+  order: 48
+
+- slug: "000047"
+  title: "Park Güell 1"
+  description: "Park Güell in Barcelona. Shot on Canon AE-1 with Kodak Portra 400"
+  width: 4016
+  height: 3012
+  order: 47
+
+- slug: "000046"
+  title: "Le Dauphin"
+  description: "A denoised night photo of Paris, it's blurry but I like the vibe and colours of it. Shot on Canon AE-1 with Cinestill 800T"
+  width: 4589
+  height: 3440
+  order: 46
+
+- slug: "000045"
+  title: "Stockholm Tugboat"
+  description: "A little tugboat in Stockholm. Shot on Canon AE-1 with FilmNeverDie Yoru 400"
+  width: 3601
+  height: 4800
+  order: 45
+
+- slug: "000044"
+  title: "Cottage of Hearts"
+  description: "Cottage of Hearts in Visby, Sweden. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
+  width: 4254
+  height: 2858
+  order: 44
+
+- slug: "000043"
+  title: "Visby Walls"
+  description: "The city walls of Visby. Shot on Canon AE-1 with FilmNeverDie Yoru 400"
+  width: 5212
+  height: 3502
+  order: 43
+
 - slug: "000042"
   title: "Utpost Hållö 4"
   description: "A late sunset on the western side of Hållö. Shot on Canon AE-1 with Kodak Portra 160"
@@ -94,13 +136,6 @@
   width: 1080
   height: 1364
   order: 30
-
-- slug: "000029"
-  title: Cottage of Hearts
-  description: "Cottage of Hearts in Visby, Sweden. Shot on Canon AE-1 with Yoru FilmNeverDie 400."
-  width: 1080
-  height: 810
-  order: 29
 
 - slug: "000028"
   title: School Pick-Up Visby
